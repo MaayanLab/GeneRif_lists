@@ -1,0 +1,27 @@
+alimentary_system_development_variant	set-2	htz-1	fbl-1	pha-4	hpl-1	ENTREZID:286789
+alimentary_system_morphology_variant	set-2	htz-1	fbl-1	pha-4	hpl-1	ENTREZID:286789
+alimentary_system_physiology_variant	set-2	htz-1	fbl-1	pha-4	hpl-1	ENTREZID:286789
+cell_component_localization_variant	knl-2	sol-1	lin-53	glr-1	hcp-3	pdr-1	htz-1	ketn-1
+cell_component_morphology_variant	sep-1	knl-2	lin-53	unc-52	set-2	hcp-3	htz-1	epi-1	hpl-1	sad-1	uev-3	cpar-1	cpx-1	htas-1	ENTREZID:286789
+cell_cycle_variant	sep-1	lin-53	cdc-14	zyg-11	top-2	knl-1	hcp-3	his-72	mdf-1	his-71	cpar-1	ENTREZID:286789	knl-2
+cell_differentiation_variant	set-2	his-72	htz-1	mys-1	ceh-22	his-71	hpl-1
+cell_division_variant	sep-1	knl-2	lin-53	zyg-11	top-2	knl-1	hcp-3	his-72	mdf-1	his-71	uev-3	cpar-1	htas-1	ENTREZID:286789
+cell_growth_variant	cdc-14	top-2	set-2	htz-1	fbl-1	hpl-1	ENTREZID:286789	rom-1
+cell_membrane_physiology_variant	sol-1	sol-2	uev-1	del-10	unc-52	fbl-1	epi-1	sad-1	uev-3	rom-1	ENTREZID:286789	glr-1
+cell_position_defective	ipla-1	spon-1	acl-8	acl-9	bus-18
+cell_size_decreased	C30F12.4	unc-104	top-2	sar-1	arl-8	atg-9	rab-10
+cell_type_morphology_variant	sep-1	knl-2	lin-53	cdc-14	hcp-3	htz-1	mys-1	ceh-22	cpar-1	htas-1
+developmental_morphology_variant	cdc-14	set-2	lin-13	hpl-2	fbl-1	mys-1	ceh-22	pha-4	hpl-1	sad-1	htas-1	ENTREZID:286789	rom-1	htz-1
+embryonic_cell_physiology_variant	knl-2	lin-53	polh-1	set-2	knl-1	hcp-3	his-72	his-71	hpl-1	htas-1
+embryonic_development_variant	knl-2	lin-53	zyg-11	polh-1	set-2	lin-13	hcp-3	hpl-2	his-72	mys-1	ceh-22	pha-4	his-71	hpl-1	sad-1	htas-1	htz-1
+epithelial_cell_physiology_variant	sol-2	del-10	glr-1	dop-4	dop-3
+genetic_pathway_variant	sys-1	lin-13	hpl-2	uev-3	ENTREZID:286789	rom-1
+germ_cell_physiology_variant	sep-1	sol-1	sol-2	polh-1	set-2	his-72	mdf-1	his-71	hpl-1	cpar-1	htas-1	ENTREZID:286789	glr-1
+nervous_system_morphology_variant	unc-52	epi-1	sad-1	uev-3	cpx-1
+nervous_system_physiology_variant	sol-1	unc-13	mec-8	sol-2	Y59C2A.2	del-10	exc-7	asd-1	fox-1	mps-1	cpx-1	glr-1
+neuron_physiology_variant	unc-13	sol-2	uev-1	ptb-1	unc-52	daf-2	epi-1	sad-1	mps-1	uev-3	glr-1
+nuclear_division_variant	sep-1	knl-2	lin-53	apn-1	top-2	knl-1	hcp-3	mdf-1	cpar-1	ENTREZID:286789
+oocyte_physiology_variant	sep-1	sol-1	sol-2	del-10	set-2	hpl-1	cpar-1	htas-1	ENTREZID:286789	glr-1
+reproductive_system_development_variant	cdc-14	unc-52	polh-1	set-2	lin-13	hpl-2	his-72	htz-1	fbl-1	epi-1	mys-1	ceh-22	his-71	hpl-1	htas-1	ENTREZID:286789	rom-1
+reproductive_system_morphology_variant	sep-1	cdc-14	unc-52	polh-1	set-2	lin-13	hpl-2	htz-1	fbl-1	epi-1	mys-1	ceh-22	hpl-1	cpar-1	htas-1	rom-1	ENTREZID:286789
+reproductive_system_physiology_variant	sep-1	sol-1	sol-2	cdc-14	unc-52	polh-1	set-2	lin-13	hpl-2	his-72	htz-1	epi-1	mys-1	ceh-22	his-71	hpl-1	cpar-1	htas-1	ENTREZID:286789	glr-1

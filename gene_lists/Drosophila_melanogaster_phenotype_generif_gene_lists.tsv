@@ -1,0 +1,32 @@
+aging_defective	mir-34	ush	dpp	gkt	Rack1	Aldh	p38b	EcR	Lis-1	ENTREZID:3771764	lov	rho	Ubx	Dad	TBPH
+behavior_defective	Vinc	wupA	Btk29A	ppk	Ku80	Rho1	rho	ppk26	rg
+cell_adhesion_defective	ENTREZID:192347	vnd	Vinc	dpp	Set1	GluRIIA	GluRIIB	shg	Bre1	foi	Nrt	hid	Ama	Pak	Abl
+cell_cycle_defective	mir-285	Fancd2	N	sau	dpp	numb	l(2)gd1	Mlh1	TER94	AGO1	CalpA	insc	yki	Ptp61F	ens	brm	PR-Set7	Stat92E	mask	ENTREZID:192347
+cell_death_defective	Fancd2	Marf	alpha-PheRS	Atg16	Mtor	AGO1	wac	hid	rept	park	Crz	beta-PheRS	Acf	Tor	pont	ENTREZID:192347	Pink1
+cell_growth_defective	mir-285	Fancd2	dpp	GluRIIA	GluRIIB	Wwox	salr	drosha	AGO1	Egfr	dve	yki	Ptp61F	mirr	brm	Ubx	Dad	Stat92E	hh	pasha	Pak	mask	ENTREZID:192347
+cell_lethal	Hira	l(2)gl	chinmo	tra	asf1	nos	Pten	aPKC
+cell_migration_defective	Rala	Pink1	pico	Col4a1	SCAR	Mhc	Buffy	Lis-1	Egfr	lov	Ptp61F	LanB2	Cep135	brm	park	14-3-3epsilon	Stat92E
+cell_number_defective	sgg	GluRIIA	GluRIIB	Mhc	Hr39	drosha	Mlh1	AGO1	Cep135	blp	14-3-3epsilon	pasha	Actbeta	Spase12	bor	Egfr
+cell_polarity_defective	N	Rala	par-6	Uvrag	Mhc	hpo	Egfr	dve	Pi3K59F	ndl	pip	Atg6	crb	aPKC	scrib
+cell_shape_defective	Pink1	dpp	Col4a1	salr	Mhc	EcR	AGO1	Egfr	dve	TBPH	mirr	park	tgo	hyd	mask	Spase12
+cell_size_defective	mir-285	ENTREZID:192347	N	alpha-PheRS	pico	GluRIIA	GluRIIB	SCAR	AGO1	clu	hpo	yki	Akt1	beta-PheRS	zfh2	Actbeta	aPKC	mask	Spase12
+chemical_sensitive	Ir21a	Ir25a	mle	TrpA1	Gclc
+circadian_rhythm_defective	per	N	numb	Rho1	insc	CRMP	NPF	tim
+decreased_fecundity	mir-9a	Myc	Sirt4	DCTN2-p50	Tor
+endocytosis_defective	ENTREZID:192347	Liprin-alpha	N	Atg16	Rab5	dpp	l(2)gd1	Uvrag	Mtor	Pi3K59F	wac	rept	Crz	hh	Atg6	awd	RhoGAP100F	scrib	Tor	tws	pont
+female_fertile	Sirt4	Hira	chinmo	Mlh1	tra	asf1
+fertile	Sirt4	Hira	chinmo	Mlh1	tra	asf1
+grandchildless	AGO3	piwi	aub	csul
+homeotic	fs(1)h	stx	eya	Lim3	ap	pita	Nplp1	CTCF	trx	Keap1	cnc	ey	tara	Pc
+hyperactive	sc	Vinc	da	ITP	Ptp61F	DCP2	wts	Atf3
+immune_response_defective	olf186-F	Ptp61F	Rac2	AGO2	brm	park	Stat92E	imd	Spase12	Tl
+male_fertile	Sirt4	Hira	chinmo	Mlh1	tra	asf1
+modifier_of_variegation	His3:CG31613	CG8878	Ravus	eIF2gamma	mod(mdg4)
+neurogenic_phenotype	pcx	Su(H)	Hip1	CtBP	H	gro	ENTREZID:47864	N	ed
+paralytic	Ppt1	para	Syb	alphaSnap	Tusp	comt	SERCA	cpx
+radiation_resistant	Fancd2	per	Myc	tim	wg	esc	Gadd45	E(Pc)	Clk	cyc	Stat92E
+radiation_sensitive	tim	Pld	TrpA1	Crtc	Rh7
+sensory_perception_defective	ppk	pain	ppk26	lush	Or83c	trp
+size_defective	mir-285	ENTREZID:192347	N	alpha-PheRS	pico	GluRIIA	GluRIIB	SCAR	AGO1	clu	hpo	yki	Akt1	beta-PheRS	zfh2	Actbeta	aPKC	mask	Spase12
+sterile	fs(1)Yb	chinmo	prd	EcR	armi	tra
+stress_response_defective	Marf	Pink1	sesB	LIMK1	Atg16	TER94	AGO1	Hsf	pain	park	tgo	Crz	CycG

@@ -1,0 +1,26 @@
+anterior-posterior	src-1	lin-44	spd-2	dsh-1	lin-5	lat-1	par-2	egl-5	sas-7	let-99	ENTREZID:286789
+dorsal-ventral	mig-1	let-502	madd-4	rga-2	unc-130	unc-129	arr-1	vang-1	sax-3	unc-6	dgn-1	ENTREZID:286789
+midbody	air-2	cep-1	lem-3	par-6	daf-2	par-3	lin-39	ani-1	elt-6	mig-38	nck-1	mig-15	dyn-1	ENTREZID:286789	lin-26
+digestive_tract	ins-11	elt-7	sid-1	elt-2	rict-1
+reproductive_tract	inx-14	daf-16	rsks-1	nhr-114	aak-2	spe-45	ENTREZID:286789	mir-259	srb-13
+gonadal_primordium	hlh-2	lin-12	glp-1	mig-38	nck-1	mig-15	hnd-1	dsh-2	ENTREZID:286789
+nose	daf-16	glr-1	egl-19	cng-1	slo-1	unc-2	sox-2	slo-2	npr-9	srb-13
+dorsal_nerve_cord	cdk-8	sod-1	enu-3.1	endu-2	ENTREZID:286789	unc-6	oig-1
+cuticle	lpr-1	cdc-42	act-1	lpr-3	sid-3
+basal_lamina	daf-16	rab-3	spon-1	cdc-42	unc-52	lin-39	mab-5	egl-5	ost-1	gdi-1	nid-1	aex-3
+excretory_canal	unc-73	pigv-1	ccm-3	daf-7	ral-1	abi-1	exc-5	gtl-2	hmit-1.1	hmit-1.2	aqp-8	erm-1	let-60
+excretory_duct	ekl-1	ces-2	atf-2	nphp-1	let-653	nphp-4	mls-2	lpr-3	lpr-1	let-60
+excretory_pore	lpr-1	nphp-1	nphp-4	mls-2	plep-1	let-60
+pharyngeal_lumen	chs-1	lam-3	chs-2	lec-6	wrt-5	lec-10	calu-1	pgp-5	hlh-6	ceh-28
+hook	gld-2	gld-1	mab-5	ccf-1	sut-2	let-413	dop-2	dlg-1	ajm-1	lin-2	unc-7	lip-1	fbf-1
+nerve_ring	ENTREZID:13192684	unc-40	pfn-1	cam-1	cwn-2	madd-2	dnj-14	mls-2	unc-6	vab-3	hlh-16	hlh-17	sup-1	ENTREZID:286789
+sensillum	unc-40	smp-1	pvf-1	mab-5	ced-10	dop-2	nphp-4	unc-6	vab-3	lin-2	unc-7	mks-3	ENTREZID:286789
+sex_organ	hlh-2	cdc-48.1	pat-2	ina-1	tra-1	cul-2	fox-1	sup-12	vab-3	egl-15	ENTREZID:286789
+female	lem-3	cdk-11.1	csr-1	cyl-1	cdk-11.2
+pharyngeal_nerve	tol-1	unc-73	rnf-1	pfn-1	ast-1	shn-1	tbx-2	hlh-11	tax-6	rft-2	crt-1	glit-1	tyra-2	rft-1
+pharyngeal_nerve_process	unc-73	unc-119	unc-61	unc-51	sax-3	unc-6	ENTREZID:268063
+metacorpus	unc-73	unc-119	unc-61	unc-51	sax-3	unc-6	ENTREZID:268063
+isthmus	unc-73	pyr-1	unc-119	unc-61	unc-51	ser-7	sax-3	unc-6	pha-2	ENTREZID:268063	ceh-28
+pharyngeal-intestinal_valve	daf-16	rsks-1	wrt-5	nnt-1	lec-8	aak-2	mir-259
+somatic_gonad_	let-502	fhod-1	vpr-1	glh-1	hlh-2	pash-1	alg-2	cacn-1	exc-6	mlc-4	unc-119	apx-1	pgl-3	irg-7	daf-12	alg-1	ENTREZID:286789	daf-16	pgl-1
+ventral_nerve_cord	lin-17	rab-3	cam-1	sup-26	glr-1	enu-3.1	cmk-1	aex-3	vang-1	sax-3	unc-6	oig-1

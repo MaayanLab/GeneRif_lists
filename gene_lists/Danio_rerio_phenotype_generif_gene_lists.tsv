@@ -1,0 +1,1193 @@
+B_cell_activation	bcl10	cd209	ENTREZID:192346	rag1	havcr1	ighz	tshr	gdf6a	cd79a	aicda
+B_cell_differentiation	etv7	il7r	meis1b	ENTREZID:192346	mab21l1	id3	neurog1	irx1a	stmn4	klf7a	agtpbp1	tshr	ebf3a	eps15l1a	fabp7a	cd79a
+BMP_signaling_pathway	akt1	chrd	nr2f1a	vrtn	gdf6a	bmp2b
+CNS_interneuron	efnb2a	tbx16	brd2a	med27	eno2	nkx6.1	lmx1bb	lmx1ba	ENTREZID:573464	ENTREZID:573477
+CaP_motoneuron	isl1	isl2a	cdh2	mnx1	nkx6.1	dpysl3	dpysl2b	prdm14	nkx6.2	notum2	scn8aa	tpcn2
+CoPA	vangl2	tbx16	scrib	ncstn	fzd3a
+DNA_damage_checkpoint	ENTREZID:192346	ahctf1	gon4l	ogg1	tp53
+DNA_demethylation	pou6f2	mbd4	tet3	ube2ia	ENTREZID:192346	unga	aicda	tet2
+DNA_hypomethylation	mbd4	cebpa	hsp90aa1.1	aicda	dnmt1	uhrf1
+DNA_methylation_on_cytosine	tet2	tet3	cebpa	uhrf1	hells	dnmt1
+DNA_replication_checkpoint	zgc:165502	cdkn1d	dtl	ENTREZID:192346	prim1	uhrf1	ahctf1	gon4l	cdt1	tp53
+EVL	klf2a	klf2b	chuk	irf6	epcam	cfl1l	myh10	klf17	cldne	pou5f3
+GABAergic_neuron	nr4a2a	evx2	evx1	dlx1a	dlx5a	dlx2a	dlx6a
+GABAergic_neuron_differentiation	nr4a2a	her6	dlx5a	dlx6a	fezf2	fgf16
+GTP_biosynthetic_process	kctd13	mir722	itga8	cdh2	gnb1a	pcdh15a	rac2	srgap2	cc2d2a	rab8a
+Golgi_to_plasma_membrane_protein_transport	cep83	ENTREZID:192346	rab10	sec24d	tapt1b	stx16	pi4k2b	gbf1	myo5b	rnf121
+Golgi_vesicle_transport	cep83	trappc11	dync1h1	optn	dzank1	vps51	ninl	stx16	gbf1
+Kupffer's_vesicle	enpp2	ENTREZID:192346	gdf3	spaw	her12	cldn5a	mustn1a	klf8	mustn1b	foxj1a	ndr1
+Kupffer's_vesicle_development	enpp2	efnb2b	gdf3	ephb4b	her12	cldn5a	mustn1a	mustn1b	foxj1a	ndr1	cfap53
+Leydig_cell	fshr	cyp17a1	lhcgr	dmrt1	rspo1	amh	pgr	cyp19a1b	foxl2a	cyp11c1	cyp19a1a
+Meckel's_cartilage	nfixa	gpc4	wnt5b	ewsr1a	dcaf7	wls	sox9a	wnt9a
+Notch_signaling_pathway	tet2	tet3	jag2b	jag1b	wt1a	notch1a	her12	myd88	rnf152	foxj1a
+ON-bipolar_cell	celsr3	cx52.6	nyx	cx55.5	ENTREZID:192346
+Purkinje_cell	wdr81	ENTREZID:192346	ntrk1	col4a5	ntf3	col4a6	ntrk3a	ntrk2b	casp8
+Purkinje_cell_layer_corpus_cerebelli	ENTREZID:192346	ntrk1	ntf3	ntrk3a	ntrk2b
+RNA_catabolic_process	cbfb	dnd1	dcp2	eftud2	pnrc2	runx3	cnot7
+Rohon-Beard_neuron	mir137-1	mir137-2	mmp25b	ENTREZID:100885853	ctcf	pigk	runx1
+S_phase	lrh1	gspt1l	cdc6	fbl	nanog
+SMAD_protein_signal_transduction	clocka	ldb2a	bmp2b	smad2	smad7	smad3b	tgfb1a	bmp5	nomo	ctsk	ndr1	smad3a	ENTREZID:192346
+Schwann_cell_differentiation	sox10	ascl1b	tp53	adgrg1	gna13a	gle1	prnpa	gna12a	chd7	rtn4b
+Schwann_cell_migration	sox10	rac1a	dync1h1	hmgcs1	prnpa	chd7	znf16l	bdnf	nrg1	pard3ab
+Schwann_cell_proliferation	lama2	pes	adgrg1	gna13a	dync1h1	erbb3a	gle1	gna12a	dcc	nrg1
+Sertoli_cell	dmrt1	bdnf	sox9a	amh	igf3	gsdf
+T_cell_apoptotic_process	e2f1	LOC110438496	tp53	dlst	ptenb	fam49a	ndrg1b	rb1
+T_cell_differentiation_in_thymus	il7r	ENTREZID:192346	foxn1	jak2a	ptenb	stat5a	fam49a	irf7	ndrg1b	socs1a	ptger4a
+T_cell_migration	syk	zap70	etv2	tal1
+TORC1_signaling	rasa1a	tp53	ephb4a	apc	stk11	ENTREZID:192346	mtor	tsc2
+UV_sensitive_photoreceptor_cell	opn1sw2	rxrga	six7	rarab	opn5	gdf6a	tbx2b
+Wnt_protein_secretion	frzb	gsk3b	porcnl	sfrp1a	wnt8a	wls	wnt3
+Wnt_signaling_pathway	wnt4a	cxcl12a	foxi1	egfl7	snai1b
+Wnt_signaling_pathway,_planar_cell_polarity_pathway	mcc	gpc4	vangl2	slc9a3r1a	mcamb	hipk2	nkd1	wnt5b
+YSL	ndr2	hspb12	mcoln1a	hspb7	map9	mxtx2	pmaip1	mcoln1b	slc3a2a	ndr1	nanog
+acinar_cell	met	jag2b	jag1b	vdra	shha	dnmt1	nr5a2	rpl36	cftr	sox9b	ihha	bhlha15	ptf1a
+actin_binding	itga8	ENTREZID:192346	cdh2	pcdh15a	ppp1r12a	net1	macf1a
+actin_cytoskeleton_organization	sept7b	myo1b	myo1ea	sipa1l3	myo1cb	myo18aa
+actin_cytoskeleton_reorganization	rhoab	ptk7b	ENTREZID:192346	mid1ip1l	mapk1	mmp14a	mapk3	nsmaf	myo1ea	mmp14b
+actin_filament_organization	sept7b	erbb2	myo1b	sipa1l3	myo1cb	myo18aa
+actin_filament_polymerization	prkci	mid1ip1l	cdh5	cttn	yap1	llgl2
+actin_filament_reorganization	rhoab	ptk7b	ENTREZID:192346	mid1ip1l	mapk1	mmp14a	mapk3	nsmaf	myo1ea	mmp14b
+activation_of_MAPKK_activity	lurap1	lef1	nqo1	dvl2	mapk1	nfe2l2a	gadd45aa	mapk3	araf	prmt6	exoc5	nlk2
+activation_of_innate_immune_response	tlr8	tlr7	foxq1a	rag1	tlr2	tlr3	tlr1	foxq1b	mstna	mstnb
+adaxial_cell	scube3	ccdc80	hapln1a	dyrk2	sox6	akap12b	lbx2	ENTREZID:192346	prdm1a
+adenohypophysis_development	gata2a	fgf3	pomca	sox4b	foxe3	ghrl
+adenohypophysis_morphogenesis	eya1	gata2a	pomca	sox4b	pitx3	dmrta2	foxe3	ghrl	fgf3
+adherens_junction_assembly	rap1gap	cdh1	ENTREZID:192346	cdh2	cdh5	amotl2a
+adherens_junction_maintenance	prkci	msna	cdh2	ctnna1	cdh5	sipa1l3	stx16
+adherens_junction_organization	fn1a	cdh2	cdh5	prnpa	sipa1l3
+adrenal_gland_development	fdx1	fdx1b	cyp11a2	brca2	cyp21a2	hsd3b	cyp11a1	nr5a1a
+afferent_neuron	sox3	sox2	noctb	cc2d2a	fgf4	rab8a	nocta
+alpha-tubulin_acetylation	diras1a	atat1	prdx1	diras1b	hdac6	bbip1
+amacrine_cell_differentiation	nr4a2a	irx7	neurod1	tp53	ptf1a	cdk5r1b	chd5	vsx2
+ammonium_transport	ctbp2l	slc17a8	slc9a3.2	slc17a7a	ENTREZID:192346
+amyloid_precursor_protein_metabolic_process	il4	appb	ENTREZID:192346	notch1a	stat6	psenen	dlg4b	ncstn	psen1
+angioblast_cell_differentiation	isl2a	nkx2.5	osr1	hey2	ncoa2	tal1	etv2
+angioblast_cell_migration	apela	isl2a	sema3aa	syk	erg	zap70	hey2	egfl7	etv2
+animal_organ_senescence	atp6v0ca	esr1	esr2b	esr2a	terf2ip	rpl22	rpl22l1	spns1
+anterior_axial_hypoblast	tbx6	wnt8a	tbx16	snai1a	her1	fzd2	cyp26a1	bmp2b	ncln	msgn1	nomo	calcr	fzd9b	snai1b
+anterior_commissure	rln1	cxcr4b	shha	pax2a	cxcl12a	slit1a	prune2	fzd3a	dcc	robo2	ntn5	sema3d	slit3	slit2
+anterior_commissure_morphogenesis	rln1	sema3d	shha	slit1a	prune2	fzd3a	dcc	robo2	ntn5	slit3	slit2
+anterior_lateral_line	il6st	il6r	mmp15b	il6	dlx3b	foxi1	ctcf	cdh6	pcdh19	prune2	mmp15a	pcdh17	runx1
+anterior_lateral_line_development	stmn2b	il6st	il6r	lgr6	mmp15b	il6	dlx3b	tal1	foxi1	gmnn	ctcf	cdh6	pcdh19	prune2	lgr4	mmp15a	pcdh17	runx1
+anterior_lateral_line_ganglion	stmn2b	dlx3b	cntn1a	foxi1	pitx3	prune2	gfi1ab
+anterior_lateral_line_placode	fgf8a	fgf3	pitx3	dlx3b	foxi1
+anterior_lateral_mesoderm	ENTREZID:192346	vangl2	smoc2	wnt8a	tbx16	tbxta	gata1a	mpx	etv2	hand2
+anterior_lateral_plate_mesoderm	wnt8a	tbx16	cyp26a1	brd2a	bmp2b	dcaf7	eaf1	eaf2	lama1
+anterior_neural_keel	nectin1a	hoxb1b	pcdh19	nectin1b	cdh7a
+anterior_neural_plate	ENTREZID:192346	vangl2	tcf7l1a	vsx1	smad2	bptf	tgfb2	cdx4
+anterior_neural_plate_formation	ENTREZID:192346	vangl2	tcf7l1a	vsx1	smad2	bptf	tgfb2	cdx4
+anterior_neural_tube	lgr6	mpp5a	hoxb1b	brd2a	tcf7l1a	lhx9	lgr4	crb1	crb2b	crb2a	lhx2b
+anterior_segment_eye	cdh1	cdh2	tp53	vegfaa	ddx39ab	hsf4	b3glcta
+aorta_development	LOC101885606	spi1b	rspo1	irf8	cdh5	wnt9a	wnt16	vegfaa
+aortic_arch	mir126a	klf2a	ntn1b	ntn1a	vegfaa	lpar1	syk	sars	zap70
+aortic_arch_1	COX1	COX2	ntn1b	ntn1a	tbx1	lpar1	syk	ptges3a	ptges	zap70
+aortic_arch_5	COX1	COX2	tbx1	ptges3a	ptges	unc45a
+apical_ectodermal_ridge	itgb3b	itgav	fgf8a	prdm1a	bhlha9	pdlim7	pi4kaa	itgb3a	and2	wnt3	shox	and1
+apical_ectodermal_ridge_pectoral_fin_bud	prdm1a	bhlha9	pi4kaa	and2	fgf16	and1
+apical_protein_localization	prkci	mpp5a	dync1h1	crb1	ap1b1	cc2d2a	rab8a	atp1a1a.1	crb3a	rab6a	llgl2	clrn1	crb2b	crb2a
+apoptotic_DNA_fragmentation	tnfrsf1b	tatdn1	casp3a	tp53	casp2	tnfrsf1a	casp8
+artery_development	gspt1l	ren	cdh5	tmem230a	etv2	dll4	vegfaa
+artery_morphogenesis	LOC101885606	spi1b	gspt1l	vegfc	rspo1	irf8	rnf213a	cfap53	svep1	vegfd	wnt16	vegfaa
+atrial_cardiac_muscle_cell_development	nr2f1a	srfa	nkx2.7	rock2a	abrab	rhoua	grem2b	popdc2	nkx2.5
+atrial_cardiac_muscle_cell_differentiation	nr2f1a	fgf8a	nkx2.7	rock2a	grem2b	popdc2	nkx2.5
+atrial_cardiac_muscle_tissue_morphogenesis	tbx5a	cyp26a1	gata4	nkx2.5	tal1	si:busm1-153o2.2	pdlim7	rhoua	grem2b	cyp26c1	grk5	atoh8	grk3	popdc2
+atrial_endocardium	ENTREZID:192346	bmp4	notch1a	tal1	cemip2	id4	fbn2b
+atrioventricular_canal	nppb	ENTREZID:192346	nr2f1a	nppa	dchs1b	crip2	id4
+atrioventricular_canal_development	nppb	ENTREZID:192346	nr2f1a	nppa	rhoua	dchs1b	crip2	id4
+atrioventricular_canal_endocardium	ENTREZID:192346	has2	chsy1	crip2	npnt	zgc:86709	fbn2b	id4	bmp4	cemip2
+atrioventricular_canal_morphogenesis	nppb	nppa	rhoua	dchs1b	zgc:86709	fbn2b	ENTREZID:192346
+atrioventricular_valve_development	mir21-1	ENTREZID:192346	nr2f1a	pdcd4b	dchs1b	crip2	fbn2b	id4
+atrioventricular_valve_formation	mir21-1	ENTREZID:192346	nr2f1a	ahr2	pdcd4b	prss23	dchs1b	crip2	fbn2b	id4
+atrioventricular_valve_morphogenesis	klf2a	ENTREZID:192346	ahr2	bmp4	chsy1	pkd2	dchs1b	hdac5	klf4	cemip2	fbn2b
+auditory_epithelial_support_cell	dlx3b	foxi1	chm	myo6b	ap1b1	atp1a1a.1
+auditory_receptor_cell	mir183	itga8	sox3	pcdh15a	sox2	lrp5
+autonomic_nervous_system_development	gsc	ret	med24	ptf1a	mapk10
+axial_blood_vessel	s1pr2	isl2a	fli1a	metap2b	sulf1	vegfc	nus1	etv2	s1pr1	vegfaa
+axial_fin_skeleton	rpz	mir196b	mir196a-1	mir196c	mir196d	vcanb	mir196a-2
+axial_hypoblast	zmiz2	isl2a	tbx16	cyp26a1	bmp2b	msgn1	vegfc
+axial_mesoderm	zmiz2	isl2a	cyp26a1	bmp2b	pappa2	cdx4
+axial_mesoderm_development	ptk7b	zmiz2	tbx16	fgf3	msgn1	pappa2	myf5
+axial_mesoderm_formation	zmiz2	isl2a	cyp26a1	fgf3	bmp2b	pappa2	myf5	cdx4
+axial_mesoderm_structural_organization	ptk7b	zmiz2	tbx16	cyp26a1	fgf3	bmp2b	msgn1	myf5	cdx4
+axial_vasculature	apela	aqp1a.1	sulf1	fli1b	etv2	abcc6a	egfl7	vegfaa
+axis_elongation	wnt5b	gdf3	her1	stat3	setdb2	yap1	wwtr1	cdc25b	ripply1
+axis_specification	ENTREZID:192346	ctnnb1	pou5f3	buc	eaf1	eaf2	net1	nr3c1	kif5ba	nanog
+axonal_fasciculation	ncam1b	ncam1a	anos1a	cntn2	robo1	robo3	cnr1	slit1a	plxna3	robo2	sema3d	cdh2
+axonal_transport_of_mitochondrion	kif1b	ntf3	actr10	mfn2	ppargc1a	kif5aa
+axoneme_assembly	kif3b	ruvbl2	ruvbl1	lrrc6	ehd1b	ccdc151	kif17	ehd3	ttll3
+axonogenesis	smn1	ldb1b	tp53	ppp1r12a	rgs4	cdk5
+basal_protein_localization	cdh2	dync1h1	erbb2	dzip1	clrn1	slc7a6os	ctbp2l	cfap53	crb2b	ctbp1	crb2a	crb3a	rab6a
+basal_regeneration_epithelium	ENTREZID:192346	lamb1a	shha	igf2b	fn1b	mmp2	timp2a	fam53b
+basement_membrane_organization	jag1a	ENTREZID:192346	dag1	notch1a	mib1	myo1ea	fkrp
+bile_ductule	jag2b	jag1b	id2a	ifng1	cldn15lb	ifng1r	add3a	sox9b	cdk5
+blastoderm	zeb1a	zeb1b	wnt8a	gpx4a	gpx4b
+blastoderm_cell	zeb1a	zeb1b	wnt8a	gpx4a	gpx4b	rest
+blastodisc	esr2a	mid1ip1l	dnd1	fyna	myo1b	nr3c1	myo1cb	aurkb
+blastomere	wnt8a	ctnnb1	gpx4a	gpx4b	net1	myo1b	myo1cb
+blood_island	LOC101885606	tet2	smoc2	spi1b	irf8	nphp4
+blood_vessel_endothelium	eng	vegfaa	ren	rspo1	wnt16
+blood_vessel_morphogenesis	mir9-1	mir27b	mir126a	gdf6a	atp2b4	vegfaa
+blue_sensitive_photoreceptor_cell	opn1sw2	rxrga	six7	rarab	gdf6a	tbx2b
+bone_morphogenesis	nppb	ahr2	nppa	sp7	gdf6a
+brain_morphogenesis	nppb	nppa	rfng	sgca	hey1	notch3	rac3b
+brain_segmentation	ifitm1	ifitm5	jmjd6	brd2a	yy1a	plk4	rfng	sgca	gas2l3	greb1	rac3b
+brainstem	rfng	sgca	hey1	notch3	rac3b
+branched-chain_amino_acid_metabolic_process	rpe65c	mtor	rps19	esco2	dbt	cacna1ab	tp53
+branchial_muscle	crabp2a	unc45b	myod1	fgf3	sgcd	tbx1	crabp2b	unc45a	crip2	msc	tcf21	plxna3	wnt3a	mkxa	myf5
+branching_morphogenesis_of_a_nerve	ENTREZID:192346	anos1a	tnr	unc5b	sema5a	unc119a	robo2
+branchiomotor_neuron	adgra3	chd7	appa	vangl2	rest
+brush_border_epithelial_cell	fabp2	pmela	fabp1b.1	cd164	adcy1a	slc34a2a	cxadr	upk3b
+cAMP_biosynthetic_process	npr2	pth4	ENTREZID:192346	mapk1	mapk3	nr4a2b	nr4a3	gper1
+calcium_ion_homeostasis	trpv6	hif1ab	panx1a	entpd1	gcm2	ap1b1	enpp1	piezo1	atp1a1a.1
+calcium_ion_transport	rho	trim63a	fgf23	kif3a	nkd1	foxo1a	ppp3ca	tpcn2
+calmodulin-dependent_protein_kinase_activity	camk1da	ENTREZID:192346	wnt5b	ntn1a	ctnnb1	camk2n2	ppm1e	camk2n1a	ppm1f	slc8a4a	atp1a2a
+canonical_Wnt_signaling_pathway	gpc4	wnt5b	wnt8a	wls	wnt3	wnt3a	wnt9a
+cardiac_atrium_development	nppb	nr2f1a	nkx2.5	nppa	tfpi2
+cardiac_atrium_morphogenesis	nppb	cyp26a1	nkx2.5	tal1	nppa	rhoua	cyp26c1	tfpi2	grk5	grk3
+cardiac_cell_fate_specification	eng	npas4l	sox10	wnt8a	gata5	prdm1a	fgf1a	jdp2b	etv2	kdm6ba	kdm6bb	chd7	gata6	cdx4	tmem88a
+cardiac_chamber_formation	nppb	isl1	pitx2	nr2f1a	nkx2.7	nppa	id4	nkx2.5
+cardiac_chamber_morphogenesis	nppb	klf2a	isl1	pitx2	nkx2.7	nppa	smad4a	smyd1b	nkx2.5
+cardiac_conduction	tmem65	nkx2.5	kcnh6a	rnf207b	id4	ENTREZID:192346
+cardiac_conduction_system	tmem65	ENTREZID:192346	nkx2.5	gnb5b	id4
+cardiac_conduction_system_development	tmem65	rap1gap	ENTREZID:192346	nkx2.5	gnb5b	id4	popdc2
+cardiac_jelly	nppb	tbx2b	bmp4	nppa	chsy1	erbb2	cdh5	med10	npnt	fbn2b	has2
+cardiac_muscle_adaptation	mir143-1	vegfaa	plcg1	obscna	cmlc1
+cardiac_muscle_cell	vegfaa	zbtb16a	dusp6	ddx39ab	wwtr1
+cardiac_muscle_cell_action_potential	kcnh6a	hspb7	hs3st1l1	rnf207b	smyd1b	plekha7a
+cardiac_muscle_cell_apoptotic_process	gata5	tp53	nkx2.5	calr	erp44	tmem88a	bag3	mybpc2b	smad4a	ppp2r3a	tbx20	gata6
+cardiac_muscle_cell_development	tbx5a	nr2f1a	vegfaa	smyd1a	zbtb16a	dusp6	ddx39ab	hspb7	wwtr1
+cardiac_muscle_cell_differentiation	serpine1	tbx5a	nr2f1a	qkia	notch1a	tpm3	ddx39ab	kdm6ba	kdm6bb	mespaa	tpcn2
+cardiac_muscle_cell_myoblast_differentiation	ube4b	unc45b	prdm1a	ddx39ab	cav3	unc45a	smyd1b
+cardiac_muscle_cell_proliferation	serpine1	notch1a	ppardb	dusp6	kdm6ba	kdm6bb	wwtr1
+cardiac_muscle_fiber_development	tbx5a	nr2f1a	qkia	vegfaa	ppardb	smyd1a	zbtb16a	dusp6	tpm3	ddx39ab	hspb7	wwtr1
+cardiac_muscle_myoblast	lama2	mef2ab	ube4b	unc45b	isl1	mef2aa	mef2ca	mef2d	nkx2.7	nkx2.5	tal1	prdm1a	hspb1	ddx39ab	unc45a	mef2b	smyd1b	mef2cb
+cardiac_muscle_myosin_thick_filament_assembly	mef2ab	naca	unc45b	mylpfa	mef2aa	mef2ca	mef2d	ttn.2	mef2b	smyd1b	mef2cb
+cardiac_muscle_tissue_development	tbx5a	isl1	vegfaa	nkx2.7	nkx2.5	smyd1a	zbtb16a	dusp6	hspb7	wwtr1
+cardiac_muscle_tissue_morphogenesis	tbx5a	isl1	nkx2.7	nkx2.5	kdm6ba	kdm6bb	wwtr1
+cardiac_myofibril_assembly	rap1gap	ttn.2	smyd1a	erbb2	rbm24a	mybpc2b	hs3st1l1	smyd1b
+cardiac_neural_crest	sox10	nkx2.5	rad21a	med14	smarca4a	gper1	chd7
+cardiac_ventricle_development	tbx5a	erbb2	kdm6ba	kdm6bb	nrg1
+cardiac_ventricle_morphogenesis	tbx5a	vdra	nkx2.5	kdm6ba	kdm6bb	hmox1a
+cardinal_system	mir126a	ENTREZID:192346	flt4	cxcl12a	cdh5	rasgrp4	bhlhe41	prox3
+cardiocyte_differentiation	serpine1	tbx5a	nr2f1a	qkia	notch1a	tpm3	kdm6ba	kdm6bb	mespaa	tpcn2
+cardiovascular_system_development	nppb	vegfaa	nppa	zbtb16a	wwtr1
+cartilage_condensation	scfd1	loxl3b	barx1	col11a2	disp1
+cartilage_development_involved_in_endochondral_bone_morphogenesis	gpc4	wnt5b	wls	fam20b	xylt1	wnt9a
+cartilage_element	itga8	gpc4	ptk2ab	ENTREZID:192346	wnt5b	fras1	kif5ba
+cartilage_morphogenesis	pth4	gpc4	ptk2ab	ENTREZID:192346	wnt5b	akt2	wls	kif5ba	zic2a	wnt9a
+cartilaginous_joint	itga8	gpc4	wnt5b	wls	fras1	wnt9a
+cation_transport	aqp1a.1	hif1ab	dzip1l	slc30a10	atp2c1	cngk
+caudal_fin_blood_vessel	csf3a	col9a1b	cnn2	gbf1	apln
+caudal_fin_morphogenesis	wnt8a	cx43	ctnnb1	shha	serpinh1b	fn1b	pcgf1
+caudal_fin_skeleton	tbx5a	cx43	sema3d	evx1	pcgf1	hapln1a	pax1b
+caudal_hematopoietic_tissue	LOC110438496	klf6a	mmp2	mmp9	nol9	urb2	cnr2	selp
+caudal_vein	klf6a	ctgfa	taz	ftr82	prdx1	yap1	egfl7
+caudal_vein_plexus	mir26a-1	nr2f1a	ctgfa	taz	ftr82	prdx1	yap1	pank2	egfl7
+cell_differentiation_in_hindbrain	gbx2	gsc	brd2a	rfng	prune2	sgca	casp8	rac3b
+cell_differentiation_involved_in_pronephros_development	jag1a	jag2b	jag1b	wt1a	etv4	etv5a	lrrk2	nr5a1a
+cell_fate_commitment	spi1b	egr2b	tbx16	tbxta	gata5	prox1a	gata6	runx1	tmem88a
+cell_fate_specification	sox10	fli1a	lef1	cbfb	sox5	runx3
+cell_junction_organization	cx43	serpinh1b	tjp1a	panx1a	entpd1	prnpa	ctbp2l	mmp11a	mmp11b	ctbp1
+cell_migration_in_diencephalon	ENTREZID:192346	mab21l1	id3	pitx2	neurog1	tbx2b	fgf8a	irx1a	stmn4	klf7a	lrrk2	ebf3a	fabp7a
+cell_migration_in_hindbrain	slc9a3r1a	rfng	sgca	lrrk2	rac3b
+cell_migration_involved_in_gastrulation	cdh1	vangl2	wnt8a	stat3	gna13a	dhx16	efemp2a	gna12a	ror2	celf1	lbx2	wnt11	zbtb4
+cell_migration_involved_in_heart_development	fn1a	klf2a	jmjd6	hmmr	yy1a	itga5	etv2	lrrk2	snai1b
+cell_migration_involved_in_heart_formation	fn1a	npas4b	klf2a	hmmr	itga5	etv2	lrrk2	npas4a	snai1b
+cell_migration_involved_in_kidney_development	cep70	tfap2a	wt1a	stat3	efemp2a	lrrk2	cep131	nr5a1a
+cell_migration_involved_in_sprouting_angiogenesis	npas4b	LOC101883726	dll4	trpc1	npas4a
+cell_proliferation_in_forebrain	mir9-1	shha	rx3	vegfaa	zdhhc16a	nr3c1	yap1	grna
+cell_proliferation_in_hindbrain	met	mt2	appb	hoxb1b	brd2a	tp53	notch1a	egfl6	gle1	klf8	si:ch211-152f23.5	mtbl	epha4a	ogg1
+cell_proliferation_in_hindbrain_ventricular_zone	lgr6	tp53	lgr4	klf8	met
+cell_proliferation_in_midbrain	met	mt2	shha	brd2a	pax6a	tp53	stmn4	pcdh19	klf8	mtbl	fgf16	ogg1
+cell_proliferation_involved_in_heart_morphogenesis	plrg1	npas4b	klf2a	ENTREZID:192346	jmjd6	ahr2	yy1a	npas4a	ogg1
+cell-cell_adhesion	vclb	cdh1	flot2a	cdh5	vcla	flot1a	svep1	esama
+cell-cell_adhesion_mediated_by_cadherin	zeb1a	vclb	cdh1	zeb1b	flot2a	vcla	pcdh19	flot1a	cdh2
+cell-cell_junction_maintenance	ctnna1	tal1	nsfa	stx16	akap12b	sox9b
+cell-cell_junction_organization	cx43	serpinh1b	tjp1a	panx1a	entpd1	prnpa	ctbp2l	mmp11a	mmp11b	ctbp1
+cellular_calcium_ion_homeostasis	trpv6	atp1a1a.5	panx1a	entpd1	gcm2	ap1b1	enpp1	piezo1	atp1a1a.2	atp1a1a.1
+cellular_pigment_accumulation	vps18	frzb	lingo1b	ENTREZID:192346
+cellular_response_to_UV	tp53	cx52.6	cx52.9	il1b	cx55.5
+cellular_response_to_growth_factor_stimulus	mir126a	kiss1	klf2a	il1b	gcgra	gcgrb	vegfaa
+cellular_response_to_heat	gbx2	tp53	smyd1a	prdx1	hsp90aa1.2	hdac6
+cellular_response_to_light_stimulus	kiss1	vegfaa	il1b	nptx2a	gcgra	gcgrb	hcrt
+cellular_response_to_nutrient_levels	lepa	slc30a10	atp2c1	lepb	lepr
+cellular_sodium_ion_homeostasis	ednraa	atp1a1a.5	p2rx4a	atp6v1aa	pth1a	gcm2	ap1b1	slc4a4a	edn1	atp1a1a.2	cldnb	atp1a1a.1
+central_artery	reck	cxcr4a	vegfaa	gspt1l	cxcl12b
+central_canal	sema4d	wnt2	sox11b	cntn2	mvp	wnt2bb
+central_nervous_system_morphogenesis	fbl	rfng	sgca	hey1	notch3	rac3b
+central_nervous_system_myelin_formation	mbpa	tgfb1a	actr10	gle1	rtn4b
+central_nervous_system_structural_organization	fbl	rfng	sgca	hey1	notch3	rac3b
+central_vein	reck	klf2a	klf2b	prox1a	vegfaa	itgb1a	aggf1
+central_zone_olfactory_bulb	ptprfa	ntn1b	ntn1a	nrp1a	nrp2b
+centrosome_cycle	ENTREZID:192346	tp53	plk4	poc1b	cdc14b	cdc14aa	aurka	cep72	cep290	cep131	fignl1	bbs4
+cerebellar_Purkinje_cell_differentiation	met	ntrk1	tp53	ntf3	klf8	ntrk3a	ntrk2b	casp8	gdnfa	ENTREZID:192346
+cerebellar_granule_cell	met	ENTREZID:192346	gli	tp53	col4a5	tnpo2	ca8	col4a6	klf8
+cerebellar_granule_cell_differentiation	ENTREZID:192346	cdh2	tp53	klf8	met
+cerebellum_morphogenesis	met	gbx1	brd2a	tp53	prune2	klf8	gbx2
+cerebellum_structural_organization	met	gbx1	brd2a	tp53	prune2	klf8	gbx2
+chemoattractant_activity	ntn1b	ntn1a	cxcl12a	meox1	gbp4	apln
+chemokine_production	apela	vdra	mmp2	mmp9	gbp4	hoxc9a	cyp27b1	cxcl8a
+chloride_transport	clcn2a	slc4a3	clcn2b	ENTREZID:192346	axin1	axin2	slc12a10.2	clcn2c
+chondroblast	ptk2ab	ENTREZID:192346	frzb	shha	scfd1	gli1	hmgcs1	kif5ba	ihha	gpc4	wnt5b	wls	wnt9a
+chondrocyte	ptk2ab	ENTREZID:192346	frzb	shha	scfd1	gli1	hmgcs1	kif5ba	ihha	gpc4	wnt5b	wls	wnt9a
+chondrocyte_development	ptk2ab	ENTREZID:192346	has2	frzb	fgf8a	fgf3	scfd1	gli1	hmgcs1	kif5ba	ihha	gpc4	wnt5b	shha	wls	wnt9a
+chondrocyte_differentiation	panx3	gpc4	ptk2ab	has2	wnt5b	fgf8a	fgf3	scfd1	gli1	hmgcs1	pth1a	wls	gcm2	ctsk	kif5ba	ihha	wnt9a	ENTREZID:192346	shha
+chondrocyte_morphogenesis	panx3	ptk2ab	frzb	shha	scfd1	gli1	hmgcs1	pth1a	gcm2	ctsk	kif5ba	ihha	ENTREZID:192346	wls	wnt9a	gpc4	wnt5b
+chondrocyte_proliferation	panx3	ptk2ab	ENTREZID:192346	fzd7a	loxl3b	tgfb3	barx1	mmachc	hcfc1a	hcfc1b	ihha	gpc4	wnt5b	frzb	wls	wnt9a
+chondroitin_sulfate_biosynthetic_process	uxs1	b3gat3	chsy1	fosab	lum	ext2	extl3	dpt	fam20b	xylt1	vwa2
+chondroitin_sulfate_proteoglycan_biosynthetic_process	mir143-1	nppb	uxs1	b3gat3	ENTREZID:192346	nppa	hmmr	ext2	extl3	dpt	igf2bp1	adgrg6	vwa2
+chromosome_condensation	ENTREZID:100148709	ube4b	ncapd2	top2b	ncaph	top2a
+chromosome_organization	mkks	smarcc1a	rfng	sgca	rac3b
+ciliary_zone	frzb	her4.2	ehd1b	dzip1l	ehd3	cc2d2a	rab8a
+ciliated_epithelial_cell	dnmbp	anks3	sdc2	tbxta	fgf2	cobl	kif17	ahi1	arhgef11	cc2d2a	rab8a	cetn4	tbx16
+ciliated_olfactory_receptor_neuron	ENTREZID:192346	ntrk1	pvalb7	s100b	trpv4
+cilium_assembly	ruvbl1	mkks	smarcc1a	dzank1	clrn1	ehd1b	ninl	ehd3	cep131	cfap53	bbs4
+cilium_movement	gmnc	enpp2	ruvbl1	slc9a3r1a	ift122	slc26a2	tapt1b	cfap53	crb2b	cc2d2a	rab8a	crb2a	crb3a	cfap298
+cilium_movement_involved_in_cell_motility	gmnc	asic2	tapt1b	cc2d2a	rab8a
+cilium_organization	lamb1a	slc9a3r1a	cfap53	cc2d2a	rab8a	tmem67
+circadian_regulation_of_gene_expression	npvf	per2	clocka	opn4.1	nomo	nr3c1	cry1b	noctb	opn4a	nocta	smad3a	per1b
+circulatory_system_process	serpine1	tp53	vegfaa	nkx2.5	notch1a	calr	pdgfra	wwtr1
+closure_of_optic_fissure	sfrp5	shha	ihhb	lmo2	pax2a	sox11a	sox4a	bcl6aa	sfrp1a	fadd	gdf6a	ihha
+collagen_biosynthetic_process	col12a1a	vim	ctnnb1	otol1a	col12a1b
+collagen_metabolic_process	col12a1a	vim	ctnnb1	otol1a	col12a1b
+commissural_neuron_axon_guidance	vangl2	sim1a	efnb2a	sema3d	shha	robo3	boc	scrib	pitpnaa	slit1a	fzd3a	arnt2	lhx2b	ntn5	dcc	robo2	slit2	slit3
+common_cardinal_vein	sema3d	bhlhe40	nrp1a	sox7	plxnd1	cdh5	cd164	bhlhe41	fbn2b	vhl	kdrl	ENTREZID:192346	vegfaa
+common_lymphoid_progenitor	tp53	lef1	ak2	ptenb	fam49a	ndrg1b	dpy30	nlk2	cd79a	gfi1b	gfi1aa
+cone_retinal_bipolar_cell	opn4.1	panx1a	entpd1	opn4xb	opn4a
+convergent_extension	gpc4	frzb	fzd7a	wls	ppp1r12a	sfrp2	wnt9a	greb1	wnt11	wnt5b	ror2
+convergent_extension_involved_in_gastrulation	pou5f3	ptprub	esrra	ror2	lbx2	wnt11
+corpuscles_of_Stannius	mst1	sim1a	id2a	tbx2b	fhl1b	stc1l	fgf23	casr	tbx2a	stc1
+cranial_blood_vessel	ENTREZID:192346	acvrl1	cyp26a1	gspt1l	sulf1	pnn	rnf213a	cyp26c1	vhl	vegfaa
+cranial_cartilage	gpc4	ptk2ab	ENTREZID:192346	wnt5b	scfd1	dcaf7	pcgf1	wls	zic2a	wnt9a
+cranial_ganglion	cad	fgf10a	fgf10b	fgf3
+cranial_motor_neuron	cyp26b1	pmm2	chd7	adarb1a	cdk5
+cranial_nerve	cdkn1a	gsc	sox11a	sox11b	six6b	fgf4	rtn4b
+cranial_nerve_I	klf6a	nrp1a	nrp2b	klf7a	spred2b	galr2b
+cranial_nerve_V	ackr3a	ENTREZID:192346	gbx2	klf6a	diras1a	cxcl12a	klf7a	trpv1	diras1b	robo2
+cranial_nerve_VII	met	plxnb2b	klf6a	olig2	nhsl1b	klf7a	prickle1b	plxnb2a	rest	vangl2
+cranial_nerve_development	gsc	sox11a	sox11b	six3a	rest	fgf4
+cranial_neural_crest	ptk2ab	ENTREZID:192346	shha	cyp26b1	dcaf7	gli1	hmgcs1	zic2a
+cranial_neural_crest_cell	ptk2ab	ENTREZID:192346	shha	cyp26b1	dcaf7	gli1	hmgcs1	zic2a
+cranial_vasculature	ENTREZID:192346	cyp26a1	gspt1l	aqp1a.1	sulf1	pcgf1	pdcd10a	rnf213a	cyp26c1	vhl	acvrl1	vegfaa
+cristae_formation	aldh1a2	ENTREZID:192346	bmp2b	calb2b	aqp4	s100s	opa1	trpv4	adgrg6	crb2b	crb2a	crb3a	aldh1a3	camk2g1
+cystic_duct	COX2	nek8	arl13b	tp53	cftr	nphp4	bcl2a	vhl
+cytoplasm_organization	sept7b	ar	galnt3	smyd1a	myo1b	myo1cb	myo18aa
+cytoplasmic_microtubule_organization	sept7b	racgap1	pard3ab	sass6	rab11a
+defense_response_to_Gram-negative_bacterium	cxcl8a	cxcl8b.3	ripk2	rac2	nod2
+defense_response_to_bacterium	cxcl8a	cxcl8b.3	ripk2	rac2	nod2
+definitive_erythrocyte_differentiation	mir126a	npas4l	meis1b	myb	bmi1a	ddx46	rpl5a	stat5a	cish	cebpa	gfi1aa	gfi1b
+definitive_hemopoiesis	cxcl8a	gfi1b	vdra	spi1b	vegfc	smyd5	kdm6bb	cyp27b1
+dendrite_morphogenesis	ENTREZID:192346	smn1	ldb1b	kidins220b	daam1a
+dental_epithelium	cdh2	atp2b1a	irf6	edar	eda
+dermis	LOC100331704	fbln1	her1	col14a1a	rac1a	hmcn2	adrb2a	ripply1
+dermomyotome	tbx16l	fgf8a	bmp4	bmp2b	sulf1	six1b	mespba	ripply1
+determination_of_ventral_identity	meis1b	tbx16	shhb	fgf3	notch1a	fgf24	slc31a1	wls	shha
+developmental_growth_involved_in_morphogenesis	itga8	pth4	lrh1	ahr2	mbpa	pcdh15a	actr10
+developmental_pigmentation	sox10	tfap2a	ENTREZID:192346	mitfa	aqp3a	kctd15b	sox5
+developmental_process_involved_in_reproduction	mir25	scrt2	ptges	nom1	sult4a1
+diencephalon_development	myt1lb	pth4	ENTREZID:192346	lef1	gper1	bsx	greb1
+digestive_system_duct	sept7b	met	sox32	jag2b	jag1b	neurod1	anxa4	fgf10a	atp6ap2	vps33b	cftr	sox9b
+digestive_system_process	id2a	lrh1	tbx2b	tomm22	fndc5b
+digestive_tract_development	wnt4a	mecp2	foxi1	myd88	tnfa
+digestive_tract_mesoderm_development	stmn2b	pax3b	lamb1a	wnt11r	gata4	fgf3	fgf10a	tbx1	aqp8a.1	fgf20b	mgaa	ihha	fgf8a
+disaccharide_biosynthetic_process	hs3st3l	sulf1	lgals2a	aqp3a	hs3st1l2	hs2st1a
+distal_tubule_development	mir34b	notch1a	epcam	mecom	cd164	hnf1ba
+dopaminergic_neuron_differentiation	nr4a2a	ENTREZID:192346	sim1a	trpm7	tcf7l2	fgf3	robo3	cnot8	nr1h3	chd5	lrrk2	robo2	fezf2	arnt2	zdhhc15b
+dorsal_aorta	LOC101885606	spi1b	mmp2	tgfb1a	tgfb3	pdgfra	vegfc	mmp9	rspo1	irf8	cdh5	pdgfrb	tgfb1b	wnt16	vegfaa
+dorsal_aorta_development	LOC101885606	spi1b	flt4	rspo1	irf8	cdh5	aqp8a.1	pank2	wnt16	kdrl	vegfaa
+dorsal_aorta_morphogenesis	LOC101885606	spi1b	pdgfra	sox7	vegfc	rspo1	irf8	gata2b	aqp8a.1	rnf213a	pdgfrb	wnt16	vegfaa
+dorsal_convergence	cxcr4b	s1pr2	ENTREZID:192346	vangl2	gna13b	cxcl12a	scrib	vegfc	gata2b	map1b	lpp
+dorsal_fin_development	scinla	wls	zgc:113210	wnt9b	and1
+dorsal_fin_morphogenesis	twsg1b	chrd	bmp1l	acvr1l	krt18a.1	tll1	yap1	wnt9b	wwtr1	and1
+dorsal_longitudinal_anastomotic_vessel	crim1	elmo1	cnn2	aqp8a.1	prkd1	adora2b	dock1
+dorsal_root_ganglion	mir137-1	mir137-2	reck	ENTREZID:100885853	tnfa	adgra2	traf2a
+dorsal_root_ganglion_development	mir137-1	mir137-2	reck	ENTREZID:100885853	kita	erbb3a	tnfa	adgra2	traf2a
+dorsal_root_ganglion_morphogenesis	neurog1	kita	foxd3	erbb3a	sema6e	drgx	adgra2	wnt3	p2rx3a	reck
+double-strand_break_repair_via_nonhomologous_end_joining	tp53	tardbp	fus	eepd1	lig3	tox
+ear_development	mir183	itga8	sox3	pcdh15a	sox2	fgf4
+ear_morphogenesis	mir183	itga8	emx2	pcdh15a	sox3	sox2
+ectoderm	akt1	wnt5b	frzb	wnt4a	tdgf1	foxi1	wls	wnt9a	and1	gpc4
+ectoderm_development	akt1	ENTREZID:192346	wnt5b	frzb	wnt4a	tdgf1	foxi1	wls	wnt9a	and1	gpc4
+ectodermal_cell	akt1	gpc4	wnt4a	cdh2	tdgf1	foxi1	bmp5
+ectodermal_placode_development	tfap2a	fgf8a	fgf10a	tfap2c	hnf1ba	edar	eda	fgf3
+ectomesenchyme	akt1	chrd	dkk1b	pou5f3	hoxb1b	mib1	epb41l5	znfl1
+efferent_neuron	elavl4	pgk1	cntn1b	tpcn2	smn1
+egg_activation	npr2	gpx4b	mapk1	mapk3	gper1
+embryonic_axis_specification	ENTREZID:192346	tbx16	ctnnb1	pou5f3	tbxta	smad1	smad5	buc	eaf1	eaf2	smad9	net1	nr3c1	epas1b	kif5ba	axin1	axin2	nanog	leg1.1
+embryonic_cleavage	zgc:165502	bmp2b	dnd1	myo1b	vrtn	myo1cb
+embryonic_cranial_skeleton_morphogenesis	itga8	ostn	crispld2	scfd1	cyp26b1	med14	dcaf7	smarca4a	pcgf1	tapt1b	fras1	cfdp1	lrp5	zic2a
+embryonic_digestive_tract_development	ENTREZID:192346	wnt4a	pitx2	mtch2	nkx2.5	osbpl2b	mecp2	foxi1	tnfa	aqp8a.1	osbpl2a	ezh2
+embryonic_digestive_tract_morphogenesis	pax3b	sfrp5	wnt4a	pitx2	wnt11r	fgf8a	mtch2	mecp2	foxi1	tbx1	hsd17b4	tnfa	aqp8a.1	ezh2
+embryonic_eye_morphogenesis	mir9-1	fbl	gdf6a	zic2a	vegfaa
+embryonic_heart_tube_development	s1pr2	tbx5a	gna13b	aqp8a.1	fosl2
+embryonic_heart_tube_formation	s1pr2	tbx5a	ptpn11a	gna13b	aqp8a.1	fosl2	tmsb4x
+embryonic_heart_tube_morphogenesis	mir26a-1	s1pr2	tbx5a	tal1	ptpn11a	gna13b	aqp8a.1	tmsb4x
+embryonic_hemopoiesis	spi1b	jak2a	fli1a	lef1	sox4a	ism1	kdm6bb	gpr132b
+embryonic_pectoral_fin_morphogenesis	tbx5b	mmp15b	pax9	rnf2	fgf24	mmp15a	galr1a	pax1b	lbx2	shox	tbx5a
+embryonic_skeletal_joint_development	itga8	ednraa	tfap2a	cx43	nkx3.2	fras1	gdf6a	furinb	hand2	edn1
+embryonic_skeletal_joint_morphogenesis	itga8	ednraa	tfap2a	cx43	fras1	furinb	hand2	edn1
+embryonic_skeletal_system_development	gpc4	en1a	cyp26b1	smyd5	smad4a
+endocardial_cell_differentiation	serpine1	ENTREZID:192346	nr2f1a	gata5	bmp4	notch1a	etv2	smarcd3b	npnt	cemip2	fbn2b	tmsb4x	has2
+endocardial_cushion	ENTREZID:192346	nr2f1a	crip2	npnt	cemip2	zgc:86709	fbn2b	tmsb4x	has2	bmp4
+endocardial_cushion_development	klf2a	ENTREZID:192346	nr2f1a	pkd2	crip2	hdac5	klf4	npnt	cemip2	zgc:86709	fbn2b	tmsb4x	has2	bmp4
+endocardial_cushion_formation	ENTREZID:192346	nr2f1a	crip2	npnt	cemip2	zgc:86709	fbn2b	tmsb4x	has2	bmp4
+endocardium	serpine1	klf2a	acvrl1	notch1a	krit1	heg1
+endocardium_development	serpine1	s1pr2	acvrl1	efnb2a	gna13b	id4	nrg1	notch1a
+endocardium_formation	serpine1	klf2a	s1pr2	acvrl1	efnb2a	krit1	hmmr	gna13b	heg1	id4	nrg1	notch1a
+endocardium_morphogenesis	s1pr2	tal1	gna13b	pkd2	hs3st1l1	trpv4	klf2a
+endochondral_bone	gpc4	wnt5b	acvr1l	atp2b1a	wls	kdm6ba	fam20b	xylt1	kdm6bb	ihha	wnt9a
+endochondral_bone_morphogenesis	wnt5b	acvr1l	atp2b1a	wls	kdm6ba	fam20b	col10a1a	xylt1	kdm6bb	wnt9a	gpc4
+endoderm	apela	jag2b	jag1b	cxcr4a	ENTREZID:192346	wnt4a	lft1	lft2	ndr2	tdgf1	smad2	foxi1	vtg1	nanog	ndr1
+endoderm_development	apela	jag2b	jag1b	cxcr4a	wnt4a	lft1	lft2	cdh2	ndr2	tdgf1	smad2	foxi1	eaf1	eaf2	net1	nanog	ndr1	ENTREZID:192346
+endoderm_formation	apela	jag2b	jag1b	cxcr4a	wnt4a	lft1	lft2	cdh2	ndr2	tdgf1	smad2	foxi1	eaf1	eaf2	net1	vtg1	nanog	ndr1	ENTREZID:192346
+endodermal_cell	apela	cxcr4a	pak2a	cdh2	vegfaa	ephb4a	pdgfra	fhl1b	vegfc	cnr1	cnr2
+endodermal_cell_differentiation	fn1a	egr1	pax6a	fgfr1a	rac1a	fgfr2	cnr1	mnx1	smyd2a	map9	prex1	edn1	runx3	sox9b	grhl3	cnr2
+endodermal_cell_fate_specification	pax6a	rac1a	fhl1b	mnx1	nav3	prex1
+endodermal_digestive_tract_morphogenesis	sfrp5	fgf8a	fgf3	gcm2	nav3	nipblb
+endoplasmic_reticulum_unfolded_protein_response	scfd1	iars	zar1	amfra	tars
+endosomal_transport	clint1a	synj1	gpr183a	pllp	pi4k2b	clstn1
+endothelial_cell_differentiation	mir9-1	lpar6	fli1a	vegfaa	lef1
+endothelial_tip_cell	ptger3	mir10b-2	mir10a	mir10b-1	reck	npas4b	flt4	isl2a	vegfaa	notch1a	mib1	nr2f1b	tmem230a	adgra2	dll4	npas4a	kdrl
+endothelial_to_hematopoietic_transition	gfi1b	mmp2	tgfb1a	tgfb3	mmp9	gata2b	gpr183a	tgfb1b
+endothelial_tube_morphogenesis	mir26a-1	cdh5	thsd7aa	amotl2a	adgrg6	tmsb4x
+engulfment_of_apoptotic_cell	LOC100331635	yy1a	havcr1	jmjd6
+enteric_neuron	sox10	ret	rad21a	med24	ptf1a	elp1	chd7	mapk10
+enterocyte	ascl1a	fabp2	cav1	fgfr2	nr1h3	fabp1b.1	myo5b
+enterocyte_differentiation	ascl1a	dhrs9	fgfr2	rdh1	apc	klf4	cdx1b
+enteroendocrine_cell_differentiation	sept7b	neurod1	fgfr2	fgf1a	sox9b	ascl1a
+ependymal_cell	urp2	urp1	sox11b	gfap	slc9a3r1a	mvp	sox2
+epibranchial_field	pax2a	sox3	foxi1	fgf24	irx4a	pax8
+epibranchial_ganglion	cad	sox3	dlx3b	bmp2b	fgf10a	fgf24	itga5	fgf1a	bmp5	pitx3	irx4a	p2rx3a	fgf10b	pax2a	foxi1	pax8	fgf3
+epibranchial_placode	tfap2a	dlx3b	fgf10a	fgf24	sox2	pitx3	irx4a	fgf10b	pax2a	sox3	foxi1	pax8	fgf3
+epidermal_cell_differentiation	igf1	pax7a	fn1b	egfra	irf6	agtpbp1	pax7b	svep1	eps15l1a	scube1
+epidermal_cell_fate_specification	dlx4b	dlx3b	snw1	bmper	and2	and1
+epidermis_morphogenesis	prkci	shha	pax7a	fn1b	cluap1	mmp9	yap1	pax7b	wwtr1	llgl2
+epiphysis	nectin1a	rxfp1	tp63	elovl4b	elovl4a	ddc	nxph1	crmp1	tac1	prune2	unc119.2	nectin1b	cart1	unc119a	ihha
+epithalamus_development	ulk2	ENTREZID:192346	dbx1b	kctd12.1	wls	gpr151	kctd12.2	wnt3	bsx
+epithelial_cell_morphogenesis	mir126a	sox10	ENTREZID:192346	wnt4a	foxi1	sox5
+epithelial_cilium_movement	ENTREZID:192346	nphp4	crb2b	crb2a	crb3a
+epithelial_structure_maintenance	sp8a	sp9	cfl1l	myh11a	ap1b1	stx16	atp1a1a.1
+erythrocyte_development	tmem88a	blvrb	ism1	blvra	hmox1a
+erythrocyte_differentiation	jak2a	fli1a	lef1	blvrb	blvra	hmox1a
+erythrocyte_maturation	mir451a	ptpn9a	meis1b	gata2a	stat3	eif1axb	bdh2	si:ch211-14k19.8	arhgef3
+erythroid_lineage_cell	gata2a	dpy30	ism1	aggf1	csrnp1a	zbtb33	kdm6bb	spi1b
+esophagus	cdx1b	pax3b	agr2	fgf10a	irf6	st3gal7	ihha	fgf10b
+establishment_of_epithelial_cell_polarity	epha6	vangl2	mmp14a	pard3ab	cldn5a	cd164	epha4b	hmx1	pard6gb
+establishment_of_planar_polarity	gpc4	prickle1a	mmp14a	pard3ab	ttc8	wnt11	vangl2
+exit_from_mitosis	cdh1	actl6a	kif11	mpp5a	neurod1	robo3	cdc14aa	fbxo5	slit1b	cdc14b	cdh2
+exocrine_cell	jag2b	jag1b	nr5a2	ptf1a	lnx2a	epas1b	nom1	cftr	lnx2b	leg1.1
+exocrine_pancreas	jag2b	jag1b	nr5a2	ptf1a	lnx2a	epas1b	cftr	lnx2b	leg1.1
+exocrine_pancreas_development	met	jag2b	jag1b	nr5a2	ptf1a	lnx2a	epas1b	nom1	cftr	lnx2b	leg1.1
+extracellular_matrix_assembly	gpc4	thbs4b	cdh2	stat3	rap1b	prickle1a	cdh5	efemp2a	otol1a	amotl2a	lama1
+extracellular_matrix_organization	gpc4	thbs4b	cx43	serpinh1b	prickle1a	tfpi2	mmp11a	mmp11b
+extrahepatic_duct	vps18	sox32	trappc11	fgf10a	nf2b
+eye_photoreceptor_cell	ENTREZID:192346	guca1e	noctb	cc2d2a	rab8a	nocta
+eye_photoreceptor_cell_development	ENTREZID:192346	rho	kif7	kif3a	kif17
+eye_photoreceptor_cell_differentiation	lbhl	neurod1	es1	mdka	her4.2	opn1lw1	otx2b	dzank1	opn1lw2	kif7	ubr3	kif17	ninl
+face_development	ENTREZID:192346	wnt4a	foxi1	ltk	gdf6a	zic2a
+face_morphogenesis	gpc4	wnt5b	wnt4a	vegfaa	slc1a2b	foxi1	wls	gdf6a	zic2a	wnt9a
+facial_ganglion	plxnb2b	mab21l2	mab21l1	pcdh17	plxnb2a	lrp2a	chd7
+facial_lymphatic_vessel	mir126a	lyve1b	vegfc	vegfd
+facial_nerve_development	met	plxnb2b	cxcr4b	vangl2	klf6a	foxa2	scrib	nhsl1b	klf7a	cxcr7	plxnb2a	rest	plxna3
+facial_nerve_formation	met	plxnb2b	cxcr4b	klf6a	foxa2	olig2	scrib	nhsl1b	klf7a	prickle1b	cxcr7	plxnb2a	rest	vangl2
+facial_nerve_motor_nucleus	foxa2	cxcl12a	hspb1	scrib	pyroxd1	cdh6	phox2bb	pcdh19	prickle1b	pcdh17	rest	pknox1.1
+fast_muscle_myoblast	scube3	jam2a	cxcr4a	pax7a	prdm1a	cxcl12a	crk	etv2	crkl	pax7b	akap12b	jam3b	dock5	dock1	lbx2
+female_sex_differentiation	ar	mir34	npr2	gsk3ab	gper1
+fertilized_egg	bmp2b	mapk1	mapk3	vrtn	pnrc2	cfdp1
+fibroblast_growth_factor_receptor_signaling_pathway	fgfr4	foxc1a	aldh1a2	tfap2a	lamb1a	dlc	dld	atoh1a	fgf3	bmp7a	smad2	bptf	tgfb2	leg1.2	cnot8	fgf23	fgfr3	sox9a	leg1.1	fgf8a
+fin_bud	tbx5a	gli2a	pax9	fgfr1a	bhlha9	rnf2	pthlha	fgf20a	lbx2	flcn	and1	fgf24	pax1b
+fin_morphogenesis	wnt8a	clocka	ctnnb1	shha	fn1b	nomo	yap1	wwtr1	smad3a
+fin_musculature	frem1a	tbx15	myhz2	frem2a	frem1b	fras1	frem3	frem2b	tbx18
+fin_vasculature	cyp1c2	cxcr4b	ahr2	pcgf1	col9a1b	cyp1c1	notch3	hspa12b
+floor_plate	kif11	tbx16	shha	tbxta	sulf1	gata2b	draxin
+floor_plate_development	enpp2	kif11	tbx16	shha	tbxta	sulf1	gata2b
+floor_plate_formation	kif11	vangl2	tbx16	shha	ihhb	tbxta	sulf1	gata2b	draxin
+floor_plate_neural_tube	urp2	urp1	kif11	foxa2	gli2a	ihhb	foxa3
+forebrain_cell_migration	ENTREZID:192346	pitx2	gata3	fgf8a	vsx1	sema6a	ptpro	plxna2
+forebrain_development	pth4	ENTREZID:192346	gper1	gdf6a	bsx
+forebrain_midbrain_boundary	lgr6	adcyap1a	wnt8a	shha	notch1a	cyp26b1	adcyap1b	gnrh2	gnrh3	tshz1	sfrp1a	ptpro	nr2e1	nr2e3	foxo3a	gli2b	lgr4	wnt3	gbx1	gbx2
+forebrain_morphogenesis	kctd13	mir9-1	pth4	vegfaa	lef1	gper1	gdf6a
+forebrain_neural_plate	lgr6	htt	shha	foxg1a	tcf7l1a	emx3	pax6a	vsx1	six3a	alcamb	lhx9	lgr4	zic2b	zic2a	lhx2b
+forebrain_neuron_development	mir9-1	pth4	otpb	vegfaa	lef1	otpa
+forebrain_neuron_differentiation	mir9-1	pth4	vegfaa	lef1	casp8	rtn4b
+forebrain_regionalization	cxcr4a	zic1	shha	emx2	bmp2b	gnrh2	gnrh3	fez1	nkx2.4b	sox19b	zic4
+forebrain_ventricle	mpp5a	zic1	dbx1b	hey1	arnt2	atp1a1a.1	zic4
+foregut_morphogenesis	jag1a	hdac1	wnt4a	neurod1	shha	sox17	pbx4	foxi1	fgf10a	ptf1a	dusp4	cyp3a65	ENTREZID:573128	ENTREZID:573213	meis3
+forelimb_morphogenesis	tbx5b	fgf8a	prdm1a	fgf24	wnt2ba	pdlim7	nipblb	tbx5a
+formation_of_primary_germ_layer	aldh1a2	ENTREZID:192346	her1	cdh2	cyp26a1	fli1a	ccdc80	irf6	nr3c1	etv2	ripply1	ogg1	nanog
+gastrula_cell	lurap1	wnt8a	chrd	dkk1b	stat3	dvl2	cdc25b	nanog
+germ_ring	ENTREZID:192346	id3	chrd	ctnnb1	mid1ip1l	ext1a	ext1b	ext1c	pcdh1g18	osr1
+gill_filament	fgfrl1a	gcm2	fgfrl1b	slc26a6l	slc26a4	slc26a3.1	cldnb
+glandular_epithelial_cell_development	wnt4a	vegfaa	cxcl12a	foxi1	snai1b
+glial_cell_migration	sox10	rock2a	dync1h1	tgfb1a	prnpa	chd7	znf16l	slc7a7
+glial_cell_proliferation	fgf8a	mbpa	actr10	ranbp9	grna
+gliogenesis	sim1a	her2	her8a	olig2	rbpja	kmt2a	notch1a
+glomerular_basement_membrane	nostrin	myh9a	slc43a1a	p4ha2	kirrel1a	myo1ea	npnt	nphs1
+glomerular_capillary	nostrin	irx1b	mpp5a	myh9a	slc43a1a	glcci1a	mnx2b	tmem234
+glomerular_capillary_formation	nostrin	irx1b	mpp5a	myh9a	slc43a1a	glcci1a	mnx2b	tmem234
+glomerular_visceral_epithelial_cell_development	mir143-1	rac1a	cdc42	usp40	fat1a	elmo1	cd2ap	tnksa	apol1	npnt	brca2	tnksb	nphs1
+glomerular_visceral_epithelial_cell_differentiation	foxc1a	slc43a1a	rbpja	osr1	kirrel3l	brca2	crb2b	nphs1	cxadr	hnf1ba	wt1a
+glomerular_visceral_epithelial_cell_migration	rac1a	cdc42	fat1a	cfl1l	myo1ea	srgap2	kank2
+glomerulus_development	mir143-1	wt1a	rac1a	cdc42	usp40	fat1a	elmo1	cd2ap	tnksa	apol1	npnt	brca2	tnksb	wt1b	nphs1	vhl
+glomerulus_morphogenesis	mir143-1	mpp5a	wt1a	notch1a	pvalb7	s100b	osr1	mecom	apol1	myo1cb	brca2	nphs1	vhl
+glucagon_secreting_cell	sept7b	neurod1	arxa	pax4	gcgra	gcgrb
+glucosidase_activity	gaa	mir155	gba	gba2
+glutamate_homeostasis	sod1	sp1	slc1a2b	gnrh3	nsfa	panx1a	entpd1	atp7a	hcrt
+glutamatergic_neuron	evx2	evx1	slc1a2b	uba5	lmx1bb	lmx1ba
+glycinergic_neuron	ENTREZID:192346	evx2	evx1	sod1	slc6a5
+glycosaminoglycan_metabolic_process	cx43	sema3d	vegfaa	hapln1a	cemip2
+goblet_cell	ENTREZID:192346	ascl1a	agr2	fgfr2	klf4
+granular_layer_corpus_cerebelli	ENTREZID:192346	ntrk1	ntf3	ntrk3a	ntrk2b
+granule_cell	tlr8	tlr7	gli	ccnd1	rag1	tlr2	tlr3	tlr1	tnpo2	macf1a	mos
+granulocyte	mir722	foxq1a	dio3a	mecp2	npsn	tnfa	foxq1b	rac2
+granulocyte_differentiation	mir223	cebp1	cebpa	myb	ak2	rac2	usb1	furina
+granulocyte_migration	mir722	cxcl8b.1	gnb1a	rac2	nr4a2b	nr4a3	cxcr2
+granulosa_cell	kita	bmp15	kitb	kitlgb	gsdf	sox9a	kitlga
+gut_epithelium	sept7b	mir145	sec31a	hspa4b	etv5a	fgf10a	ihha	sec13
+habenula_development	ulk2	pitx2	shha	dbx1b	pax6a	kctd12.1	wls	gpr151	kctd12.2	bsx
+hatching_gland_cell	tbx16	ndr2	pax3a	scinla	scinlb	slc2a10	pcdh18b	soat2	bhlha15	ndr1
+head_mesenchyme	zmiz2	has2	chrd	dkk1b	shha	fgf8a	fgf3	vtg1	mustn1a	mustn1b	flcn	cdx4
+head_morphogenesis	ENTREZID:192346	vegfaa	cyp26b1	gdf6a	cfdp1
+head_muscle	gpc4	wnt5b	cyp26b1	wls	wnt9a
+heart_field_specification	wnt8a	lft1	isl1	ctnnb1	gata5	bmp4	nkx2.5	fgf1a	tmem88a	irx4a	ltbp3	ajuba	gata6
+heart_jogging	klf8	dand5	spaw
+heart_valve_formation	has2	tbx2b	nr2f1a	krit1	fn1b	heg1	med10	id4	klf2a
+hemangioblast_cell_differentiation	smoc2	hoxd4a	hoxb4a	vegfaa	notch1a	ncor1	rspo1	etv2	gpr183a	kdm1a	aggf1	ncor2	notch3	wnt16	notch1b
+hematopoietic_multipotent_progenitor_cell	myb	tgfb1a	tgfb3	itga2b	tgfb1b
+hematopoietic_stem_cell_homeostasis	atp5if1a	LOC110438496	ak2	mmp2	ptenb	fam49a	ndrg1b	mmp9	cyp2aa9
+hematopoietic_stem_cell_migration	csf3a	ENTREZID:192346	klf6a	mmp2	mmp9	cnr2	selp
+hematopoietic_stem_cell_proliferation	cxcl8a	klf6a	vdra	mmp2	ptenb	fam49a	ndrg1b	mmp9	rad51	nr3c1	urb2	wnt9a	cyp27b1
+heme_biosynthetic_process	abcb10	cat	sod1	keap1a	nfe2l2a	blvrb	xgb	blvra	hmox1a
+hemoglobin_binding	abcb10	mir144	meis1b	xgb	hbbe1.1
+heparan_sulfate_proteoglycan_biosynthetic_process	mir143-1	gpc4	sdc2	wnt5b	tbx16	fgf2	sdc4	scube1
+hepatic_duct	vps18	sox32	hdac1	trappc11	nf2b	fgf10a	sox9b
+hepatic_duct_development	vps18	sox32	hdac1	trappc11	fgf10a	nf2b	sox9b
+hepatoblast	zfyve9a	mir122	efnb1	cebpa	tbx2b	tp53	bmp2a	nr5a2	ppp1r12a	bms1	epas1b	sb:eu779	nav3	leg1.1	id2a
+hepatoblast_differentiation	zfyve9a	mir122	tbx2b	nr5a2	epas1b	leg1.1	id2a
+hepatocyte_cell_migration	met	bmp2a	spint1a	ppp1r12a	epas1b	nav3	st14a	leg1.1
+hepatocyte_differentiation	zfyve9a	mir9-1	mir122	met	tbx2b	tp53	vegfaa	nr5a2	cnr1	epas1b	wnt2bb	klf8	hnf1ba	cnr2	leg1.1	id2a
+hepatocyte_proliferation	mir9-1	mir145	id2a	tbx2b	tomm22	psmd10	cnr1	grna	cnr2	vegfaa
+hindbrain_commissure	pax2a	nkx1.2la	nkx1.2lb	prune2	lrrk2	galr2b
+hindbrain_interneuron	brd2a	pbx4	olig2	prdm12b	dcc	pbx2	lbx2
+hindbrain_morphogenesis	gbx2	brd2a	rfng	sgca	rac3b
+hindbrain_neural_keel	nectin1a	efnb2a	shha	hoxb1b	fgf8a	fgf3	notch1a	gli2b	pcdh19	nectin1b	cdh7a	epha4a
+hindbrain_neural_plate	lgr6	irx1b	irx7	gbx1	meis1b	ENTREZID:192346	zic1	wnt8a	gli2a	egr2b	htt	her3	gsk3b	her8a	dtnba	mib1	gli1	epb41l5	irx4a	lhx9	lgr4	zic4	lhx2b	cdx4	dmd
+hindbrain_neural_tube	mmp25b	gli2a	hoxb1b	brd2a	olig2	gli1	prdm12b	kif7
+hindbrain_nucleus	ENTREZID:192346	rfng	prune2	sgca	cep290	rest	rac3b
+hindbrain_structural_organization	gbx2	brd2a	rfng	sgca	rac3b
+hindbrain_tangential_cell_migration	cxcr4b	vangl2	gnrh3	cxcr7	rest	prickle1b
+histone_methylation	nes	spi1b	fbl	kdm6ba	ezh2	kdm6bb
+horizontal_myoseptum	mir126a	enpp2	hdac1	flt4	ntn1a	cdh2	sulf1	cxcl12a	lpar1	epcam	chodl	svep1	lbx2
+hyaluronan_biosynthetic_process	nppb	ENTREZID:192346	cx43	sema3d	tbx2b	shha	fgf8a	fgf3	vegfaa	nppa	hmmr	hapln1a	med10	crip2	igf2bp1	cemip2	has2
+hypertrophic_chondrocyte	panx3	ewsr1a	ext2	fam20b	dhh	col10a1a	xylt1	col11a2	kif5ba	sox9a	ihha
+hypochord	frem1a	foxa2	twist3	foxa3	pth1ra	notch1a	dtnba	sulf1	tjp3	tjp1a	arl6ip1	tjp2b	cdkl1	hapln1a	pthlha	frem2a	frem1b	col2a1a	fras1	frem3	frem2b	egfl7	dmd
+hypochord_development	frem1a	dlc	foxa2	twist3	foxa3	pth1ra	notch1a	dtnba	sulf1	tjp3	tjp1a	arl6ip1	tjp2b	cdkl1	pthlha	frem2a	frem1b	col2a1a	fras1	frem3	frem2b	dmd
+hypothalamus_cell_differentiation	pth4	shha	rx3	lef1	spred2b
+hypothalamus_gonadotrophin-releasing_hormone_neuron_development	cxcr4b	cxcl12a	nsfa	nsmfb	hcrt	gnrh3
+immature_eye	vps18	neurod1	gap43	obscna	hsf1	hsp70.3
+inner_ear_auditory_receptor_cell_differentiation	mir183	kremen1	myo7aa	her4.2	sox3	sox2	prnpa	kdm1a
+inner_ear_development	mir183	itga8	sox3	pcdh15a	sox2	lrp5	fgf4
+inner_ear_morphogenesis	mir183	itga8	emx2	pcdh15a	sox3	sox2
+inner_ear_receptor_cell_development	kremen1	dner	her4.2	ildr1b	ryk	vdrb	lrp5	fgf4	adgrg6
+integrin_biosynthetic_process	itga8	vclb	ptk2ab	ENTREZID:192346	pcdh15a	egfl6	vcla	svep1
+integument_ionocyte	ENTREZID:192346	grhl1	rhbg	oxt	slc12a10.2	clcn2c	foxi3a
+intermediate_cell_mass_of_mesoderm	ptpn9a	cebpa	tal1	stat3	plcg1	crim1	ctcf	csrnp1a	runx1
+intermediate_mesodermal_cell_differentiation	jak2a	stat5a	socs1a	csrnp1a	tbx16
+interpeduncular_nucleus_tegmentum	kiss2	gpr151	kiss1ra	kiss1
+interrenal_gland	fn1a	fdx1	jag2b	jag1b	wt1a	notch1a	fdx1b	cyp11a2	brca2	cyp21a2
+intersegmental_artery	isl2a	shha	gas6	mgp	rspo1	tmem230a	calcrla	rnf213a	dll4	svep1	vegfd	wnt16	vegfaa
+intersegmental_lymph_vessel	flt4	vegfc	syk	zap70	rasgrp4	dll4	svep1	vegfd
+intersegmental_vein	ENTREZID:192346	ldb2a	vegfaa	ftr82	cdh5	tmem230a	prdx1	svep1	dll4
+intersegmental_vessel	vegfaa	ftr82	tmem230a	prdx1	dll4	svep1
+intestinal_bulb	crabp2a	fabp2	slc2a2	fgf10a	aldh8a1	crabp2b	aldh1a3	ghsra	ghrl
+intestinal_epithelial_cell_differentiation	cdx1b	agr2	fgfr2	klf4	prl	sec13	ascl1a
+intestinal_lipid_absorption	fabp2	onecut1	mttp	vps33b	nr1h3	fabp1b.1	vps51
+intracellular_cholesterol_transport	cav1	slco1d1	amfra	nr1h3	npc1
+intracellular_mRNA_localization	wnt8a	ccnd1	yap1	wwtr1	grip2a	dazl	btr20	nanog	mos
+intrahepatic_bile_duct	vps18	jag2b	jag1b	onecutl	id2a	notch1a	shbg	trappc11	ifng1	nf2b	cldn15lb	ifng1r	add3a	sox9b	cdk5
+intrahepatic_bile_duct_development	vps18	jag2b	jag1b	onecutl	id2a	notch1a	shbg	trappc11	ifng1	nf2b	cldn15lb	ifng1r	sox9b	cdk5
+intrahepatic_bile_duct_epithelial_cell	vps18	id2a	shbg	trappc11	nf2b	cldn15lb	cdk5
+ion_homeostasis	pth4	hif1ab	prdx1	piezo1	cyp2aa9
+iris	foxc1a	p2rx4a	pitx2	scinla	fgf19	nr2e1	nr2e3	pax6b	foxc1b
+keratinocyte_differentiation	ENTREZID:192346	tp63	smoc2	tp53	grhl1	krt18a.1	irf6	svep1	tmprss4a	grhl3	krt8	foxi3a
+kidney_epithelial_cell	vclb	tp53	tmem230a	hsf4	vcla	srgap2	dll4	brca2
+kidney_morphogenesis	vclb	jag2b	jag1b	wt1a	brd2a	notch1a	epcam	vcla	brca2
+lamina_densa	scarb2a	shha	col4a5	col4a6	npnt	lama1
+lateral_dorsal_aorta	tbx5a	twist3	sema3aa	tal1	gata2b	aqp8a.1	unc45a	tbx20	sox18	sox7
+lateral_floor_plate	col12a1a	tbx16	ndr2	tbxta	fgf8a	dtnba	gata2b	cdkl1	hand2	dmd
+lateral_line_development	vgll4a	cxcl12a	vgll4b	vgll4l	snai1b
+lateral_line_ganglion	mmp25b	fgf3	fgf10a	clrn1	nptx2a	prune2	kcnn1b
+lateral_line_nerve	klf6a	cdkn1bb	sox2	gle1	prnpa	nptx2a	klf7a
+lateral_line_primordium	gpc4	lef1	cxcl12a	hdac3	amotl2a	yap1	ntrk2b	bdnf	ntrk2a	snai1b
+lateral_mesoderm	efnb1	wnt8a	gdf3	pitx2	tdgf1	fli1a	lef1	spaw	sb:eu779	dyrk2	klf8	ndr1
+lateral_mesoderm_development	wnt8a	gdf3	nr2f1b	aqp8a.1	osr1	dyrk2	hand2	ndr1
+lateral_mesoderm_morphogenesis	efnb1	tbx5a	wnt8a	gdf3	pitx2	tdgf1	fli1a	lef1	spaw	fgf24	aqp8a.1	osr1	sb:eu779	dyrk2	klf8	hand2	ndr1
+lateral_mesodermal_cell_differentiation	tbx5a	tcf7l1a	fgf8a	tcf7l1b	bmp4	fli1a	lef1	wnt2ba	fgf10b	cdx4	fgf3
+lateral_semicircular_canal	atp1b3a	bmp4	atp2b1a	ildr1b	tmie	slc26a2	mif
+lateral_semicircular_canal_development	atp1b3a	bmp4	atp2b1a	ildr1b	tmie	slc26a2	mif
+lens_capsule	fn1a	ptk2ab	gfap	p4ha2	itga5
+lens_epithelium	fn1a	cdh1	ptk2ab	tp63	cdh2	dnmt1	p4ha2	itga5	uhrf1	lama1	pax6b
+lens_fiber_cell	cryaa	fn1a	cdh1	ptk2ab	cdh2	dnmt1	tp53	itga5	ddx39ab	uhrf1	hsf4	gdf6a
+lens_fiber_cell_development	cryaa	cdh1	cdh2	dnmt1	egr1	tp53	fgf19	pitx3	ddx39ab	uhrf1	grifin	hsf4	gdf6a	foxe3
+lens_fiber_cell_differentiation	cryaa	fn1a	ptk2ab	dnmt1	tp53	hsp70.3	fgf19	itga5	ddx39ab	uhrf1	hsf4	gdf6a
+lens_fiber_cell_morphogenesis	fn1a	cdh1	ptk2ab	cdh2	egr1	hsp70.3	fgf19	itga5	pitx3	ddx39ab	gdf6a	foxe3
+lens_placode	sox21a	gfap	foxe3	pitx3
+leucine_metabolic_process	abcb10	lurap1	dvl2	lrrk2	adgra2	gper1	gbf1
+leukocyte_chemotaxis	gnb1a	trim9	cxcr3.1	cxcl18b	cxcr2	cxcl11.1
+leukocyte_differentiation	cebpa	ptenb	fam49a	ndrg1b	rac2	cd79a
+leukocyte_migration	mir722	cxcl8b.1	per2	gnb1a	trim9	per1b	rac2	nr4a2b	nr4a3	cxcr2
+lipid_localization	fabp2	cav1	olfm1a	olfm1b	hs1bp3	fabp1b.1
+lipid_phosphatase_activity	ptenb	ocrl	ptena	synj1
+liver_and_biliary_system	jag2b	jag1b	id2a	tomm22	cdk5
+liver_primordium	a2ml	sox32	ENTREZID:192346	chrd	her5	bmp2a	bmp2b	prox1a	fabp2	rbmx	osbpl2b	fgf10a	ptf1a	ppp1r12a	angptl2b	angptl1a	osbpl2a	angptl6	nr5a1a
+locus_coeruleus	tfap2a	npy	pitx3	nr4a2b	lmx1bb
+lymph_vessel	flt4	cxcl12a	vegfc	svep1	mir126a
+lymph_vessel_development	flt4	cxcl12a	vegfc	mir126a
+lymph_vessel_endothelium	mir126a	flt4	mafba	nr2f2	bmp2b	cxcl12a	vegfc	unc5b	ccbe1	prox3	svep1	apln
+lymph_vessel_morphogenesis	mir126a	mafba	ccbe1	svep1	vegfc
+lymphangioblast	mir126a	flt4	cxcl12a	gipc1	rasgrp4	stab2	hoxc9a
+lymphangiogenesis	flt4	cxcl12a	svep1	vegfd	mir126a
+lymphatic_endothelial_cell_differentiation	mir9-1	lpar6	fli1a	vegfaa	lef1
+lymphocyte_differentiation	il4	tet1	tet3	LOC110438496	ENTREZID:192346	ptenb	fam49a	ndrg1b	nol9	il13	cd79a
+lymphocyte_proliferation	LOC110438496	ENTREZID:192346	clint1a	ptenb	fam49a	ndrg1b	havcr1	pllp	nol9	tox
+lymphoid_progenitor_cell	tp53	lef1	ak2	ptenb	fam49a	ndrg1b	dpy30	nlk2	cd79a	gfi1b	gfi1aa
+lymphoid_progenitor_cell_differentiation	ak2	ptenb	fam49a	ndrg1b	zfpm1	dpy30	kmt2a	cd79a	gfi1b	gfi1aa
+mRNA_catabolic_process	cbfb	dnd1	dcp2	eftud2	pnrc2	runx3	cnot7
+mRNA_export_from_nucleus	ENTREZID:192346	gata5	pak1	gle1	nxt2
+mRNA_transcription_by_RNA_polymerase_II	ENTREZID:192346	esr1	her1	esr2b	tbp	znf143b	elocb	slc7a6os	her7	ca15b
+macrophage_activation	tlr8	tlr7	rag1	tlr2	tlr3	tlr1
+macrophage_chemotaxis	mir124-1	wasb	trim9	cxcr3.1	cxcl11.1
+macrophage_differentiation	il4	LOC101885606	cebpa	spi1b	stat6	sp7	rac2	irf8	ism1
+macula	aldh1a2	sox10	atp1b3a	otx1	fgf5	trpv4	oc90	pax5	aldh1a3	vhl
+male_meiosis_I	ddx4	ptmaa	sycp1	ptmab	igf3
+male_meiotic_nuclear_division	nanos3	ttk	nanos1	ptmaa	sycp1	ptmab	mlh1
+mandibular_arch_skeleton	hdac1	fgf3	foxi1	disp1	shox	tfap2a
+mandibular_neural_crest	nfixa	hdac1	frzb	fzd7a	fgf3	foxi1	disp1
+marginal_blastomere	magoh	frzb	wnt8a	gsc	ctnnb1	gpx4a	gpx4b	fyna	siah2l	sfrp1a	net1	lnx2b	med12	eomesa
+mature_neutrophil	meis1b	ptenb	ncor1	irf8	ism1	ncor2
+mechanoreceptor_cell	mir183	itga8	sox3	pcdh15a	sox2	lrp5
+medial_fin_development	myhz2	cx43	dlx5a	dlx6a	hapln1a	spon1b
+medial_floor_plate	mdka	nkx1.2la	nkx1.2lb	cdkl1	tbx16	ndr2	tbxta
+median_fin	nrg2a	shha	dlx5a	dlx6a	parp3	erbb2
+median_fin_fold	nrg2a	dlx5a	dlx6a	parp3	erbb2	tcf7
+medulla_oblongata	kiss1	etv5b	smad3b	fgf1a	cnr1	slc6a5	phox2bb	smad3a	cart4
+megakaryocyte_development	mir223	gata1a	znf148	gfi1b	gfi1aa
+meiosis_I	npr2	ccnd1	mapk1	mapk3	gper1	mos
+meiotic_cell_cycle	zgc:165502	npr2	ccnd1	hsp90aa1.2	gper1	ezh2	mos
+melanoblast	hdac1	trpm7	kita	pax3a	mtrex	oca2	gfpt1	foxd3	mitfa
+melanocyte_apoptotic_process	mitfa	foxd3	fgf3	tp53	pomca	ltk	gas7a
+melanocyte_migration	akt1	ENTREZID:192346	foxd3	fgf3	pomca	bace1	bace2	vps11
+melanophore_stripe	igsf11	dlc	notch1a	tspan36	cx39.4	ltk	gja5b	notch2
+melanosome_transport	prickle2b	atp6v1aa	dzank1	kif3a	bbs7	slc45a2	cep290	ninl	cep131	vps11	oca2	bbs4	creb3l2	arl6	bbs1
+melatonin_biosynthetic_process	npvf	mt	park7	prkn	mul1a	kcnk10a	valopa
+melatonin_metabolic_process	npvf	mt	park7	prkn	mul1a	kcnk10a	valopa
+mesencephalic_nucleus_of_trigeminal_nerve	etv5b	fgf1a	tph2	gpr151	kiss1
+mesencephalic_vein	cyp1c2	tp53	vegfaa	cyp1c1	ahr2
+mesenchyme_pectoral_fin	dlx5a	dlx6a	bhlha9	rnf2	fgf24	pdlim7	osr1	osr2	pi4kaa	myf5	lbx2	tbx5a
+mesendoderm_development	rnf111	apela	cxcr4a	ENTREZID:192346	gdf3	lft2	tdgf1	siah2l	osr1	net1	aplnra	aplnrb	mir430b-10	lft1	ndr2	ndr1
+mesodermal_cell	apela	cxcr4a	tbx5a	clocka	tbx16	cyp26a1	fli1a	bmp2b	lef1	bmp5	nomo	smad3a
+mesodermal_cell_fate_specification	tbx5a	fli1a	lef1	rac1a	fgf24	rest	prex1	cdx4
+mesodermal_cell_migration	apela	cxcr4a	vangl2	tbx5a	fbln1	wnt11r	fgf8a	cdc42	fgf24	msgn1	tbx1	churc1	rest	hmcn2	prex1	rac1a	tbx16
+methionine_metabolic_process	prps1a	p2rx4a	tp53	gabrb2	selenoh	cnr1	msrb3	cnr2
+microglia_development	sema4d	foxq1a	foxq1b	casp8	grna
+microglial_cell_activation	mir155	il4	foxq1a	stat6	foxq1b	gba	casp8
+microtubule_cytoskeleton_organization	sept7b	racgap1	pard3ab	sass6	rab11a	map1b
+microvillous_olfactory_receptor_neuron	ENTREZID:192346	ntrk1	rag1	pvalb7	s100b
+midbrain_hindbrain_boundary_neural_plate	lgr6	irx7	gbx1	wnt8a	fzd7b	gsk3b	ebf2	gli1	her11	lgr4	neurog1	her5
+midbrain_hindbrain_boundary_neural_tube	mir9-7	lgr6	plxnb2b	gbx1	wnt8a	pax2a	brd2a	sox21a	gsk3b	pbx4	gli1	tshz1	lgr4	plxnb2a	pbx2
+midbrain_neural_tube	lgr6	plxnb2b	mab21l2	mab21l1	shha	her4.2	brd2a	pax6a	lhx9	lgr4	plxnb2a	draxin	lhx2b
+midbrain-hindbrain_boundary_development	gbx1	ENTREZID:192346	brd2a	myo1b	rnf152	gbx2
+midbrain-hindbrain_boundary_morphogenesis	grhl2b	znf219	gbx1	ENTREZID:192346	brd2a	znf143b	ptpro	myo1b	ogg1	gbx2
+midbrain-hindbrain_boundary_structural_organization	grhl2b	znf219	gbx1	ENTREZID:192346	brd2a	znf143b	ptpro	myo1b	ogg1	gbx2
+migratory_cranial_neural_crest_cell	id2a	twist1a	pax7a	bmp4	tgfb3	lrp5	hdac4	zic2b	zic2a	disp1
+migratory_neural_crest	sox10	cdon	cdh2	ppardb	dmxl2	pard3ab	rgs2	lrp5
+migratory_neural_crest_cell	sox10	cdon	cdh2	ppardb	dmxl2	pard3ab	rgs2	lrp5
+mitotic_G2_phase	nqo1	mapk1	nfe2l2a	mapk3	stmn4	meox1	piezo1
+mitotic_S_phase	cdh1	id2a	ube2ib	rrm2	ssrp1a	fbxo5	esco2
+mitotic_cell_cycle_arrest	dmbx1a	kif11	plk1	tp53	aurka	fbxo5	aspm	map9	vsx2
+mitotic_cell_cycle,_embryonic	dmbx1a	ENTREZID:192346	kif11	hoxb1b	esco2	map9	pmaip1	vsx2
+mitotic_sister_chromatid_cohesion	rad21a	runx1	runx3	esco2
+mitotic_spindle_assembly	cep83	ENTREZID:192346	tp53	aurka	ehd1b	cep72	bmb	cep290	ehd3	cep131	cfap53	cenpj	bbs4	cetn4
+mitotic_spindle_organization	stil	efnb2a	tp53	pard3ab	sass6	aurka	cfap53	epha4a
+molecular_layer_corpus_cerebelli	ENTREZID:192346	gpia	gpib	ntrk1	ntf3	ntrk3a	ntrk2b
+morphogenesis_of_an_epithelial_sheet	mtx2	tbx16	tbxta	prickle1a	yap1	wwtr1	eomesa	hnf1ba
+morphogenesis_of_embryonic_epithelium	itga8	efnb1	prkci	pax7a	sb:eu779	yap1	fras1	pax7b	svep1	wwtr1	llgl2
+motile_cilium_assembly	ift88	gas8	rer1	dnaaf4	dzank1	pkd2	ccdc151	daw1	ninl	stk36	cfap53	foxj1a
+motor_neuron_axon_guidance	foxc1a	sema4d	flt4	ntn1a	cntn2	nrp1a	ccdc80	hif1ab	vegfc	chn1	pcdh18b	notum2	e2f7	dcc	ENTREZID:192346	plxna3
+motor_neuron_migration	foxc1a	LOC101883726	vangl2	pard3ab	ca8	dll4	rest
+muscle_attachment	ENTREZID:192346	thbs4b	unc45b	snu13b	tgfbi	cyp26b1	barx1	myo18ab	myo18aa
+muscle_cell_cellular_homeostasis	gpc4	smyd1a	erbb2	fhl1b	trim63a	hspb7	foxo1a	ppp3ca	nrg1
+muscle_cell_fate_specification	sufu	wnt8a	qkia	gata5	prdm1a	etv2	kdm6ba	kdm6bb	rest	lama1	gata6	cdx4	tmem88a
+muscle_fiber_development	nfixa	ENTREZID:192346	prdm1a	ddx39ab	mymk	dyrk2	sox6
+muscle_organ_morphogenesis	tbx5a	isl1	nkx2.7	nkx2.5	cyp26b1	ddx27	wwtr1
+muscle_pioneer	jag1a	alcama	sema3aa	cdh2	notch1a	alcamb	mib1	crim1	cav3	lbx2	hspb11	shha
+muscle_precursor_cell	fn1a	pax7a	itga5	meox1	grk5	yap1	pax7b	wwtr1	grk3	snai1b
+muscle_structure_development	serpine1	gpc4	wnt5b	qkia	notch1a	smyd1a	tpm3	ren	wls	cavin1b	wwtr1	wnt9a
+muscle_thin_filament_assembly	tnnt3b	mef2ab	naca	tmod4	mef2aa	mef2ca	mef2d	hsp90aa1.1	ttn.2	smyhc1	tnnt2c	mef2b	myo18aa	tnnt2a	tnnt3a	mef2cb
+myelin_maintenance	olig1	kif1bp	mtor	cldnk	adgrg6	fbxw7
+myelinating_Schwann_cell	sox10	adgrg1	gna13a	pard3ab	sec63	gle1	gna12a	adgrg6	chd7	dync1h1
+myeloblast	cebpa	rag1	tal1	ptenb	rac2
+myeloid_cell_development	foxq1a	spi1b	myd88	sp7	foxq1b	ism1	kdm6bb
+myeloid_cell_differentiation	LOC101885606	jak2a	sox4a	myd88	sp7	irf8	ism1	kdm6bb	spi1b
+myeloid_leukocyte	cebpa	gata1a	mpx	il1b	etv2	prf1.3
+myeloid_leukocyte_differentiation	cebpa	spi1b	gata1a	mpx	myd88	il1b	pak4	irf8	etv2	med12	flt3	runx1
+myoblast	isl1	en1a	nkx2.7	nkx2.5	ddx27	ddx39ab	meox1
+myoblast_fusion	jam2a	jam2b	pax7a	dcaf7	dysf	pax7b	smyd1b	jam3b
+myoblast_proliferation	mir145	isl1	nkx2.7	nkx2.5	ddx27	lbx2	asb11	pax7a	pax7b
+myocardial_precursor	fn1a	s1pr2	ENTREZID:192346	gna13b	itga5	tac1	grk5	yap1	wwtr1	spns2	grk3	snai1b	cdx4
+myocardium	tbx5a	isl1	vegfaa	nkx2.7	nkx2.5	zbtb16a	dusp6	wwtr1
+myofibril_assembly	tmod4	qkia	hsp90aa1.1	smyd1a	tpm3	erbb2	mybpc2b	myo18aa	smyd1b
+myoseptum	mir126a	gpc4	hdac1	flt4	sulf1	cxcl12a	chodl	svep1	lbx2
+myosin_filament_assembly	tnnt3b	qkia	ttn.2	smyhc1	tnnt2c	tpm3	mybpc2b	myo18aa	smyd1b	tnnt3a	hsp90aa1.1
+myosin_filament_organization	sept7b	ENTREZID:192346	naca	ttn.2	smyhc1	myo1b	myo1ea	myo1cb	myo18aa	smyd1b	hspb11	hsp90aa1.1
+myotome	crebbp	tbx16l	pou5f3	pax7a	meox1	mmp11a	mmp11b	pax7b	mespba	ripply1	dmd
+myotome_development	crebbp	tbx16l	pou5f3	mymk	tm4sf5	meox1	myo18ab	mmp11a	mmp11b	myo18aa	mespba	ripply1
+myotube_cell_development	qkia	pax7a	smyd1a	cyp26b1	tpm3	mymk	stac3	hspb7	dyrk2	pax7b	tpcn2
+natural_killer_cell	tlr8	tlr7	ENTREZID:192346	tlr2	tlr3	tlr1	nfil3	prf1.3	prkdc	rag1
+negative_regulation_of_Notch_signaling_pathway	irx1b	id2a	neurog1	her5	her3	ebf2	notch1a	her8a	mib1	her15.2	ptf1a	her12	mib2	edn1	her7
+negative_regulation_of_Wnt_signaling_pathway	mir19b	ptk7b	ccdc136b	sox10	dkk1b	gsk3b	ppardb	mtor	apc	eaf1	eaf2	rgs2	slc35c1	hipk2	ccr7	wnt8a	nkd1	ctnnb1
+negative_regulation_of_angiogenesis	arhgap18	mir126a	gata4	gsk3b	igf2a	cxcl12a	dcbld2	stab2	hoxc9a
+negative_regulation_of_canonical_Wnt_signaling_pathway	ptk7b	wnt4a	dixdc1a	slc35c1	ccr7	hs2st1a	wnt11	gsk3b	eaf1	eaf2	nkd1	wnt8a	ctnnb1
+negative_regulation_of_hh_target_transcription_factor_activity	gli2a	en2a	shha	gli1	dzip1	kif7
+negative_regulation_of_neurogenesis	mir26b	kremen1	sox10	mtf1	igf1rb	neurog1	her6	her3	id1	smad2	ppardb	ctdsp2	her8a	gnrh3	rgs2	dmrta2	phox2bb	kmt2a	smad3a	vsx2
+negative_regulation_of_transcription_by_RNA_polymerase_II	mir26b	her1	ctdsp2	her7	supt5h
+neural_arch	ptk2ab	mef2ca	nkx2.5	cyp26b1	dcaf7	shox	ENTREZID:192346
+neural_crest_cell_fate_specification	reck	tfap2a	hdac1	zic1	neurog1	pax3a	snw1	prdm1a	olig4	parp3	bmper	ltk	sox5	chd7	zic4	sox10	mitfa	foxd3
+neural_crest_hindbrain	aldh1a2	pknox1.2	ENTREZID:192346	zic1	htt	hoxb1a	dlx1a	dlx2a	tgfb3	irx4a	ppp1r14aa	crip2	chrna6	chrna4b	nusap1	wnt3a	zic4
+neural_keel	nectin1a	efnb2a	shha	hoxb1b	fgf8a	foxd3	fgf3	dlx5a	dlx6a	notch1a	scrib	pard3ab	stmn4	cdh6	gli2b	pcdh19	nectin1b	cdh7a	epha4a	numb
+neural_plate	akt1	chrd	dkk1b	pou5f3	hoxb1b	tcf7l1a	mib1	epb41l5	znfl1
+neural_plate_border	lgr6	akt1	tcf7l1a	snw1	olig4	bmper	zic3	lhx9	lgr4	lrp5	zic2b	zic2a	lhx2b	tfap2a	pax3a	prdm1a	foxd3
+neural_plate_development	akt1	gpc4	wnt5b	pou5f3	hoxb1b	tcf7l1a	mib1	epb41l5	znfl1	cdx4
+neural_plate_formation	akt1	chrd	dkk1b	pou5f3	hoxb1b	tcf7l1a	mib1	epb41l5	znfl1	cdx4
+neural_plate_morphogenesis	gpc4	wnt5b	chrd	dkk1b	pou5f3	hoxb1b	tcf7l1a	mib1	epb41l5	znfl1
+neural_precursor_cell_proliferation	mir125b-1	dla	shha	ihhb	adgrg1	smad3b	gna13a	gle1	gna12a	smad3a
+neural_retina_development	mir9-1	cct2	rho	vegfaa	fbl	kif3a	zic2a
+neural_rod	ENTREZID:192346	rho	her4.2	tal1	kif3a	med12
+neural_spine	twist1a	pax3a	prtga	chd7	prtgb	shox
+neurocranium	uxs1	tbx15	has2	fgf8a	fgf3	pax9	smad5	fgf10a	tgfb2	prdm5	mecom	mustn1a	satb2	mustn1b	tbx18	sox9a	disp1	prdm16	shha
+neuroectoderm	akt1	chrd	dkk1b	pou5f3	hoxb1b	mib1	epb41l5	znfl1
+neuroepithelial_cell	mir183	itga8	sox3	pcdh15a	sox2	lrp5
+neurogenic_placode	neurog1	sox3	fgf3	sox2	hnf1ba
+neurohypophysis	sim1a	otpb	fgf3	avp	fgf10a	smtlb	nos2b	cnga2a
+neuromast_deposition	ENTREZID:192346	fgf3	sulf1	dusp6	fgf10a	prnpa	pcsk5b	pcsk5a	lef1
+neuromast_development	mir183	itga8	kremen1	emx2	cxcl12a	pcdh15a	snai1b
+neuromast_hair_cell_development	mir183	itga8	kremen1	emx2	smad5	tgfb1a	cdkn1bb	pcdh15a	sox2	msrb3	prnpa	slc26a2
+neuromast_hair_cell_morphogenesis	mir183	itga8	kremen1	hdac1	emx2	smad5	tgfb1a	pcdh15a	canx	slc26a2	kdm1a
+neuromast_primordium_migration	hdac1	smad5	sulf1	cxcl12a	dusp6	tgfb1a	canx	prnpa	snai1b	lef1
+neuromast_support_cell	kremen1	ENTREZID:192346	emx2	cxcl12a	cdkn1bb	sox2	snai1b	vipr2
+neuromuscular_junction_development	ENTREZID:192346	smn1	snap25a	musk	mecp2
+neuromuscular_synaptic_transmission	ENTREZID:192346	snap25a	rapsn	cacna1aa	cacna1ab
+neuron_cell-cell_adhesion	ENTREZID:192346	si:busm1-180o5.1	pcdh19	crb2b	crb2a	cdh2
+neuron_fate_determination	her4.2	opn1lw1	ascl1b	cbfb	opn1lw2	runx3	zdhhc15b
+neuron_maturation	neurod1	kidins220b	synj1	gnrh3	hcrt	tpcn2
+neuron_projection_morphogenesis	prkci	ldb1b	kidins220b	nsfa	dcc	rtn4b	ntn5	slit2	slit3	robo2
+neuron_projection_regeneration	ngb	pax6a	cnp	rtn4r	rtn4a	dcc	rtn4b	gdnfa
+neutrophil_activation	cxcl8a	mir722	gnb1a	rac2	nr4a2b	lyn	nr4a3
+neutrophil_chemotaxis	mir722	gnb1a	rac2	cxcl18b	cxcr2
+neutrophil_differentiation	cebp1	cebpa	ENTREZID:192346	myb	ncor1	tmem88a	rac2	irf8	usb1	ism1	ncor2
+neutrophil_homeostasis	mecp2	tnfa	rac2	nr4a2b	nr4a3
+neutrophil_migration	mir722	cxcl8b.1	per2	gnb1a	per1b	rac2	nr4a2b	nr4a3	cxcr2
+neutrophil_progenitor_cell	cebpa	gata1a	mpx	ptenb	nr4a2b	ism1	nr4a3	etv2	csf3a
+nodal_signaling_pathway	apela	cxcr4a	clocka	lft1	lft2	ndr2	tdgf1	smad2	nomo	net1	smad3a	ENTREZID:192346	gdf3	ndr1
+non_neural_ectoderm	akt1	cxcr4a	ENTREZID:192346	bmp2b	smad2	bptf	enc3	bmper	tgfb2	fgf1a	map1b
+non-canonical_Wnt_signaling_pathway	ptk7b	mcc	znf703	frzb	ctnnb1	fzd7a	gsk3b	mcamb	prickle1a	zic3	fto	ccr7	sfrp2	wnt11	wls	ror2	wnt9a	gpc4	wnt5b
+noradrenergic_neuron_development	tfap2a	hdac1	dla	dld	shha	fgf8a	pitx3	nr4a2b	lmx1bb	hand2
+noradrenergic_neuron_differentiation	tfap2a	hdac1	dla	dld	shha	fgf8a	pitx3	nr4a2b	lmx1bb	hand2
+notochord_cell_differentiation	jmjd6	brd2a	yy1a	tgfb1a	msgn1	ccdc80	tgfb3	gadd45ba	ppp1r12a	tgfb1b	rest	ngs
+notochord_formation	pou5f3	brd2a	cavin1b	yap1	wwtr1
+notochord_posterior_region	lgr6	pou5f3	irx3a	egfl6	lgr4	fgf4
+nuclear-transcribed_mRNA_catabolic_process,_nonsense-mediated_decay	grnb	eftud2	pnrc2	dhx34	nbas
+ocular_blood_vessel	fktn	lmo2	vegfaa	pik3cd	col18a1a	gdf6a	lama1	fkrp
+odontogenesis	ctnnb1	shha	cdh2	jupa	bmp4	bmp2b	atp2b1a	sp7
+olfactory_bulb_development	th	egr1	sept6	nrp1a	gnrh3	fosab	pvalb7	nrp2b	s100b	myh10
+olfactory_nerve_formation	ENTREZID:192346	klf6a	nrp1a	pvalb7	nrp2b	s100b	klf7a	kcnn1b	spred2b	galr2b
+olfactory_placode	mir34b	rln1	sox10	neurog1	her6	sox21a	sparc	dnaaf4	dmrta2	lye
+olfactory_placode_development	mir34b	rln1	sox10	htt	neurog1	her6	dnaaf4	dmrta2	lye	cxcr4b	cxcl12a
+olfactory_placode_formation	mir34b	rln1	cxcr4b	sox10	htt	neurog1	her6	sox21a	dlx4b	dlx3b	sparc	cxcl12a	dnaaf4	dmrta2	lye	ttll3
+oligodendrocyte_cell_fate_specification	hdac1	sim1a	dla	dld	shha	tcf3a	nkx2.2a	erbb3a	erbb2	cdkn1ca	rest	fbxw7	sox9a	sox9b	notch1a	olig2
+oligodendrocyte_progenitor_proliferation	sox10	pes	ihhb	adgrg1	nf1a	gna13a	gle1	gna12a	nf1b	fbxw7	fzd8a
+oocyte_differentiation	ar	npr2	buc	macf1a	gper1
+oocyte_maturation	ar	npr2	mapk1	mapk3	gper1
+oocyte_morphogenesis	ar	gdf3	bmp15	slc1a2b	dmrt1	rest	foxl2a	ndr1
+oocyte_stage_II	ifitm1	ifitm5	ENTREZID:192346	zp2.5	zp3	piwil1	aqp3a	pgr	ca15b
+oocyte_stage_IV	org	ifitm1	ifitm5	piwil1	paqr7b	pgr	ca15b	ghrl
+oogenesis	ar	npr2	buc	macf1a	gper1	cers2b	gsdf	kdm2aa
+opsin_transport	gnat2	rho	ift88	ift122	arl6	kif3a	cc2d2a	rab8a
+optic_chiasm	cxcr4b	sema3d	six3a	nrp1a	apc	islr2	cxcl12a
+optic_chiasma_development	mpz	cxcr4b	sema3d	six3a	cxcl12a	lhx2b
+optic_choroid	hps5	shha	ihhb	sox11a	sox4a	bcl6aa	yap1	wwtr1	zic2a	ihha
+optic_cup	cdkn1a	six6b	yap1	gdf6a	wwtr1	lama1	vsx2
+optic_fissure	sfrp5	shha	ihhb	sox11a	sox4a	bcl6aa	sfrp1a	yap1	gdf6a	wwtr1	zic2a	ihha
+optic_nerve_development	klf6a	sox11a	sox11b	six3a	tbcd	klf7a
+optic_nerve_formation	klf6a	sox11a	sox11b	tbcd	klf7a	rtn4b	spred2b
+optic_nerve_morphogenesis	mpp5a	six3a	rab10	islr2	crb1	myo5b	crb2b	rtn4b	crb2a
+optic_primordium	per2	meis1b	hdac1	cdon	ccnd1	shha	fgf3	fgf24	ptenb	fgf1a	hdac3	ildr1b	pcdh19	mych	gdf6a	ptena
+optic_stalk	arhgap18	cdon	ptch2	ihhb	six3a	sox4a	nrarpa	nrarpb	lama1	zic2a	ihha
+optic_tract	cyfip2	alcama	efnb2a	sema3d	alcamb	gnrh3	islr2	prune2	igf2bp1	rb1
+optic_vein	arhgap18	cxcr4b	lmo2	tp53	gas6	cd164	fbxw7	egfl7
+optic_vesicle	enpp2	znf703	hdac1	shha	ahr2	wrb	fgf1a	dzank1	ninl	lama1	cc2d2a	rab8a	sox9b
+optic_vesicle_formation	enpp2	znf703	hdac1	shha	ihhb	ahr2	wrb	sox4a	poc1b	fgf1a	dzank1	ehd1b	yap1	ninl	ehd3	wwtr1	lama1	cc2d2a	rab8a	sox9b	ihha
+optic_vesicle_morphogenesis	enpp2	znf703	cdon	shha	ihhb	sema6a	sox4a	prickle2b	plk4	fgf1a	dzank1	ehd1b	bbs7	plxna2	yap1	ninl	ehd3	wwtr1	lama1	ihha
+oral_ectoderm	mir140	gpc4	ENTREZID:192346	wnt5b	frzb	pdgfra	wls	wnt9b	wnt9a	shha
+oral_epithelium	cdh2	sall4	wnt9a	rxfp2a	grhl3	irf6
+ossification_involved_in_bone_maturation	gpc4	wnt5b	wls	fam20b	xylt1	wnt9a
+osteoblast_proliferation	panx3	gpc4	wnt5b	shha	wls	ihha	wnt9a
+otic_epithelium	sox10	bmp2b	gas8	slc9a3r1a	fgf5	myh10	adgrg6
+otic_lateral_line_neuromast	cdkn1bb	sox2	atp2b1a	pcsk5b	pcsk5a
+otic_placode	rln1	pax2a	fgf8a	dlx3b	sparc	foxi1	fgf10a	pax8	fgf10b	sox3	sox2	fgf3
+otic_placode_formation	rln1	pax2a	fgf8a	dlx3b	sparc	foxi1	fgf10a	pax8	fgf10b	sox3	sox2	fgf3
+otic_vesicle	hdac1	gsc	ahr2	sox3	slc9a3r1a	osbpl2b	sox2	osbpl2a	mustn1a	mustn1b	sox9b
+otic_vesicle_development	hdac1	gsc	ahr2	sox3	slc9a3r1a	osbpl2b	sox2	osbpl2a	mustn1a	mustn1b	sox9b
+otic_vesicle_formation	tfap2a	hdac1	gsc	ahr2	sox3	bmp7a	sparc	slc9a3r1a	osbpl2b	sox2	osbpl2a	sox9b
+otic_vesicle_morphogenesis	pcsk7	tfap2a	gsc	sox3	fgf3	bmp7a	tgfb1a	plk4	sox2	myh10	adgrg6	fgf10b
+otolith_development	pcsk7	tgfb1a	slc26a2	fgf4	camk2g1
+otolith_formation	pcsk7	tgfb1a	stm	otol1a	slc26a2	fgf4
+otolith_morphogenesis	pcsk7	grhl2b	wnt8a	ctnnb1	tgfb1a	daw1	slc26a2	chd7	wnt3a	foxj1a
+otolith_organ	pcsk7	fgf8a	fgf3	tgfb1a	daw1	oc90	chd7
+outflow_tract_morphogenesis	isl1	bmp4	nkx2.7	igf2a	tbx1	cfap53	notch1b	nkx2.5	ltbp3
+ovarian_follicle	npr2	igf1	ptgs2a	gper1	gsdf
+ovarian_follicle_stage_II	cyp19a1a	zp2.5	zp3	cyp19a1b	vipr2
+paired_fin	itga8	foxc1a	tbx5a	pax9	dlx5a	dlx6a	wls	fras1	and2	and1	pax1b
+palate	gpc4	wnt5b	frzb	cnbpb	dcaf7	irf6	wls	wnt9a	grhl3
+pancreas_induction	shha	pax6a	tp53	bmp2a	fgf10a	fgf24	apc	fhl1b	mnx1	lzts2a	ihha	cdk4
+pancreas_morphogenesis	nr4a2a	lepa	jag2b	jag1b	fhl1b	lepb	lepr	sox9b	ezh2
+pancreas_primordium	a2ml	chrd	her5	bmp2b	fabp2	ptf1a
+pancreatic_A_cell	sept7b	neurod1	arxa	pax4	gcgra	gcgrb
+pancreatic_acinar_cell	met	jag2b	jag1b	vdra	shha	dnmt1	nr5a2	rpl36	cftr	sox9b	ihha	bhlha15	ptf1a
+pancreatic_bud	sept7b	zfyve9a	neurog3	lamb1a	rbp4	neurod1	ascl1b	bmp2a	arxa	anxa4	lnx2a	pthlha	pax4	lnx2b	nav3	fgf10a	fgf24
+pancreatic_duct	sept7b	met	jag2b	jag1b	trpm7	neurod1	pdx1	socs3a	anxa4	cftr	sox9b
+pancreatic_ductal_cell	met	jag2b	jag1b	fhl1b	sox9b
+pancreatic_epsilon_cell	arxa	nkx6.1	tm4sf4	pax4	nkx6.2	pax6b
+parachordal_vessel	mir126a	flt4	cxcl12a	elmo1	gipc1	unc5b	prkd1	rasgrp4	stab2	dock1	hoxc9a	apln
+parapineal_organ	sec61a1	ENTREZID:192346	pitx2	sema3d	noto	fgf8a	nrp1a	sox2	med12	bsx	tbx2b
+parasympathetic_nervous_system_development	met	cxcr4b	vangl2	gsc	atoh1a	hoxd4a	hoxb4a	ret	chn1	nhsl1b	cxcr7	rest	plxna3	hoxa4a	sox9a	gdnfa
+pars_intermedia	kiss1	kiss2	fgf3	pomca	kiss1ra
+pattern_recognition_receptor_signaling_pathway	ddx58	ENTREZID:192346	myd88	nod2	nod1
+pattern_specification_process	fsta	foxc1a	chrd	nog1	pou5f3	fgf3	nkx3.2	fgf24	fgfrl1a	fgfrl1b	etv2	hand2	nanog	foxc1b
+pectoral_fin_bud	mir196b	mir196a-1	mir196c	mir196d	ENTREZID:192346	tbx5a	gli2a	pax9	bhlha9	rnf2	parp3	fgf24	osr1	osr2	pi4kaa	wnt9b	and2	mir196a-2	lbx2	and1	pax1b
+pectoral_fin_cartilage	hdac1	nr5a2	barx1	sox9a
+pectoral_fin_fold	rpz	dlx5a	dlx6a	lama5	parp3	and2	and1
+pectoral_fin_morphogenesis	foxc1a	dkk1b	pax9	fgf24	pax1b	shox	nipblb	tbx5a
+pectoral_fin_nerve	cpa6	foxc1a	sema3h	hoxd4a	hoxb4a	zgc:113210	slit1a	slit1b	hoxa4a
+pectoral_fin_skeleton	rpz	mir196b	mir196a-1	mir196c	mir196d	bhlha9	fgf24	pax1b	mir196a-2	shox	tbx5a
+pectoral_girdle	uxs1	dlx5a	dlx6a	sgcd	sox9a
+peptidase_activity	casp3a	ENTREZID:192346	trim63a	crhb	foxo1a	ppp3ca
+peptide_hormone_secreting_cell	lepa	igf1ra	neurod1	gata2a	sox4b	lepb	lepr	cdk4	prl
+pericardial_cavity	cyp1a	ahr2	apol1	fgf4	nphs1
+pericardium	cyp1a	ahr2	cav1	apol1	fgf4	nphs1
+perichondral_bone	uxs1	ptch2	ptch1	fam20b	xylt1	kif5ba
+perichondral_ossification	ptch2	ptch1	ext2	fam20b	xylt1	kif5ba
+perichondrium	uxs1	ptch2	ptch1	fam20b	xylt1	col2a1a
+periderm	prkci	grhl1	gpx4a	gpx4b	foxi3a	epcam	atp1b1a	llgl2	grhl3	irf6
+periocular_mesenchyme	tbx15	ihhb	sox4a	lmx1bb	tbx18	ihha
+peripheral_nervous_system_axon_regeneration	sox11a	sox11b	col4a5	tgfb1a	plod3	slit1a	rtn4b
+peripheral_nervous_system_myelin_formation	snap25a	elovl7b	tgfb1a	nsfa	gle1	rtn4b	ndrg4
+peripheral_nervous_system_myelin_maintenance	kif1bp	mtor	cldnk	adgrg6	fbxw7
+periventricular_nucleus	kiss1	npy	anos1a	anos1b	cdh6	pcdh19	pcdh17	kiss2
+pharyngeal_arch	itga8	ptk2ab	ENTREZID:192346	nkx2.5	cyp26b1	fras1
+pharyngeal_arch_1	fbln7	mir462	mir731	itga8	tmem87b	ptk2ab	ENTREZID:192346	ntn1b	ntn1a	fgf3	nkx2.5	foxi1	mmachc	fras1	hcfc1a	hcfc1b
+pharyngeal_arch_2	fbln7	gpr84	itga8	tmem87b	gpc4	ENTREZID:192346	wnt5b	nkx2.5	pth1a	gcm2	fras1
+pharyngeal_arch_2_skeleton	mir196b	mir196a-1	itga8	mir196c	mir196d	ednraa	fgf3	dlx5a	mef2ca	dlx4b	dlx3b	fgfrl1a	pth1a	gcm2	fgfrl1b	fras1	mir196a-2	edn1	myf5	hand2
+pharyngeal_arch_3	mir462	mir731	itga8	ENTREZID:192346	hoxb1b	foxi1	fras1	fgf10b	fgf3	nkx2.5
+pharyngeal_arch_3_skeleton	plcb3	itga8	tfap2a	pthlha	fras1	myf5	pax8	fgf8a	foxi1	fgf3
+pharyngeal_arch_4	mab21l2	gpc4	mab21l1	wnt5b	fgf3	cyp26b1	pth1a	gcm2	satb2	ponzr1	myf5	creb3l2
+pharyngeal_arch_4_skeleton	nfixa	kat6a	acvr2ba	fgf3	cyp26b1	pth1a	gcm2	acvr2aa	myf5	creb3l2
+pharyngeal_arch_5	mir462	mir731	itga8	hdac1	fgf3	fras1	myf5	nkx2.5
+pharyngeal_arch_5_skeleton	itga8	nfixa	hdac1	fgf3	fras1	myf5
+pharyngeal_arch_6	pak2a	fgf3	ephb4a	lye	edn1	myf5	hand2	shox	creb3l2
+pharyngeal_arch_6_skeleton	nfixa	pak2a	fgf3	ephb4a	caspa	edn1	myf5	hand2	creb3l2
+pharyngeal_arch_7	fbln7	tmem87b	aldh1a2	mab21l2	pknox1.2	mab21l1	unc45b	pitx2	tbx1	tshz1	pth1a	pnn	gcm2	unc45a	crip2	slc26a6l	slc26a4	slc26a3.1	wnt3a
+pharyngeal_arch_7_skeleton	tfap2a	pitx2	nkx3.2	pth1a	gcm2	hand2
+pharyngeal_arch_cartilage	fbln7	itga8	tmem87b	gpc4	ptk2ab	ENTREZID:192346	wnt5b	fgf3	wdr43	pth1a	gcm2	fras1	myf5
+pharyngeal_ectoderm	ednraa	ENTREZID:192346	wnt4a	shha	fgf3	fgfr1a	agr2	fgf24	fgfrl1a	fgfrl1b	vgll2a	fgf20a	fgf20b	wnt9b	edn1	wnt9a	foxi1
+pharyngeal_endoderm	pak2a	wnt4a	wnt11r	egr1	fgf8a	fgf3	ephb4a	fgfr2	fgf24	tbx1	fgf20a	satb2	tbx2a	edn1	runx3	sox9b	grhl3	fgfr1a	foxi1
+pharyngeal_epithelium	itga8	shha	wnt11r	egr1	fgf8a	fgfr1a	fgf24	tbx1	atp2b1a	gcm2	fgf20a	fras1	runx3	sox9b	disp1	shox	wnt9a
+pharyngeal_muscle_development	wnt8a	pitx2	fgf3	fgfr1a	cyp26b1	rnf2	fgfr2	barx1	myf5	mkxa
+pharyngeal_musculature	frem1a	kat6a	rnf2	frem2a	frem1b	fras1	frem3	frem2b	actn3a
+pharyngeal_pouch	itga8	pak2a	wnt4a	alcama	shha	wnt11r	fgf8a	l1camb	ephb4a	prdm1a	foxi1	tbx1	fgfrl1a	gcm2	fgfrl1b	dyrk1b	vgll2a	pax1b	fras1
+pharyngeal_pouch_1	itga8	wnt4a	alcama	l1camb	rag1	prdm1a	gcm2	dyrk1b	vgll2a	pax8	fras1	foxi1
+pharyngeal_pouch_2	itga8	alcama	shha	l1camb	rag1	fgfrl1a	fgfrl1b	dyrk1b	fras1	gcm2
+pharyngeal_pouch_3	itga8	fgf8a	fgf3	rag1	gcm2	fras1	pax8	foxi1
+pharyngeal_system_development	sost	fgfr1a	cyp26b1	fgf24	fgf20a	mustn1a	mustn1b	gas7a
+pharynx	vgll4a	wnt8a	wnt4a	wnt11r	fgf8a	nkx2.5	fgfr1a	fgfr2	foxi1	tbx1	vgll4b	vgll4l	nup62l	edn1	grhl3
+pharynx_development	vgll4a	wnt8a	wnt4a	wnt11r	fgf8a	nkx2.5	fgfr1a	fgfr2	foxi1	tbx1	atp2b1a	vgll4b	vgll4l	edn1	grhl3
+phosphate_ion_homeostasis	pth4	panx1a	entpd1	entpd5a	enpp1	slc34a2a
+phosphatidylinositol_3-kinase_signaling	gsk3b	gnb1a	mapk1	egfra	mapk3	kitlga	igf1
+photoreceptor_cell_differentiation	neurod1	es1	her4.2	opn1lw1	dzank1	opn1lw2	kif7	ubr3	kif17	ninl
+photoreceptor_cell_maintenance	ENTREZID:192346	six7	pmela	gpr143	dzank1	reep6	kif3a	nrl	ninl	ahi1	pmelb	cluap1
+photoreceptor_cell_morphogenesis	arl13b	six7	slc1a2b	dzank1	kif7	kif17	ninl	ahi1
+pigment_cell_differentiation	npas4l	sox10	tfap2a	prps1a	mitfa	yap1	wwtr1	chd7	lama1
+pigmented_epithelial_cell	sox10	mitfa	tfec	vps11	lama1	slc24a5
+pineal_complex	gnat2	sema3d	noto	ctnnb1	opn1sw2	tcf7l2	fgf8a	nrp1a	park7	prkn	mul1a	med12	bsx	tbx2b
+pineal_gland_development	rxfp3.2b	ENTREZID:192346	pitx2	sox2	msi2b	unc119.2	med12	bsx
+platelet_formation	vegfaa	ren	pdgfrb	pdgfra
+polster	mmp15b	tbx16	snai1a	mmp15a	foxe3	klf17	bhlha15	snai1b
+positive_regulation_of_Wnt_signaling_pathway	ptk7b	wnt5b	fzd2	six7	six3a	ctnnb2	lypd6	amotl2a
+positive_regulation_of_apoptotic_process	ambra1a	shha	brd2a	raf1a	cdk10
+positive_regulation_of_cell_cycle	dmbx1a	stat3	smad3b	arl6ip1	leo1	elocb	ccdc28b	smad3a
+posterior_cardinal_vein	mir126a	mafba	shha	vegfaa	cxcl12a	calcrla	sele	rasgrp4	wnk1b	s1pr1	kdrl	flt4	vegfc
+posterior_intestine	stmn2b	zeb2a	lgr6	rbp4	lgr4	zeb2b	cdx4
+posterior_kidney	wnt8a	tbx16	tdgf1	cyp26a1	tbxta	myb	irx3a	fgf8a	bmp2b	etv4	clint1a	etv5a	vegfc	itga2b	pllp	hand2	cdx4	osr1
+posterior_lateral_line	fli1a	lef1	cxcl12a	prune2	snai1b
+posterior_lateral_line_development	smad5	cxcl12a	tgfb1a	hdac3	gle1	prnpa	prune2	snai1b
+posterior_lateral_line_ganglion	stmn2b	mmp25b	neurod1	irx4a	barx1	prune2
+posterior_lateral_line_nerve	ENTREZID:192346	neurod1	anos1a	gle1	prnpa	sptan1	wnk1b	lbx2	gdnfa
+posterior_lateral_line_nerve_development	cxcr4b	ENTREZID:192346	neurod1	gle1	prnpa	wnk1b	lbx2	cxcl12a
+posterior_lateral_line_neuromast	smad5	cxcl12a	tgfb1a	prnpa	snai1b
+posterior_lateral_line_neuromast_deposition	fgf3	dusp6	fgf10a	prnpa	lef1
+posterior_lateral_line_neuromast_development	hdac1	smad5	lef1	cxcl12a	dusp6	tgfb1a	canx	prnpa	snai1b
+posterior_lateral_line_neuromast_hair_cell_development	hdac1	smad5	tgfb1a	canx	prnpa
+posterior_lateral_line_neuromast_primordium_migration	cxcr4b	hdac1	fgf3	smad5	dusp6	fgf10a	tgfb1a	canx	prnpa	snai1b	lef1	cxcl12a
+posterior_lateral_line_primordium	itchb	smad5	cxcl12a	tgfb1a	hdac3	prnpa	snai1b
+posterior_lateral_mesoderm	ptpn9a	smoc2	isl2a	tbx16	ctnnb1	hoxd4a	tbxta	gata1a	tcf7l1a	tcf7l1b	fli1a	lef1	stat3	ctnnb2	rac1a	cdc42	mpx	egf	ctcf	gata2b	osr1	etv2	dyrk2	runx1	hand2	lbx2	scube1	wnt8a
+posterior_lateral_plate_mesoderm	ENTREZID:192346	isl2a	cdh2	cyp26a1	fli1a	bmp2b	lef1	eaf1	eaf2	osr1	dyrk2	mustn1a	mustn1b	hand2	wnt8a	tbx16
+posterior_neural_keel	nectin1a	hoxb1b	fgf8a	fgf3	pcdh19	nectin1b	cdh7a
+posterior_neural_plate	lgr6	mmp15b	dla	dld	pou5f3	hoxb1b	pax3a	tcf7l1b	vsx1	smad2	bptf	tgfb2	znfl1	lhx9	lgr4	mmp15a	wnt9a	lhx2b	cdx4	tcf7l1a
+posterior_neural_tube	ptk7b	lgr6	mmp25b	gbx1	mpp5a	wnt8a	eve1	hoxb1b	tcf7l1a	nr4a2b	lhx9	lgr4	crb1	crb2b	crb2a	lhx2b
+posterior_pronephric_duct	mta3	hdac1	vangl2	emx3	slc20a1b	rfx2	slc4a2a
+postoptic_commissure	sema3d	shha	robo1	robo3	sst1.1	lrrk2	bhlhe41	robo2	cort	galr2b	slit2	slit3	slit1a
+pre-miRNA_processing	mir216a-1	wnt8a	rpl5a	snx5	dgcr8
+prechordal_plate	rnf111	s1pr2	wnt8a	foxa2	chrd	dkk1b	foxa3	vsx1	bmp4	stat3	prdm5	desi2	efemp2a	diaph2
+prechordal_plate_formation	rnf111	s1pr2	wnt8a	foxa2	chrd	dkk1b	foxa3	vsx1	bmp4	stat3	rasl11b	prdm5	desi2	efemp2a	diaph2	foxe3
+preoptic_area	myt1lb	pou3f2b	six3a	gnrh3	kcnk10a	hcrt
+presumptive_blood	il7r	bmp4	sox7	ptger4a	runx1	notch1b	sox18
+presumptive_diencephalon	znf703	wnt8b	otpb	dbx1b	cyp26b1	znf503	sfrp1a	wls	fzd8a
+presumptive_dorsal_mesoderm	mespab	mespbb	gsc	dlx4b	dlx3b	notch1a	rnf2	pdlim7	plod3	msc	tcf21	col18a1a	lnx2b
+presumptive_ectoderm	tfap2a	wnt8b	gsc	cyp26a1	dlx4b	dlx3b	foxi3a	tfap2c	lnx2b	fzd8a
+presumptive_endoderm	s1pr2	hdac1	mycn	bmp4	gna13b
+presumptive_mesoderm	mespab	mespbb	gsc	dlx4b	dlx3b	notch1a	rnf2	pdlim7	plod3	msc	tcf21	col18a1a	lnx2b
+presumptive_neural_plate	cxcr4b	mycn	zic1	wnt8a	gsc	cyp26a1	fzd7b	rx3	foxa3	dlx4b	dlx3b	six3b	lmo4b	boc	cxcl12a	cdx4
+presumptive_paraxial_mesoderm	mespab	mespbb	gsc	dlx4b	dlx3b	notch1a	rnf2	pdlim7	plod3	msc	tcf21	col18a1a	lnx2b
+presumptive_rhombomere_2	mycn	fgf8a	fgf3	cyp26b1	cyp26c1
+presumptive_rhombomere_3	mycn	fgf8a	fgf3	cyp26b1	cyp26c1	pcdh19
+presumptive_rhombomere_4	fgf8a	fgf3	cyp26b1	cyp26c1	pcdh19
+presumptive_telencephalon	ar	cxcr4b	ENTREZID:192346	zic1	rx3	anos1a	six3b	lmo4b	olig2	boc	cxcl12a	cdo1	sfrp1a	nr2e1	nr2e3	cyp26c1	foxp2	pcdh19
+primary_germ_layer	aldh1a2	ENTREZID:192346	her1	cdh2	cyp26a1	fli1a	ccdc80	irf6	nr3c1	etv2	ripply1	ogg1	nanog
+primitive_erythrocyte_differentiation	gfi1b	ptpn9a	hoxb4a	fli1a	lef1	elavl1a	stat3	rpl5a	mpx	blvrb	etv2	blvra	hmox1a	gata1a
+primitive_heart_tube	meis1b	s1pr2	ENTREZID:192346	tbx5a	tbx2b	ctnnb1	mef2ca	bmp4	tal1	gna13b	tbx1	leo1	aqp8a.1	paf1	add3a	spns2	mef2cb
+primitive_hemopoiesis	gfi1b	spi1b	clocka	fli1a	lef1	blvrb	nomo	smyd5	atoh8	kdm6bb	smad3a	blvra	hmox1a
+primordial_germ_cell	buc	fgf24	hsp90aa1.2	dnd1
+programmed_cell_death_involved_in_cell_development	lrh1	tp53	hsf4	ppp2r3a	dhx33
+proliferative_region	tcf4	cebpa	pwp2h	dbx1b	notch1a	bmi1a	aes	spon1b	flcn
+pronephric_distal_early_tubule	wnt8a	notch1a	epcam	mecom	cd164	wwtr1
+pronephric_duct	dnmbp	slc4a3	notch1a	sept6	dio2	mecom	lrrk2	yap1	ahi1	stx16	slc12a3	wwtr1	cers1	vhl	dio3b	dio1
+pronephric_duct_development	dnmbp	notch1a	sept6	metap2b	dio2	pkd2	csad	ttc26	mecom	lrrk2	yap1	stx16	slc12a3	cers1	vhl	cetn4	dio3b	dio1
+pronephric_duct_morphogenesis	dnmbp	COX2	tp53	notch1a	sept6	dio2	pkd2	cdkl1	csad	ttc26	mecom	rfx2	yap1	ahi1	stx16	wwtr1	lrp2a	bcl2a	vhl	cetn4	dio3b	dio1
+pronephric_glomerulus	mpp5a	wt1a	notch1a	rac1a	cdc42	fat1a	osr1	mecom	myo1ea	kirrel3l	ponzr1	tmem234	nphs1	vhl
+pronephric_glomerulus_development	COX2	mpp5a	wt1a	tp53	etv4	notch1a	rac1a	cdc42	p4ha2	fat1a	osr1	mecom	kirrel3l	ponzr1	bcl2a	nphs1	vhl
+pronephric_glomerulus_morphogenesis	COX2	ENTREZID:192346	mpp5a	wt1a	tp53	etv4	notch1a	osr1	mecom	kirrel3l	ponzr1	bcl2a	vhl
+pronephric_nephron_tubule_development	irx1b	sim1a	wt1a	notch1a	mnx2b	epcam	osr1	mecom	cdh6	daam1a	upk3b	vhl
+pronephric_nephron_tubule_epithelial_cell_differentiation	wt1a	notch1a	epcam	osr1	mecom
+pronephric_nephron_tubule_morphogenesis	irx1b	sim1a	wnt8a	wt1a	notch1a	mnx2b	epcam	osr1	mecom	daam1a	wwtr1	ocrl	upk3b	vhl
+pronephric_podocyte	mpp5a	wt1a	rac1a	cdc42	p4ha2	fat1a	osr1	myo1ea	kirrel3l	tmem234	nphs1	vhl	cxadr
+pronephric_proximal_convoluted_tubule	irx1b	sim1a	wnt8a	wt1a	notch1a	slc20a1b	p2rx7	mnx2b	osr1	mecom	cd164	wwtr1	ocrl
+pronephric_proximal_tubule_development	irx1b	sim1a	wt1a	notch1a	p2rx7	mnx2b	osr1	mecom	cd164
+pronephric_proximal_tubule_morphogenesis	irx1b	sim1a	wnt8a	wt1a	notch1a	slc20a1b	mnx2b	osr1	mecom	wwtr1	ocrl
+pronephric_tubule	irx1b	sim1a	wnt8a	wt1a	notch1a	mnx2b	epcam	osr1	mecom	cd164	wwtr1	ocrl	vhl
+pronephros	jag2b	jag1b	wnt8a	wt1a	notch1a	epcam	brca2
+pronephros_development	wt1a	tbx2b	elmo1	epcam	brca2	wt1b	tbx2a	vhl
+pronephros_morphogenesis	jag2b	jag1b	wnt8a	wt1a	tbx2b	etv4	notch1a	elovl7b	etv5a	vegfc	epcam	ahi1	brca2	tbx2a	vhl
+proteasomal_protein_catabolic_process	tp53	ofd1	jade1	amfra	nphp4	fbxw7	bbs1	bbs4
+protein_ADP-ribosylation	synj1	arf5	pkd2	cep131	gbf1	bbs4	arl13b
+protein_N-linked_glycosylation	cad	ifi30	pmm2	m17	scube1
+protein_farnesylation	gngt1	hmgcs1	hmgcrb	prickle1b	chm
+protein_geranylgeranylation	gngt1	hmgcs1	hmgcrb	prickle1b	chm
+protein_kinase_A_signaling	ptger3	mir132-1	mir132-2	mir212	ENTREZID:100885852	rab5aa	nr4a2b	nr4a3	igf3	oprm1	cyp2aa9
+protein_kinase_B_signaling	akt1	nqo1	mapk1	nfe2l2a	akt2	mapk3
+protein_kinase_regulator_activity	hdac1	isl2a	stat6	rbpja	irf6	myd88	kdr	mcu	tbk1
+protein_localization_to_adherens_junction	cdh1	ENTREZID:192346	mpp5a	nme2b.1	nme2b.2	cdh2	jupa	nme2a	crb1	crb2b	crb2a
+protein_localization_to_cell_surface	prnpb	cdon	erbb2	prnpa	mlc1	ap1b1	march8	crb2b	atp1a1a.1	nphs1	crb2a	crb3a	cfap298	cdh2
+protein_localization_to_centrosome	ccsapb	cep72	prickle1b	cep290	lrmp	fignl1
+protein_localization_to_cilium	gli	mkks	smarcc1a	tnpo2	ahi1	pik3r4	crb2b	fignl1	cc2d2a	rab8a	crb2a	crb3a
+protein_localization_to_nucleus	mir9-1	gata5	sox2	mkks	smarcc1a	net1	rpl22	yap1	ago2	rpl22l1	ENTREZID:192346
+protein_localization_to_plasma_membrane	ENTREZID:192346	opn4.1	per1b	olfm1a	olfm1b	stac3	cdh5	net1	nr3c1	cry1b	wwtr1	crb2b	cc2d2a	opn4a	rab8a	crb2a	crb3a
+protein_localization_to_synapse	wnt4a	wnt11r	musk	panx1a	entpd1	ctbp1	ENTREZID:192346	ctbp2l	clrn1
+protein_methylation	nes	spi1b	buc	fbl	kdm6bb
+protein_palmitoylation	zdhhc16a	olfm1a	olfm1b	wnt3	zdhhc15b
+protein_prenylation	gngt1	hmgcs1	hmgcrb	prickle1b	chm
+protein_sumoylation	pou6f2	ube2ia	cebpa	ENTREZID:192346	gata5	hdac9b	sae1	kctd15b	uspl1	ybx1
+proteoglycan_biosynthetic_process	mir143-1	nppb	gpc4	wnt5b	cx43	sema3d	tie1	nppa	hmmr	hapln1a	sdc4	scube1
+proximal_convoluted_tubule	irx1b	sim1a	wnt8a	wt1a	notch1a	mnx2b	osr1	mecom	wwtr1
+proximal_convoluted_tubule_development	irx1b	sim1a	wt1a	notch1a	p2rx7	mnx2b	osr1	mecom	cd164	abcc6a
+rRNA_processing	pes	wdr36	ddx46	rpl3	gar1	sbds	nop10	nom1	nol9	dkc1	tp53
+rRNA_transcription	ddx46	heatr1	cnbpb	ddx27	polr1c	polr1d	ncl
+raphe_nucleus	kiss2	tph2	gpr151	valopa	kiss1
+receptor_clustering	nppb	es1	nppa	sox7	myd88
+receptor_recycling	wnt4a	wnt11r	musk	dmxl2	cxcr7	stx16	ocrl
+regionalization	cxcr4a	gbx2	bmp2b	pou5f3
+regulation_of_BMP_signaling_pathway	eng	gpc4	dcaf7	jdp2b	coasy	prdx1	vrtn	ENTREZID:192346	bmp2b
+regulation_of_GTPase_activity	sox10	s1pr2	arl13b	ppardb	rac1a	bmper	rgs2	cep131	grk3	bbs4
+regulation_of_Notch_signaling_pathway	ptger3	serpine1	tet2	tet3	jag2b	jag1b	wt1a	tmem230a	prdx1	prune2	dll4	notch1a
+regulation_of_RNA_splicing	auts2a	ddx39ab	ppp1r12a	hars	pnrc2
+regulation_of_RNA_stability	cbfb	kif1b	hes6	hif1ab	pnrc2	runx3
+regulation_of_actin_cytoskeleton_reorganization	rhoab	ptk7b	mid1ip1l	mmp14a	myo1ea	mmp14b
+regulation_of_appetite	pmch	fndc5b	cnr2	cart4	cnr1
+regulation_of_autophagy	flnca	atp6v0ca	tp53	bag3	atg5	spns1
+regulation_of_blood_pressure	sim1a	otpb	vegfaa	krit1	cav1	avp	birc5a	plcg1	cldn5a	ccm2	mylk3	tert
+regulation_of_blood_vessel_endothelial_cell_migration	isl2a	sema3d	vegfaa	notch1a	ftr82	nrp1a	plxnd1	tmem230a	anxa3a	etv2	dll4
+regulation_of_blood_vessel_remodeling	mir126a	mir142a	ENTREZID:192346	acvrl1	vegfaa	tal1	mcamb	cdh5	yap1	bmp10
+regulation_of_bone_remodeling	pth4	acvrl1	sp7	bmp10	kif5ba	ihha	ncl
+regulation_of_canonical_Wnt_signaling_pathway	znf703	gpc4	caprin2	nup62l	wnt9a	wnt5b	wls
+regulation_of_cardiac_muscle_contraction	vdac2	kcnh6a	mybpc2b	grem2b	rnf207b	tbx20
+regulation_of_cardiac_muscle_contraction_by_calcium_ion_signaling	vegfaa	vdac2	plcg1	kcnh6a	rnf207b	plekha7a
+regulation_of_cell_cycle_arrest	npr2	cebpa	lrh1	meox1	gper1
+regulation_of_cell_cycle_process	zgc:165502	npr2	meox1	gper1	urb2	acd
+regulation_of_cellular_pH_reduction	tet2	tet3	sox10	ahr2	ldb2a	cxcl12a	nfe2l2a	ism1	dll4	sox5	snai1b
+regulation_of_cellular_response_to_stress	tp53	mdm2	nfe2l2a	prdx1	kif5ba	hdac6
+regulation_of_chemokine_activity	ackr3a	ctnnb1	hoxb8a	gsk3b	ackr3b	cxcl11.8	ccr7	cxcr4b	cxcl12a	cxcr7
+regulation_of_circadian_rhythm	npvf	galn	prok2	per2	ENTREZID:192346	per1b	noctb	nocta
+regulation_of_collagen_biosynthetic_process	col12a1a	ctnnb1	tp53	col1a1b	col1a2	col1a1a	col12a1b
+regulation_of_cytoplasmic_translation	smn1	trappc11	rpl5a	iars	pgk1	tars
+regulation_of_dopamine_receptor_signaling_pathway	dla	dld	rho	fgf3	cnot8
+regulation_of_fibroblast_growth_factor_receptor_signaling_pathway	fgfr4	scube3	hs3st3l	foxc1a	aldh1a2	tfap2a	dlc	dld	fgf3	bmp7a	smad2	lef1	bptf	dusp6	tgfb2	cnot8	fgf23	hs3st1l2	fgf8a
+regulation_of_gene_silencing	mir183	ahr2	smyd1a	rfng	sgca	urb2	rac3b
+regulation_of_glucose_metabolic_process	tp53	nkx2.5	cav1	calr	akt2
+regulation_of_growth_hormone_secretion	lepa	cxcr4b	cxcl12a	nsfa	lepb	lepr	ghrl
+regulation_of_hippo_signaling	mob1a	s1pr2	lef1	amotl2a	grk3	wwtr1	yap1
+regulation_of_hydrogen_peroxide_metabolic_process	keap1b	per2	cat	keap1a	nfe2l2a	tnfa	tnfb	nox1	duox	hdac6	klf9	prdx1
+regulation_of_locomotor_rhythm	aanat2	csnk1da	camk1gb	csnk1db	hcrt
+regulation_of_mitotic_cell_cycle	dmbx1a	ENTREZID:192346	smad3b	smad3a	pmaip1	vsx2
+regulation_of_mitotic_cell_cycle,_embryonic	dmbx1a	ENTREZID:192346	kif11	hoxb1b	tp53	pdx1	ssrp1a	pdcd2	aurka	esco2	map9	pmaip1	vsx2
+regulation_of_muscle_contraction	jam2b	qkia	tpm3	mybpc2b	myh11a	tbx20
+regulation_of_myeloid_leukocyte_differentiation	cebp1	meis1b	gata1a	tal1	ak2	mpx	myd88	pak4	irf8	etv2	runx1	spi1b
+regulation_of_neural_precursor_cell_proliferation	mir125b-1	nes	sox10	zic1	dla	neurog1	rx3	foxd3	six3b	lmo4b	adgrg1	smad3b	gna13a	disc1	gna12a	smad3a	pax8	asb11	foxi1
+regulation_of_neural_retina_development	mir9-1	npas4l	vegfaa	fbl	ranbp9	yap1	foxo6a	foxo4	foxo6b	wwtr1	zic2a
+regulation_of_neurogenesis	kctd13	nes	sox3	sox2	fbl	rfng	sgca	rac3b
+regulation_of_neuron_apoptotic_process	trim69	her4.2	jun	hdac3	msrb3	slc26a2	si:ch211-119e14.2
+regulation_of_neuronal_synaptic_plasticity	hoxb4a	tp53	dnd1	panx1a	elavl2	entpd1	nptx2a	zdhhc15b	clstn1
+regulation_of_nodal_signaling_pathway	nmnat1-rbp7a	rbp7a	clocka	pitx2	tdgf1	bmp2b	smad2	nomo	net1	smad3a	ENTREZID:192346
+regulation_of_odontogenesis	nr0b1	ctnnb1	shha	jupa	bmp4	bmp2b	atp2b1a	sp7
+regulation_of_ossification	pth4	gpc4	wnt5b	mef2ca	akt2	hamp	wls	kif5ba	cfdp1	wnt9a
+regulation_of_phosphatidylinositol_3-kinase_signaling	mir126a	igf1rb	gsk3b	cdc42	gnrh3	ptenb	egfra	cdk2	pkd2	kitlga	pi4kaa	igf1	ENTREZID:192346
+regulation_of_pronephric_nephron_tubule_development	irx1b	sim1a	wt1a	notch1a	mnx2b	epcam	osr1	mecom	vhl	upk3b
+regulation_of_reactive_oxygen_species_metabolic_process	mir722	nfe2l2a	rac2	prdx1	hdac6	klf9
+regulation_of_resting_membrane_potential	clcn2a	clcn2b	kcnh6a	clcn2c	rnf207b
+regulation_of_smoothened_signaling_pathway	shha	ip6k2a	olig2	prrc1	prkar1aa	smo
+regulation_of_the_force_of_heart_contraction	adrb2b	cxcr4a	ilk	lrrc39	adrb1	adrb2a	tnnt2a
+regulation_of_transcription_by_RNA_polymerase_II	her1	ctcf	slc7a6os	aggf1	runx1	her7	ca15b
+regulation_of_transmission_of_nerve_impulse	kctd13	glra1	snap25a	slc1a2b	nsfa	panx1a	asic4b	asic4a	asic2	entpd1	ctbp2l	ctbp1	ndrg4
+regulation_of_vascular_endothelial_growth_factor_receptor_signaling_pathway	cxcl8a	mir9-1	vdra	mafba	ftr82	rbpja	flt1	kdr	etv2	vegfd	cyp27b1	vegfc	vegfaa
+renal_absorption	onecut1	vps33b	slc12a10.2	slc4a4a	slc34a2a
+renal_duct	dnmbp	slc4a3	notch1a	vipas39	ttc26	mecom	lrrk2	nphp4	slc4a2a	lrp2a	vhl
+renal_filtration	cdc42	kmo	usp40	fat1a	srgap2	apol1	brca2	nphs1	rac1a
+renal_glomerulus	mir143-1	wt1a	usp40	elmo1	cd2ap	srgap2	tnksa	npnt	brca2	tnksb	wt1b
+renal_tubule_development	irx1b	etv4	rac1a	cdc42	etv5a	fat1a	mnx2b	elmo1	epcam	vhl
+renal_water_transport	ednraa	atp6v1aa	slc4a4a	edn1	prl
+response_to_heat	casp3a	gbx2	smyd1a	crhb	prdx1	hsp90aa1.2	hdac6
+response_to_light_stimulus	kiss1	vegfaa	il1b	nptx2a	gcgra	gcgrb
+response_to_starvation	nupr1a	nme2b.2	myog	gapdh	gphna	mstnb
+response_to_wounding	mst1ra	pax7a	gnb1a	mpeg1.1	lyn	pax7b	mapk8b	mapk14a
+reticular_formation	mir133b	ENTREZID:192346	robo3	csrp1a	canx	valopa
+retina_homeostasis	slc1a2b	ptf1a	panx1a	cx52.6	cx52.9	entpd1	ubr3	nr3c1	cx55.5
+retina_layer_formation	tet2	tet3	sox11a	sox11b	opn5	noctb	lama1	nocta	egfl7
+retinal_cone_cell_differentiation	npas4l	es1	opn1lw1	rxrga	thrb	stat3	insm1a	opn1lw2	rarab	gdf6a	med12	tbx2b
+retinal_ganglion_cell_axon_guidance	cyfip2	ptk2ab	alcama	col4a5	alcamb	cxcl12a	nrp1a	fgf19	islr2	col4a6	top2b
+retinal_inner_nuclear_layer	npas4l	mdka	her4.2	sox11a	sox11b	rock2a	inaa	opn5
+retinal_outer_nuclear_layer	mdka	rock2a	asic4b	asic4a	asic2	inaa	opn5
+retinal_outer_plexiform_layer	irx7	mdka	smarca4a	guca1c	bhlhe22	asic4b	asic4a	asic2
+retinal_photoreceptor_layer	her4.2	rock2a	opn5	noctb	nocta
+retinal_pigment_epithelium_development	npas4l	ehd1b	yap1	ehd3	wwtr1	lama1
+retinal_pigmented_epithelium	mitfb	mitfa	otx2a	otx1	otx2b	rbp3	cib2	vps11	lama1
+retinal_rod_cell_development	rho	six7	rbp3	kif3a
+retinal_rod_cell_differentiation	ctnnb1	mdka	her4.2	opn1lw1	rxrga	stat3	insm1a	opn1lw2	rarab	gdf6a	med12	tbx2b
+retinoic_acid_receptor_signaling_pathway	bmp16	ENTREZID:192346	tbx2b	bmp4	bmp2a	bmp2b	etv4	etv5a	prune2	tbx2a	sox9b
+retinotectal_tract	cyfip2	alcama	efnb2a	alcamb	igf2bp1	rb1
+retrograde_axonal_transport	mapk8ip3	dync1h1	ntf3	actr10	spast	kif5aa	mapk8b
+rhodopsin_metabolic_process	s1pr2	rho	dync1h1	ift122	dzank1	ninl	ahi1	rhol	grk3	rab6a	kif3a
+rhombic_lip	sost	met	cdh2	fgf8a	tp53	pcdh1g18	klf8
+rhombomere	met	gbx1	gbx2	vangl2	hoxb1a	hoxb1b	tp53	klf8	rest	gas7a
+rhombomere_1	pdzrn3a	met	gbx1	hdac1	gbx2	vangl2	hoxb1b	etv5b	tp53	notch1a	ppp1r14aa	pcdh19	fgf20a	klf8	tshz3b	notch3	gas7a	hoxb1a
+rhombomere_2	sema4d	spry4	egr2b	hoxb1a	olig2	ppp1r14aa	rest	gas7a	vangl2
+rhombomere_3	irx1b	spry4	irx7	meis1b	hoxb1a	tshz1	ppp1r14aa	cyp26c1	crip2	pcdh19	ntn4	wnt3a	ntn2	supt5h	gas7a	egr2b
+rhombomere_3_morphogenesis	irx1b	spry4	irx7	meis1b	mycn	lfng	mib1	celf2	rfng	mfng	cyp26c1	crip2	wnt3a	hnf1ba	gas7a	egr2b	fgf8a	fgf3
+rhombomere_4	spry4	egr2b	hoxb1a	olig2	ppp1r14aa	rest	tshz3b	med12	vangl2
+rhombomere_4_development	spry4	cxcr4b	vangl2	gli2a	egr2b	hoxb4a	ppp1r14aa	pcdh19	prickle1b	cxcr7	rest	med12	hoxb1a
+rhombomere_4_morphogenesis	irx1b	spry4	irx7	meis1b	hoxb4a	notch1a	pbx4	olig2	cyp26c1	rest	tshz3b	med12	pbx2	vangl2	egr2b
+rhombomere_5	spry4	mycn	egr2b	hoxb1a	hoxb1b	cyp26a1	cyp26b1	tshz1	cdx1a	ppp1r12a	pcdh19	supt5h	cdx4	cyp26c1
+rhombomere_5_development	spry4	mycn	egr2b	cyp26a1	fgf8a	fgf3	cyp26b1	cxcl12a	tshz1	celf2	cdx1a	ppp1r12a	pcdh19	cdx4	cyp26c1	hnf1ba
+rhombomere_6	hdac1	efnb2a	hoxb4a	etv5b	notch1a	cyp26b1	cxcl12a	unc5b	cyp26c1	crip2	fgf20a	med12	wnt3a	epha4a	hnf1ba
+rhombomere_6_development	hoxb4a	fgf8a	fgf3	cyp26b1	cxcl12a	unc5b	cyp26c1	crip2	med12	wnt3a	epha4a	hnf1ba
+rhombomere_7	efnb2a	hoxb4a	cyp26a1	tcf7l1b	notch1a	pbx4	rasgef1ba	cxcl12a	tshz1	cyp26c1	crip2	notch3	pbx2	wnt3a	epha4a	gas7a
+rhombomere_8	met	znf703	hoxb4a	tp53	klf8	hnf1ba	fgf8a	fgf3
+rhombomere_boundary_formation	sema4d	irx7	gbx1	hdac1	zic1	efnb2a	etv5b	fgf8a	fgf3	notch1a	cyp26b1	rasgef1ba	tshz1	fgf20a	med12	notch3	zic4	hnf1ba	gbx2	epha4a
+rhombomere_formation	met	sema4d	gbx1	gbx2	hoxb1a	hoxb1b	tp53	klf8	rest	gas7a	vangl2
+rhombomere_morphogenesis	met	spry4	gbx1	hdac1	gbx2	egr2b	etv5b	tp53	olig2	ppp1r12a	fgf20a	klf8	rest	tshz3b	med12	gas7a	vangl2
+ribosomal_small_subunit_biogenesis	pwp2h	tp53	mtor	kri1	utp4
+ribosome_biogenesis	rpl5a	ddx27	polr1c	fbl	polr1d	rpl22	urb2	rpl22l1
+rod_bipolar_cell	opn1sw2	opn4.1	ctbp2l	opn4xb	ENTREZID:566638	nyx	opn4a
+roof_of_mouth_development	crispld2	gpc4	wnt5b	frzb	cnbpb	dcaf7	irf6	wls	wnt9a	grhl3
+roof_plate	zic1	wnt1	tbx16	foxg1a	tbxta	mycbp2	zic4	foxj1a
+roof_plate_formation	zic1	wnt1	tbx16	foxg1a	tbxta	mycbp2	zic4	foxj1a
+sarcomere_organization	ttn.2	smyd1a	smyhc1	hspb1	erbb2	mybpc1	hs3st1l1	myom3	tfpi2	myo18aa	smyd1b	dmd
+segmental_plate	appb	shha	fzd7b	msgn1	appa
+semicircular_canal	hdac1	ildr1b	slc26a2	adgrg6	vdrb	fgf4	mif
+semicircular_canal_development	grhl2b	arf1	hdac1	vamp2	ncs1a	slc25a25a	ildr1b	slc26a2	trpc5a	adgrg6	pi4kb	vdrb	fgf4	arnt2	mif	itpr3	hint2
+semicircular_canal_formation	grhl2b	arf1	hdac1	bmp2b	vamp2	atp2b1a	ncs1a	slc25a25a	ildr1b	slc26a2	trpc5a	adgrg6	pi4kb	vdrb	fgf4	arnt2	mif	itpr3	hint2
+semicircular_canal_morphogenesis	grhl2b	arf1	aldh1a2	bmp4	bmp2b	vamp2	ncs1a	slc25a25a	tmie	slc26a2	trpc5a	adgrg6	pi4kb	vdrb	aldh1a3	itpr3	hint2
+sensory_neuron_axon_guidance	cyfip2	anos1a	col4a5	rab7a	nrp2b	col4a6	top2b	robo2	nrp1a
+sex_determination	ar	bmp15	dmrt1	gsdf	foxl2a
+sexual_reproduction	ar	mir34	kiss1	lrh1	cyp19a1a	gsk3ab	gnrh3	kcnk10a
+shield	ifitm1	ifitm5	chrd	dkk1b	hoxd4a	nkx2.5	pmaip1	dio3b
+signal_transduction_in_response_to_DNA_damage	cacna1c	tp53	foxo3a	atr	vhl
+sinoatrial_node	ENTREZID:192346	isl1	nkx2.7	nkx2.5	gnb5b	shox2
+sister_chromatid_cohesion	rad21a	runx1	runx3	esco2	nipblb
+skeletal_muscle_cell_differentiation	qkia	pax7a	tpm3	dyrk2	atoh8	kif5ba	pax7b	tpcn2
+skeletal_muscle_cell_proliferation	ghra	ambra1a	ddx27	ambra1b	smad4a	ghrb	pax7a	pax7b
+skeletal_muscle_contraction	qkia	ttn.2	tpm3	mybpc2b	smyd1b	stac3
+skeletal_muscle_fiber_development	qkia	smyd1a	cyp26b1	tpm3	hspb7	dyrk2	tpcn2
+skeletal_muscle_myoblast	nfixa	ENTREZID:192346	en1a	ddx27	meox1	sox6	pax7a	pax7b
+skeletal_muscle_myosin_thick_filament_assembly	tnnt3b	mef2ab	naca	unc45b	mef2aa	mef2ca	mef2d	ttn.2	smyhc1	tnnt2c	mef2b	myo18aa	smyd1b	tnnt3a	mef2cb	hsp90aa1.1
+skeletal_muscle_satellite_cell_proliferation	asb11	pax7a	pax7b
+skeletal_muscle_thin_filament_assembly	tnnt3b	mef2ab	naca	tmod4	mef2aa	mef2ca	mef2d	hsp90aa1.1	ttn.2	smyhc1	tnnt2c	mef2b	myo18aa	tnnt3a	mef2cb
+skeletal_myofibril_assembly	tmod4	qkia	hsp90aa1.1	ttn.2	smyd1a	tpm3	obscna	mybpc2b	myo18aa	smyd1b
+skeletal_system_morphogenesis	panx3	gpc4	en1a	ahr2	cyp26b1	smyd5	smad4a
+slow_muscle_cell	nfixa	ENTREZID:192346	pax7a	prdm1a	gpx4a	gpx4b	mymk	pax7b	sox6	tpcn2
+slow_muscle_cell_migration	alcama	cdh2	fgf8a	alcamb	cap1	cxcl12a	akap12b	lbx2	prdm1a
+slow_muscle_myoblast	scube3	jam2a	nfixa	ENTREZID:192346	alcama	fgf8a	pax7a	nr5a2	prdm1a	alcamb	cx39.9	pax7b	sox6	akap12b	jam3b	lbx2
+smoothened_signaling_pathway	ppfia1	shha	pdgfra	ptpa	kif7	smo
+sodium_ion_homeostasis	ednraa	ENTREZID:192346	agt	atp6v1aa	pth1a	gcm2	ap1b1	slc12a10.2	slc9a3.2	edn1	atp1a1a.1	prl	cldnb
+sodium_ion_transport	ednraa	agt	atp6v1aa	trim63a	ap1b1	slc12a10.2	slc4a4a	edn1	atp1a1a.1	foxo1a	prl	ppp3ca
+sodium:potassium-exchanging_ATPase_activity	atp1a1a.5	atp6v1ab	gcm2	fxyd1	atp1a1a.2	atp1a1a.1
+somite_1	en1a	pou5f3	fli1a	lef1	spaw	klf8
+somite_10	ENTREZID:192346	tbx16	brd2a	aqp8a.1	slc7a6os
+somite_11	tbx6	neurog1	tbx16	her6	jak2a	osbpl2b	dcaf7	rnf11a	camk2n2	dmrta2	slc7a6os	camk2n1a	osbpl2a	mmp11a	mmp11b	her7	her1
+somite_12	mir20a	tbx16	qkia	vsx1	tpm3	aqp8a.1	ubr3
+somite_13	dkk3b	ENTREZID:192346	jak2a	pou5f3	myod1	mtmr8	nr3c1	calcr	myf5	lbx2	mkxa
+somite_14	pax3b	ENTREZID:192346	dlc	dld	neurog1	en1a	her6	gpx4a	gpx4b	ctcf	dmrta2	slc7a6os	itga6b	dkk3a	myf5	celf1	wnt11
+somite_15	nrg2a	ptch2	ptch1	wnt11r	tbxta	bmp2b	six3a	notch1a	musk	mstna	notch3	her7	nrg1	dmd	shha	erbb3b
+somite_16	foxc1a	aldh1a2	gatm	psen1	neurog1	tbx16	her6	eef2	srfa	hsp90aa1.1	abrab	dmrta2	tnni2a.4	tnni1a	psen2	flcn	gamt	ENTREZID:192346
+somite_17	ENTREZID:192346	her1	srfa	dcaf7	itga5	irf6	lgals2a	abrab	grem2b	itgb1a	dpf3	agrn	her7
+somite_18	LOC100331704	jak2a	nr2f1a	fgf3	col14a1a	spaw	dio2	klf8	mmp11a	mmp11b	gdf6a	pkp2	flcn	dio3b	dio1
+somite_2	chrd	dkk1b	brd2a	vegfaa	dcaf7	etv2	dyrk2	vox
+somite_20	fktn	ENTREZID:192346	fgf3	notch1a	tac1	fkrp	notch3	notch1b
+somite_21	pou5f3	mef2aa	kcnip3b	lgals2a	aqp8a.1	cyp26c1	adora2b	adora2aa	adora2ab
+somite_22	cdx1b	si:ch211-185a18.2	ENTREZID:192346	ndr2	fgf8a	fgf3	spaw	dio2	irf6	dpf3	klf8	mstnb	dio3b	ndr1	dio1
+somite_23	tbx16	emx3	ncln	nomo	flcn
+somite_24	crebbp	en1a	nr2f1a	spaw	gpx4a	gpx4b	rbm24a	aqp8a.1	slc7a6os	rbm24b	klf8
+somite_25	tbx16	eef2	emx3	vat1	tshz1	cyp26c1
+somite_26	unc45b	cdh2	fzd7b	lgals2a	otol1a	otomp	plod1a	col4a3bpa
+somite_27	scube3	en1a	loxa	myo18ab	myo18aa
+somite_28	cdx1b	her1	lgals2a	egfl6	aqp8a.1	slc7a6os	myf5	her7
+somite_3	her1	pou5f3	qkia	tpm3	hes6	egfl6	her7
+somite_30	crebbp	gatm	nr2f1a	bmp2b	pcgf1	satb2	gamt
+somite_4	en1a	cdh2	pou5f3	gpx4a	gpx4b	plk4
+somite_6	mir20a	crebbp	tbx16l	pou5f3	pax7a	vsx1	egfl6	aqp8a.1	yap1	mmp11a	mmp11b	pax7b	wwtr1	mespba	ripply1
+somite_7	dld	shha	her1	mef2ca	notch1a	egfl6	mustn1a	mustn1b	her7	notch1b	mef2cb
+somite_8	scube3	her1	nr2f1a	spaw	rbm24a	aqp8a.1	myo18ab	rbm24b	klf8	myo18aa	her7
+somite_9	tbx16	shha	nr2f1a	pax7a	rbm24a	rbm24b	pax7b
+somite_border	her1	emx3	dlx4b	dlx3b	rap1b	cxcl12a	her15.2	itga5	her12	itgb1a	aplnra	lbx2	her7
+somite_specification	fgfr4	jam2a	ENTREZID:192346	dlc	dld	tbx16l	fli1a	bmp2b	vegfaa	lef1	notch1a	etv5a	rnf11a	meox1	etv2	notch3	mespba	ripply1	notch1b
+somitogenesis	ENTREZID:192346	tbx16	mib1	dyrk2	pnrc2
+spermatogonium	dnd1	dmrt1	igf3	bdnf	nanog	amh
+sphingolipid_metabolic_process	mir155	s1pr2	elovl7b	gba	cers2b	s1pr1
+spinal_cord_motor_neuron_differentiation	foxc1a	appb	kif11	inab	ihhb	ppp1r12a	gle1	lingo1b	si:ch211-152f23.5
+spinal_cord_neural_rod	appb	dpysl3	dpysl2b	dyrk2	appa	cdk5
+spinal_cord_neural_tube	kif11	smad3b	rtn4a	prdm12b	map1b	smad3a	rtn4b
+spinal_cord_oligodendrocyte_cell_differentiation	enpp2	kif11	pes	ihhb	tcf3a	tgfb1a	hmgcs1	leo1	elocb	gle1	lingo1b	fbxw7
+spinal_cord_oligodendrocyte_cell_fate_specification	dla	dld	shha	tcf3a	nkx2.2a	cdkn1ca	fbxw7	notch1a
+spinal_nerve	pth4	en1a	tgfb1a	tnfa	traf2a
+spindle_assembly	stil	plk1	tp53	aurka	bmb	nusap1	cetn4
+spindle_organization	stil	efnb2a	tp53	aurka	epha4a
+spleen	tlr8	tlr7	gsk3b	rag1	tlr2	tlr3	tlr1
+stem_cell_population_maintenance	nanos3	ctnnb1	tal1	nanos1	msgn1	mnx1	tbx20	tbx16
+striated_muscle_cell_development	tbx5a	vegfaa	zbtb16a	dusp6	ddx27	wwtr1
+striated_muscle_cell_differentiation	tbx5a	isl1	nr2f1a	qkia	nkx2.7	nkx2.5	tpm3	dyrk2	kif5ba
+striated_muscle_contraction	qkia	tpm3	ppp2r3a	tbx20	nrg1	stac3
+striated_muscle_myosin_thick_filament_assembly	tnnt3b	mef2ab	naca	unc45b	mef2aa	mef2ca	mef2d	ttn.2	smyhc1	tnnt2c	mef2b	myo18aa	smyd1b	tnnt3a	mef2cb	hsp90aa1.1
+striated_muscle_tissue_development	tbx5a	isl1	vegfaa	nkx2.7	nkx2.5	smyd1a	zbtb16a	cyp26b1	dusp6	ddx27	hspb7	wwtr1
+supraoptic_commissure	dcc	robo2	ntn5	slit2	slit3
+supraoptic_tract	cdo1	dcc	robo2	ntn5	slit2	slit3
+swim_bladder_formation	cyp1a	ahr2	elovl7b	dio2	cd36
+swim_bladder_inflation	cyp1a	ahr2	elovl7b	dio3b	dio1	dio2
+sympathetic_ganglion_development	nrg2a	tfap2a	sema6d	phox2bb	sema6e	kcnn1b	hand2	scn8aa	nrg1	erbb3b
+sympathetic_nervous_system	hdac1	mycn	nf1a	rab1ab	phox2bb	nr3c1	nf1b	kcnn1b
+sympathetic_nervous_system_development	hdac1	ret	sema6d	phox2bb	sema6e	kcnn1b	scn8aa	gdnfa
+sympathetic_neuron	nrg2a	hdac1	ret	phox2bb	nr3c1	kcnn1b	scn8aa	gdnfa	nrg1	erbb3b
+synapse_assembly	LOC100149700	actl6a	ENTREZID:192346	col4a5	wrb	cplx2l	clrn1	ctbp2l	slit1a	nos1	ctbp1
+synapse_organization	panx1a	fosab	entpd1	ctbp2l	ctbp1
+synaptic_growth_at_neuromuscular_junction	ache	ENTREZID:192346	cdh2	smn1	snap25a
+synaptic_signaling	kctd13	il4	psen1	snap25a	slc1a2b	stat6	rapsn	nsfa	dlg4b	ndrg4
+tRNA_transcription	pou5f3	rpl5a	iars	tars	tsen54	noctb	nocta
+tail_bud	ifitm1	ifitm5	ENTREZID:192346	pax9	ttpa	parp3	ctcf	runx1	vox	cdx4	pax1b
+taste_bud	ENTREZID:192346	fgfr1a	fgf24	cd36	trpv4	fgf20a	kcnn1b	sall4
+taste_bud_development	ENTREZID:192346	fgfr1a	fgf24	sox2	trpv4	fgf20a	kcnn1b	sall4
+taste_bud_formation	ENTREZID:192346	fgfr1a	fgf24	cd36	aqp4	trpv4	fgf20a	kcnn1b	sall4
+taxis	mir722	trim9	rac2	cxcl18b	cxcr2
+tegmentum	kiss1	tph2	gpr151	prune2	galr2b
+telencephalon_cell_migration	prok2	igf1rb	gata3	gnrh3
+telencephalon_diencephalon_boundary	foxg1a	lef1	sfrp1a	foxp2	fzd3a	spry1	slit2
+telomerase_activity	tp53	gar1	dkc1	tert
+tether_cell	galnt3	apela	cxcr4a	gas8	mylipa
+thalamus_development	rxfp3.2b	klf6a	isl1	shha	lhx5	tcf7l2	pax6a	arxa	cdh6	klf7a	pcdh19	pcdh17	wnt3
+thermotaxis	mir722	trim9	rac2	cxcl18b	cxcr2
+thoracic_duct	mir126a	flt4	cxcl12a	vegfc	prkd1	rasgrp4	lyve1b	stab2	hoxc9a	apln
+thrombocyte_differentiation	mir126a	gata1a	myb	fli1a	calr
+thymus	e2f1	ENTREZID:192346	ptenb	fam49a	ndrg1b	klf9	urb2	rb1
+thymus_development	ghra	e2f1	irf7	gh1	ncor2	klf9	urb2	rb1	cnr2	selp
+thymus_primordium	mcm2	foxn1	pth1b	pth1a	gcm2
+thyroid_primordium	bcl2l1	jag1a	hhex	pax2a	fgf8a	gcm2	nos2b	wwtr1	nkx2.4b	hand2
+thyroxine_5'-deiodinase_activity	dio3a	dio1	dio2	dio3b
+thyroxine_5-deiodinase_activity	dio3a	dio1	dio2	dio3b
+tract_of_the_postoptic_commissure	robo1	robo3	sst1.1	slit1a	bhlhe41	robo2	cort
+transforming_growth_factor_beta_receptor_signaling_pathway	eng	ENTREZID:192346	acvrl1	gdf3	ndr2	smad2	bptf	smad3b	nrp1a	tgfb2	itgb8	fscn1a	aplnra	aplnrb	smad3a	ndr1
+translational_initiation	ccnd1	mtor	plk4	pkd2	esco2	mos
+transmission_of_nerve_impulse	kctd13	snap25a	slc1a2b	rapsn	nsfa	uba5	ndrg4
+trigeminal_ganglion	ackr3a	mmp25b	diras1a	cxcl12a	irx4a	chrna6	chrna4b	diras1b
+trigeminal_ganglion_development	ackr3a	mmp25b	her4.2	ptmaa	cxcl12a	gnrh3	irx4a	olfm1a	olfm1b	chrna6	chrna4b
+trigeminal_motor_nucleus	crhb	cdh6	pcdh19	pcdh17	uts1
+trigeminal_nerve_morphogenesis	ENTREZID:192346	dlx4b	dlx3b	diras1a	irx4a	diras1b	plxna3	robo2
+trigeminal_neural_crest	neurog1	dlx4b	dlx3b	irx4a	olfm1a	olfm1b	chrna6	chrna4b
+trigeminal_placode	neurog1	dlx4b	dlx3b	pitx3	irx4a
+trigeminal_sensory_neuron	ackr3a	mmp25b	cdh2	her4.2	cxcl12a	itga5	fgf1a	chrna6	chrna4b	trpv1	robo2
+trunk_mesenchyme	mir20a	irx1b	ENTREZID:192346	brd2a	vsx1	mnx2b	osr1	vtg1	svep1	cdx4	tbx16
+trunk_musculature	mylpfa	sulf1	notum2	tpcn2	popdc2
+trunk_neural_crest_cell	hdac1	cdon	cdh2	cyp26b1	capzb	pdgfra	plod3	pdgfrb	col18a1a
+trunk_neural_crest_cell_migration	nrg2a	tfap2a	cdon	wnt11r	cdh2	foxd3	musk	capzb	cxcl12a	arl6ip1	plod3	col18a1a	nusap1	sox9b	nrg1	erbb3b
+trunk_segmentation	ifitm1	ifitm5	irx1b	aldh1a2	pknox1.2	dlc	her1	brd2a	mnx2b	tshz3b	her7	ripply1
+trunk_vasculature	mir126a	mir10a	znf408	shc1	rnf213a	fbxw7	cemip2	svep1	vegfd	kdrl	flt1	vegfaa
+tubulin-glutamic_acid_ligase_activity	tp53	amfra	wars2	march8	btr20
+tubulin-glycine_ligase_activity	tp53	mdm2	trim63a	park7	foxo3a	wars2	prkn	mul1a	foxo1a	vhl	ppp3ca
+turning_behavior	vangl2	scrib	cacng2a	fzd3a	dcc
+twitch_skeletal_muscle_contraction	prp	prdm1a	flii	flncb	dusp27	ryr1a	dmd
+type_B_pancreatic_cell_development	sept7b	lepa	pdx1	lepb	lepr	sox9b
+type_B_pancreatic_cell_differentiation	sept7b	neurod1	arxa	fgf1a	mnx1	pax4	sox9b
+unfertilized_egg	npr2	buc	mapk1	mapk3	gper1
+upper_rhombic_lip	sost	met	cdh2	tp53	pcdh1g18	klf8
+utricle	emx2	stm	otol1a	tmc1	tmc2a	pcdh15a
+vagal_ganglion	cdh1	cdh4	slc6a5	cdh6	m17	chd7	cdh2
+vagal_ganglion_2	cdh1	cdh4	slc6a5	m17	chd7	cdh2
+vagal_neural_crest	shha	foxd3	med24	cyp26b1	ptf1a	arl6ip1	chd7	hand2
+vascular_cord_development	slc16a2	ENTREZID:192346	vegfaa	mcamb	flt1	fev	ccl25b
+vascular_endothelial_growth_factor_receptor_signaling_pathway	mir9-1	mir126a	ftr82	flt1	etv2	cemip2	vegfd	vegfaa
+vascular_endothelial_growth_factor_signaling_pathway	mir9-1	mir126a	ldb2a	notch1a	gspt1l	dll4	vegfaa
+vascular_lymphangioblast	mir126a	flt4	cxcl12a	gipc1	rasgrp4	stab2	hoxc9a
+vascular_sprouts	mir126a	flt4	mafba	cxcl12a	fli1b	vegfc	ren	rnf213a	etv2
+vasculogenesis	ENTREZID:192346	f10	wnt8a	ctnnb1	fli1a	lef1	fli1b	cdh5	vegfaa	etv2
+venous_blood_vessel_morphogenesis	mir126a	cxcr4b	sox7	vegfc	osr1	hand2	vegfd	flt1	vegfaa
+vent	lrp6	zmiz2	sox32	ENTREZID:192346	chrd	ctnnb1	eve1	fgf8a	bmp4	runx2a	runx2b	grk5	pou5f3	nanog	vox
+ventral_aorta	jam2a	LOC101885606	ENTREZID:192346	nog2	foxo3b	gata1a	bmp4	vegfaa	tal1	mmp2	grem1a	mmp9	eaf1	rspo1	irf8	wnt16	spi1b
+ventral_habenular_nucleus	shha	dbx1b	tcf7l2	pax6a	anos1a	anos1b	wls	kiss1ra	kiss2	kiss1
+ventral_lateral_mesoderm	lamb1a	wnt8a	gdf3	hoxd4a	eve1	fgf8a	bmp2a	nr2f1b	unc45a	apoc1	hand2	lbx2	ndr1	fgf10a	fgf24
+ventral_mesenchyme	zmiz2	ENTREZID:192346	gdf3	clocka	nog2	en1a	tbx16	cyp26a1	brd2a	bmp4	bmp2b	dcaf7	nr2f1b	grem1a	nomo	apoc1	smad3a	and1	ndr1
+ventral_mesoderm	zmiz2	ENTREZID:192346	gdf3	clocka	nog2	en1a	tbx16	cyp26a1	brd2a	bmp4	bmp2b	dcaf7	nr2f1b	grem1a	nomo	apoc1	smad3a	and1	ndr1
+ventral_nucleus_of_ventral_telencephalon	kiss1	kiss2	adcyap1a	anos1a	anos1b	adcyap1b	crhb	slc6a5	uts1
+ventral_root	mir137-1	mir137-2	ENTREZID:100885853	tnfa	adgra2	traf2a	reck
+ventral_spinal_cord_development	vangl2	klf6a	shha	lhx3	sulf1	scrib	ptf1a	gjd2b	klf7a	avpr1ab	fzd3a	avpr1aa	lhx4
+ventral_spinal_nerve	klf6a	neurog1	en1a	olig2	gnrh3	klf7a
+ventral_telencephalon	kiss1	kiss2	klf6a	klf7a	fgf16	spred2b
+ventral_thalamus	kiss1	pdzrn3a	kiss2	irx1b	klf6a	shha	otx2a	lhx5	otx2b	tcf7l2	pax6a	anos1a	anos1b	mib1	klf7a	pcdh19	kiss1ra	arnt2
+ventral_wall_of_dorsal_aorta	LOC101885606	cx43	foxo3b	gata1a	myb	tal1	metap2b	mmp2	mmp9	sae1	eaf1	irf8	haus3	hey2	znf574	spi1b
+ventricular_cardiac_muscle_cell_development	tmem65	serpine1	tbx5a	notch1a	hmmr	dusp6	erbb2	kdm6ba	fosl2	kdm6bb	nrg1
+ventricular_cardiac_muscle_cell_differentiation	serpine1	tbx5a	nkx2.7	notch1a	rock2a	tbx1	kdm6ba	fosl2	kdm6bb	popdc2	nkx2.5
+ventricular_cardiac_muscle_tissue_morphogenesis	tbx5a	isl1	nkx2.7	rhoua	kdm6ba	grk5	kdm6bb	grk3	tbx20	nrg1	nkx2.5
+ventricular_endocardium	serpine1	efnb2a	bmp4	tie1	tek	tal1	hmmr	hs3st1l1	id4	nrg1	notch1a	cemip2
+ventricular_epicardium	tbx5a	hmmr	sox9b	popdc2	nrg1
+ventricular_myocardium	serpine1	tbx5a	isl1	tp53	nkx2.7	notch1a	calr	dusp6	kdm6ba	kdm6bb	nkx2.5
+ventricular_system_development	ENTREZID:192346	klf6a	nkx2.5	dusp6	klf7a	kcnb1	kcng4b	greb1
+ventricular_zone	met	kif11	tp53	smad3b	ncstn	klf8	smad3a
+vesicle_localization	rln1	ENTREZID:192346	mpp5a	prickle2b	bbs7	pcsk5b	crb1	yap1	cfap53	wwtr1	crb2b	cc2d2a	pcsk5a	rab8a	crb2a
+visceral_muscle_development	mir145	shha	srfa	prdm1a	dmrt2b
+voltage-gated_channel_activity	kctd15b	hs3st1l1	kcnh1a	cacna1ab	chd2
+voltage-gated_potassium_channel_activity	amigo1	chrnd	kctd15b	hs3st1l1	kcnh1a	kcnq3
+xanthophore	sox10	mitfa	foxd3	paics	leo1	kctd15b	sox5	gart	plin6
+zona_limitans_intrathalamica	irx1b	otx2a	otx2b	pax6a	fez1	wnt3	shha

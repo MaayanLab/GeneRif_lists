@@ -1,0 +1,1166 @@
+1-phosphatidyl-1D-myo-inositol_4,5-bisphosphate_catabolic_process_(GO:1902634)	gon-2	csnk-1	unc-104	cnt-1	cup-4	gtl-1	gsnl-1	par-1	unc-6	rab-10	ENTREZID:286789	ppk-1
+21U-RNA_metabolic_process_(GO:0034585)	tofu-4	tofu-5	prg-1	tofu-7	tofu-1	ulp-5	tofu-6	ENTREZID:286789
+ADP_biosynthetic_process_(GO:0006172)	cebp-2	arl-1	ncs-1	cebp-1	nipi-3	sir-2.3	ENTREZID:286789
+ADP_catabolic_process_(GO:0046032)	cebp-2	arl-1	ncs-1	cebp-1	nipi-3	sir-2.3	ENTREZID:286789
+AMP_biosynthetic_process_(GO:0006167)	cep-1	shn-1	ceh-23	aak-1	crh-1	daf-18	egl-19	fat-1	gpa-3	par-4	aak-2	kin-1
+ATP_biosynthetic_process_(GO:0006754)	mei-1	cep-1	eff-1	ced-7	pgp-12	let-7
+ATP_generation_from_poly-ADP-D-ribose_(GO:1990966)	pgp-2	ced-1	ipla-1	ced-7	haf-1	atfs-1	ttr-52
+ATP_metabolic_process_(GO:0046034)	mei-1	cep-1	eff-1	ced-7	pgp-12	let-7
+ATP-dependent_chromatin_remodeling_(GO:0043044)	swsn-2.2	daf-16	ham-3	swsn-4	let-418
+BMP_signaling_pathway_(GO:0030509)	unc-40	sup-17	daf-16	dpy-17	mua-3	sma-10	tsp-12	dbl-1	lon-2	tsp-14	ncx-9	drag-1	sma-6
+CUT_catabolic_process_(GO:0071034)	eff-1	cut-1	ced-4	ced-7	cut-6	ced-3	npr-1	let-7
+Cdc42_protein_signal_transduction_(GO:0032488)	let-502	mel-11	chin-1	wsp-1	act-1	uig-1	unc-112	cgef-1	pak-1	git-1	sid-3	dapk-1	pat-3	pix-1	cdc-42
+DNA_damage_checkpoint_(GO:0000077)	fncm-1	san-1	cep-1	spr-5	bub-3	plk-1	cdc-25.3	cdk-1	fcd-2	fzy-1	ENTREZID:286789	wrn-1
+DNA_metabolic_process_(GO:0006259)	capg-1	lem-3	wapl-1	scc-3	max-1
+DNA_protection_(GO:0042262)	xrep-4	wdr-23	trt-1	daf-16	pmk-1	skn-1
+DNA_recombinase_assembly_(GO:0000730)	helq-1	syp-2	mdf-1	cyb-3	ENTREZID:3565472
+DNA_repair_(GO:0006281)	fncm-1	lem-3	spr-5	fcd-2	ENTREZID:286789
+DNA_replication_(GO:0006260)	fncm-1	lem-3	gsk-3	spr-5	dpl-1	fcd-2	apx-1
+DNA_replication_checkpoint_(GO:0000076)	fncm-1	spr-5	rpa-1	polh-1	ztf-8	polk-1	cul-2	fcd-2	mdf-1	wrn-1
+DNA_synthesis_involved_in_DNA_repair_(GO:0000731)	fncm-1	spr-5	ehs-1	dna-2	ztf-8	fcd-2	wrn-1
+FAD_biosynthetic_process_(GO:0006747)	acox-1.1	acox-1.2	ENTREZID:286789	flad-1	apl-1
+G_protein-coupled_receptor_signaling_pathway_(GO:0007186)	mig-1	lin-17	amx-2	gcy-35	cam-1	nca-2	arr-1	lon-2	unc-6	sdn-1	dop-3	npr-22	lury-1	ENTREZID:286789	srb-13	grk-2	vang-1
+GABAergic_neuron_differentiation_(GO:0097154)	madd-4	lin-53	unc-62	che-1	unc-55
+GDP_catabolic_process_(GO:0046712)	arl-13	unc-108	rhgf-2	mpz-1	rsf-1	smg-8	arl-3	smg-9	gop-1	atx-2	unc-119	rho-1	mcp-1	rab-39	rab-28
+GDP_metabolic_process_(GO:0046710)	arl-13	unc-108	rhgf-2	mpz-1	rsf-1	smg-8	arl-3	smg-9	gop-1	atx-2	unc-119	rho-1	mcp-1	rab-39	rab-28
+GMP_biosynthetic_process_(GO:0006177)	kcc-3	tax-4	egl-4	gcy-8	pkc-2	odr-1	glb-5	cng-3
+GTP_biosynthetic_process_(GO:0006183)	mtcu-2	grk-2	nca-2	par-3	lin-45	mttu-1	atg-9	rpm-1	act-1	unc-6	ksr-1	sid-3	dop-3	rab-10	ENTREZID:286789	mtcu-1	cdc-42
+GTP_metabolic_process_(GO:0046039)	mtcu-2	grk-2	nca-2	par-3	lin-45	mttu-1	atg-9	rpm-1	act-1	unc-6	ksr-1	sid-3	dop-3	rab-10	ENTREZID:286789	mtcu-1	cdc-42
+Golgi_localization_(GO:0051645)	rab-11.1	agef-1	let-23	rei-1	cccp-1	tpst-1	arf-3	cav-1	hsp-1	unc-23	bar-1	kvs-4	ENTREZID:286789	lrk-1	unc-101
+Golgi_to_endosome_transport_(GO:0006895)	rab-11.1	rei-1	vps-29	cccp-1	syd-2	rsd-3	sad-1	rab-10	eat-17	unc-16
+Golgi_to_plasma_membrane_protein_transport_(GO:0043001)	ccm-3	vps-29	cccp-1	srp-2	vps-52	rsd-3	rab-10	rab-11.1	rei-1
+Golgi_to_plasma_membrane_transport_(GO:0006893)	ccm-3	cccp-1	srp-2	vps-52	rsd-3	rab-10	rab-11.1	rei-1
+Golgi_vesicle_transport_(GO:0048193)	unc-108	lrk-1	ccm-3	tbc-8	maa-1	hsp-1	unc-46	unc-23	hid-1	nstp-5	ric-19	eat-17	cccp-1
+JNK_cascade_(GO:0007254)	jnk-1	let-99	mig-15	ENTREZID:286789
+JUN_phosphorylation_(GO:0007258)	lem-3	dlk-1	mak-1	ptp-3	atf-7	unc-22	par-1
+L-glutamate_transmembrane_transport_(GO:0015813)	ENTREZID:13192684	sol-1	mgl-2	glr-1	sup-1
+L-phenylalanine_catabolic_process_(GO:0006559)	cat-2	pah-1	prmt-5	let-767	rde-12	dmsr-1	ENTREZID:286789
+L-serine_biosynthetic_process_(GO:0006564)	hsf-1	sma-6	sma-10	jnk-1	hpk-1	mig-15
+L-serine_catabolic_process_(GO:0006565)	hsf-1	sma-6	sma-10	jnk-1	hpk-1	mig-15
+L-serine_metabolic_process_(GO:0006563)	hsf-1	sma-6	sma-10	jnk-1	hpk-1	mig-15
+MAPK_cascade_(GO:0000165)	tol-1	cpb-3	gld-1	hsp-60	daf-2	lin-45	jnk-1	pmk-3	rack-1	sek-1	ksr-1	mig-15
+N-terminal_peptidyl-methionine_acetylation_(GO:0017196)	cep-1	daf-16	natc-1	egl-1	ced-13	ENTREZID:286789
+N-terminal_peptidyl-serine_acetylation_(GO:0017198)	cep-1	daf-16	natc-1	egl-1	ced-13	ENTREZID:286789
+Notch_signaling_pathway_(GO:0007219)	vpr-1	cdk-8	lst-1	sygl-1	gsk-3	sur-2	dpl-1	lin-12	lin-1	apx-1
+P_granule_organization_(GO:0030719)	glh-1	ego-1	car-1	kgb-1	dcap-1	csn-5	mbk-2
+RNA_3'-end_processing_(GO:0031123)	gld-2	sig-7	rpb-2	pos-1	alg-1	neg-1	dapk-1	ssup-72	sydn-1	pinn-1	let-7
+RNA_catabolic_process_(GO:0006401)	gld-2	tsn-1	smg-8	smg-9	cebp-1
+RNA_destabilization_(GO:0050779)	cpb-3	gld-1	asna-1	lin-14	alg-1	lin-4	let-7	ENTREZID:286789	mir-249
+RNA_export_from_nucleus_(GO:0006405)	hcp-4	tcer-1	puf-8	age-1	daf-2	zfp-1	asm-3	npp-20	hsp-16.2	trx-1	ENTREZID:286789
+RNA_import_into_nucleus_(GO:0006404)	hcp-4	age-1	daf-2	zfp-1	asm-3	npp-20	hsp-16.2	nrde-3	trx-1	ENTREZID:286789
+RNA_interference_(GO:0016246)	capg-1	rsd-6	lem-3	wapl-1	scc-3
+RNA_metabolic_process_(GO:0016070)	capg-1	lem-3	gsk-3	cdk-11.1	set-17	dpl-1	wapl-1	cyl-1	scc-3	cdk-11.2
+RNA_methylation_(GO:0001510)	morc-1	prmt-5	met-2	prmt-1	ENTREZID:286789
+RNA_modification_(GO:0009451)	sig-7	ire-1	mtcu-2	rpb-2	morc-1	skn-1	mttu-1	mtcu-1
+RNA_polyadenylation_(GO:0043631)	cpb-3	gld-4	lin-41	gld-3	oma-1	oma-2	pos-1	neg-1	dapk-1	ssup-72	sydn-1	pinn-1	gld-2
+RNA_processing_(GO:0006396)	cpb-3	gld-1	lem-3	cdk-11.1	cyl-1	emb-4	cdk-11.2
+RNA_splicing_(GO:0008380)	vpr-1	mec-8	smn-1	exc-7	hrde-1	asd-1	emb-4	fox-1	ENTREZID:286789
+RNA_surveillance_(GO:0071025)	spg-7	cebp-2	dlk-1	smg-8	smg-9	pmk-3	sek-3	parn-1
+RNA_transport_(GO:0050658)	cdc-42	mtcu-2	mttu-1	sid-1	act-1	ist-1	sid-3	mtcu-1	ENTREZID:286789
+Rab_protein_signal_transduction_(GO:0032482)	rab-11.1	unc-108	nhr-49	tbc-2	cdc-42	eff-1	let-23	rab-7	rei-1	gop-1	atx-2	ife-1	egl-4	ced-10	egl-19	gdi-1	slo-1	unc-2	slo-2	dyn-1	mir-51	madd-3	rab-5
+Rac_protein_signal_transduction_(GO:0016601)	let-502	unc-40	mom-5	ced-1	mel-11	mig-10	ina-1	ced-7	pdr-1	ced-10	fos-1	rpm-1	nrf-5	unc-6	pix-1	rin-1	cdc-42	pat-2	unc-5
+Ras_protein_signal_transduction_(GO:0007265)	lpr-1	lin-41	sur-2	lin-45	let-60	ksr-1	let-7
+Rho_protein_signal_transduction_(GO:0007266)	bli-3	par-6	vab-1	spv-1	grk-2	par-3	pat-2	ina-1	lin-45	gdi-1	memo-1	rpm-1	act-1	hif-1	ksr-1	vav-1	sid-3	dop-3	nca-2	rho-1	ENTREZID:286789	cdc-42
+Roundabout_signaling_pathway_(GO:0035385)	unc-40	crml-1	eva-1	ilcr-2	wrk-1	sdn-1	slt-1	wve-1	ENTREZID:286789	unc-73	unc-6	sax-3
+SMAD_protein_signal_transduction_(GO:0060395)	hmbx-1	nhr-49	nhr-69	daf-16	daf-7	egl-4	scd-2	dbl-1	daf-6	daf-28	ceh-28	sma-9	ENTREZID:286789
+SNARE_complex_assembly_(GO:0035493)	vps-51	unc-13	skr-1	snap-1	sel-10	syg-1	ENTREZID:286789	syx-3	tom-1	unc-18
+TOR_signaling_(GO:0031929)	hsf-1	skn-1	hpk-1	daf-16
+TORC1_signaling_(GO:0038202)	hsf-1	atx-2	cnnm-1	cnnm-3	hpk-1	pept-1	aak-2	daf-16	skn-1
+TORC2_signaling_(GO:0038203)	daf-16	cdc-42	ENTREZID:286789	rict-1	skn-1	pept-1
+Toll_signaling_pathway_(GO:0008063)	tol-1	daf-19	egl-5	skn-1	cebp-1	bar-1	nipi-3
+Wnt_protein_secretion_(GO:0061355)	vps-29	mtm-9	mtm-6	ENTREZID:286789	mig-14
+Wnt_signaling_pathway_(GO:0016055)	mig-1	lin-17	lin-5	cam-1	glp-1	enu-3.1	lin-22	let-99	mom-2	arr-1	lon-2	rig-3	sdn-1	vang-1	unc-6
+Wnt_signaling_pathway,_planar_cell_polarity_pathway_(GO:0060071)	mig-1	lin-17	lin-44	sys-1	dsh-1	cam-1	wrm-1	arr-1	unc-6	dsh-2	ENTREZID:286789	vang-1
+acetylcholine_biosynthetic_process_(GO:0008292)	tom-1	unc-13	grk-2	nca-2	eel-1	lin-45	cho-1	gpa-3	flp-11	rig-3	unc-18	ksr-1	nlp-7	dop-3	ENTREZID:286789
+acetylcholine_catabolic_process_(GO:0006581)	tom-1	unc-13	grk-2	nca-2	eel-1	lin-45	cho-1	gpa-3	flp-11	rig-3	unc-18	ksr-1	nlp-7	dop-3	ENTREZID:286789
+acetylcholine_secretion,_neurotransmission_(GO:0014055)	nlp-12	lgc-46	cho-1	flp-11	sphk-1	nlp-7	ENTREZID:180903
+acetylcholine_transport_(GO:0015870)	tom-1	unc-13	cho-1	unc-41	eat-6	gar-3	ENTREZID:180903	unc-18	sup-1	cha-1	unc-17	ENTREZID:286789	ENTREZID:13192684
+actin_cytoskeleton_organization_(GO:0030036)	fhod-1	exc-6	unc-82	atn-1	sem-5	abl-1	sma-5
+actin_cytoskeleton_reorganization_(GO:0031532)	lrr-1	egg-3	unc-53	fln-1	ced-10	unc-33	cas-1	ENTREZID:286789	abi-1
+actin_filament_depolymerization_(GO:0030042)	unc-87	pfn-1	arp-6	chc-1	unc-60	tmd-2	aipl-1	unc-78	epn-1	ENTREZID:286789
+actin_filament_network_formation_(GO:0051639)	nab-1	pat-10	erm-1	hsf-1	fozi-1	ani-1	gsnl-1	ifc-2	syg-1	dlg-1	mig-2	sma-5	pph-6
+actin_filament_organization_(GO:0007015)	fhod-1	exc-6	unc-82	atn-1	sem-5	abl-1	sma-5
+actin_filament_polymerization_(GO:0030041)	abi-1	mig-10	fozi-1	chc-1	ced-10	epn-1	cas-1	cas-2	gsnl-1
+actin_filament_severing_(GO:0051014)	unc-87	arp-6	fli-1	ani-1	aipl-1	mig-2	unc-60	gsnl-1
+activation_of_GTPase_activity_(GO:0090630)	cnt-1	daf-18	ced-10	rho-1	mrck-1	rin-1	cdc-42	ENTREZID:286789	cyk-4
+activation_of_JUN_kinase_activity_(GO:0007257)	let-23	eps-8	gck-3	dkf-1	ENTREZID:286789
+activation_of_MAPK_activity_(GO:0000187)	bli-3	ndk-1	catp-1	atf-7	wrm-1	aak-1	lin-12	lit-1	skn-1	plp-1	pmk-3	end-1	par-4	lin-14	pmk-1	daf-18
+activation_of_MAPKK_activity_(GO:0000186)	bli-3	ndk-1	ire-1	xbp-1	atf-7	aak-1	skn-1	pmk-3	sqrd-1	par-4	pek-1	tbx-35	pmk-1	daf-18
+activation_of_immune_response_(GO:0002253)	bli-3	tol-1	phb-1	daf-2	atf-7	skn-1	jnk-1	pmk-3	rack-1	cebp-1	irg-7	npr-1	sek-1	daf-12	nipi-3	octr-1	kgb-2	daf-16
+activation_of_protein_kinase_activity_(GO:0032147)	daf-16	hsf-1	dep-1	pat-3	plk-1	aak-1	daf-18	par-4	lgl-1	hpk-1	pkc-2
+actomyosin_structure_organization_(GO:0031032)	let-502	mrck-1	pak-1	ENTREZID:268262	ENTREZID:286789
+acyl-CoA_metabolic_process_(GO:0006637)	acox-1.2	mdt-15	acs-4	acdh-11	prdx-2	ENTREZID:286789	acox-1.1
+adenosine_catabolic_process_(GO:0006154)	capg-1	mei-1	ubxn-3	dpy-27	adr-2	dpy-28	cul-2	wapl-1	dpy-26	fat-1	scc-3	clec-41	smcl-1
+adenosine_to_inosine_editing_(GO:0006382)	eri-6	tdp-1	clec-41	adr-1	adr-2
+aerobic_respiration_(GO:0009060)	cep-1	nhr-49	daf-16	mdt-15	glr-1	pmk-3	aak-2
+aggrephagy_(GO:0035973)	lgg-1	atg-16.2	lgg-2	atg-16.1	ENTREZID:286789
+alcohol_metabolic_process_(GO:0006066)	erg-28	slo-2	daf-16	slo-1
+alpha-tubulin_acetylation_(GO:0071929)	elpc-1	mec-12	elpc-3	coel-1	ENTREZID:286789	mec-17
+amine_transport_(GO:0015837)	phb-1	mod-5	trt-1	atf-7	pmk-3	swip-10	daf-12	ENTREZID:286789
+amino_acid_homeostasis_(GO:0080144)	bli-3	sacy-1	ire-1	umps-1	swip-10	flp-2	selt-1.1	clhm-1	selt-1.2	skn-1
+amino_acid_transmembrane_transport_(GO:0003333)	ENTREZID:13192684	mod-5	mgl-2	unc-101	casy-1	ENTREZID:179702	hrg-1	sup-1	kvs-4	ENTREZID:286789
+androgen_metabolic_process_(GO:0008209)	lin-53	let-767	ell-1	eaf-1
+animal_organ_development_(GO:0048513)	eff-1	unc-52	jnk-1	sax-7	nid-1	mig-15	bed-3
+anterograde_axonal_transport_(GO:0008089)	ptl-1	syd-2	ENTREZID:286789	unc-104
+anterograde_synaptic_vesicle_transport_(GO:0048490)	unc-18	syd-2	ENTREZID:286789	syx-3	unc-104
+apical_protein_localization_(GO:0045176)	lpr-1	erm-1	spd-2	lam-3	che-10	cdc-42	nhx-2	spv-1	zyx-1	pbo-1	cdk-1	let-653	rho-1	act-1	dlg-1	ajm-1	mua-6	sid-3	trx-3	grdn-1	pmk-1	ENTREZID:286789
+apoptotic_DNA_fragmentation_(GO:0006309)	crn-5	ced-4	ced-3	egl-1	crn-4	ced-9	dcr-1
+apoptotic_cell_clearance_(GO:0043277)	unc-108	eff-1	ced-4	gop-1	ced-7	psr-1	let-99	ced-3	nrf-5	egl-1	ced-9
+apoptotic_process_involved_in_development_(GO:1902742)	atad-3	dpff-1	abcf-3	ced-3	gcn-1	ENTREZID:286789
+apoptotic_signaling_pathway_(GO:0097190)	ubr-1	unc-108	lin-28	ced-4	gop-1	egl-1	swip-10	endu-2	ced-9	ced-3
+arginine_biosynthetic_process_(GO:0006526)	prmt-7	skn-1	prmt-9	argk-1	prmt-1	dmsr-1	dop-3	npr-22	lury-1	ENTREZID:286789	prmt-5
+ascaroside_biosynthetic_process_(GO:1904070)	hsf-1	acox-1.2	ENTREZID:286789	acox-1.1
+asparagine_biosynthetic_process_(GO:0006529)	mut-16	png-1	abu-11	nhr-67	fax-1	pek-1	ENTREZID:286789
+asymmetric_neuroblast_division_(GO:0055059)	nmy-2	cwn-1	toe-2	par-2	tbx-2	egl-5	grp-1	cnt-2	par-4	ces-1	dsh-2	ham-1	lin-32	pig-1
+attachment_of_mitotic_spindle_microtubules_to_kinetochore_(GO:0051315)	plk-1	klp-7	ENTREZID:286789	ndc-80
+attachment_of_spindle_microtubules_to_kinetochore_(GO:0008608)	klp-7	plk-1	ENTREZID:286789	ndc-80
+autophagosome_maturation_(GO:0097352)	lgg-1	vps-32.1	mtm-3	lgg-2	atg-9	vps-39	rab-10	ENTREZID:286789
+axon_extension_(GO:0048675)	ENTREZID:13182525	madd-4	daf-16	cdc-42	rsks-1	ani-1	sax-3	dgn-1	mig-2	aak-2	ENTREZID:286789	unc-40	dlk-1	rpm-1	rhgf-1
+axon_guidance_(GO:0007411)	lin-17	kpc-1	cam-1	unc-52	chin-1	enu-3.1	nid-1	max-1	vang-1	lon-2	sdn-1	lin-14	ncx-9	unc-6
+axon_regeneration_(GO:0031103)	dlk-1	aff-1	ced-7	cebp-1	ddr-2	svh-2	let-7	shc-1	eff-1
+axonal_fasciculation_(GO:0007413)	rig-6	spon-1	cdh-4	zag-1	hda-1	unc-6	ENTREZID:286789
+axoneme_assembly_(GO:0035082)	mks-5	hyls-1	tbb-4	xbx-1	tba-5	bbs-8	osm-12	ENTREZID:286789
+barbed-end_actin_filament_capping_(GO:0051016)	cyk-1	eps-8	unc-78	ENTREZID:286789	gsnl-1
+base-excision_repair_(GO:0006284)	fncm-1	lem-3	spr-5	fcd-2	ENTREZID:286789
+base-excision_repair,_AP_site_formation_(GO:0006285)	exo-3	apn-1
+basement_membrane_organization_(GO:0071711)	rab-3	unc-52	ost-1	aex-3	agr-1
+behavioral_response_to_ethanol_(GO:0048149)	rab-3	erg-28	seb-3	slo-1
+behavioral_response_to_starvation_(GO:0042595)	hsf-1	hsp-4	ire-1	npr-17	seb-3	srh-234	ENTREZID:286789
+body_morphogenesis_(GO:0010171)	vpr-1	smn-1	enu-3.1	unc-6	prdx-2
+brain_morphogenesis_(GO:0048854)	kpc-1	ccm-3	chin-1	sax-3	vhl-1	elc-2	ENTREZID:286789	bgnt-1.1
+branched-chain_amino_acid_catabolic_process_(GO:0009083)	tat-2	cpi-1	cpi-2	calu-1	prdx-2	cblc-1
+branching_morphogenesis_of_a_nerve_(GO:0048755)	mig-1	kal-1	arr-1	vang-1	hst-3.1	hst-3.2	unc-6
+cAMP_biosynthetic_process_(GO:0006171)	lid-1	lat-1	prmt-5	atgl-1	unc-43	gpa-3	hif-1	cebp-1	ets-4	svh-2	dop-3
+cAMP_catabolic_process_(GO:0006198)	lid-1	lat-1	prmt-5	atgl-1	unc-43	gpa-3	hif-1	cebp-1	ets-4	svh-2	dop-3
+cGMP_biosynthetic_process_(GO:0006182)	tax-2	kcc-3	daf-2	tax-4	egl-4	gcy-8	odr-1	cng-3
+cGMP_catabolic_process_(GO:0046069)	tax-2	kcc-3	daf-2	tax-4	egl-4	gcy-8	odr-1	cng-3
+calcium_ion_homeostasis_(GO:0055074)	gon-2	gem-4	ENTREZID:286789	gtl-1	clhm-1
+calcium_ion_transport_(GO:0006816)	aipr-1	mcu-1	egl-19	apx-1	cebp-1	unc-2	calu-1	ets-4	svh-2	slo-1	slo-2	ENTREZID:286789
+calcium-mediated_signaling_(GO:0019722)	aipr-1	grk-2	nca-2	apx-1	calu-1	pkc-2	dop-3	ENTREZID:286789
+canonical_Wnt_signaling_pathway_(GO:0060070)	kin-19	lin-39	egl-20	mig-13	pak-1	ENTREZID:286789	mab-5
+carbohydrate_phosphorylation_(GO:0046835)	lin-44	ndx-1	dsh-1	ire-1	gsy-1	oga-1	ENTREZID:286789
+carbohydrate_transport_(GO:0008643)	mafr-1	aqp-2	aqp-4	daf-12	dyn-1	lbp-5	ENTREZID:286789
+cardiolipin_biosynthetic_process_(GO:0032049)	ipla-1	mdt-15	cyc-2.1	fat-1	cyc-2.2
+cation_homeostasis_(GO:0055080)	nuo-6	cox-5B	mfn-1	pdr-1	pmk-3	gtl-2	cnnm-1	cnnm-3	sur-7	aak-2	ocr-2	osm-12	hizr-1	mir-60	ENTREZID:286789	fpn-1.1	osm-9
+cation_transport_(GO:0006812)	cil-7	nuo-6	cox-5B	mfn-1	pdr-1	pmk-3	cnnm-1	cnnm-3	pkc-2	aak-2	hizr-1	mir-60	ENTREZID:286789	fpn-1.1
+cell_adhesion_(GO:0007155)	ced-7	sax-7	nrx-1	hmp-1	let-7	clr-1	eff-1
+cell_adhesion_mediated_by_integrin_(GO:0033627)	unc-40	ced-1	cki-1	pat-4	rnf-5	pat-2	pat-6	ost-1	uig-1	unc-6	ENTREZID:286789	cdc-42	pat-3	unc-112
+cell_cycle_arrest_(GO:0007050)	san-1	daf-16	wrn-1	bub-3	set-2	lin-39	cyb-1	act-1	sid-3	mir-34	fzy-1	cdc-42
+cell_cycle_phase_transition_(GO:0044770)	zyg-11	mel-28	cul-2	mbk-2	mir-35	gsp-2
+cell_differentiation_(GO:0030154)	gsk-3	cdk-11.1	dpl-1	unc-52	cyl-1	nid-1	cdk-11.2
+cell_fate_determination_(GO:0001709)	hlh-2	sur-2	set-17	dep-1	hlh-3	pat-3	acs-4	lin-12	lin-1	cdk-8
+cell_fate_specification_(GO:0001708)	lpr-1	hlh-2	lin-39	glp-1	mom-2	ENTREZID:286789
+cell_migration_involved_in_gastrulation_(GO:0042074)	arx-1	mau-2	pfn-1	pmr-1	cyk-1
+cell_morphogenesis_(GO:0000902)	cdc-42	unc-52	act-1	nid-1	sid-3	clr-1
+cell_redox_homeostasis_(GO:0045454)	gcy-35	ipla-1	ire-1	gsr-1	skn-1	gspd-1	selt-1.1	trx-1	selt-1.2
+cell_surface_receptor_signaling_pathway_(GO:0007166)	lin-17	cdk-8	gsk-3	sur-2	dpl-1	cam-1	grk-2	nca-2	lin-12	lin-1	apx-1	vang-1	dop-3	ENTREZID:286789
+cell_volume_homeostasis_(GO:0006884)	C30F12.4	gsy-1	kgb-1	osm-9	atg-9	osm-12	rab-10
+cell-cell_adhesion_(GO:0098609)	hmp-2	cdc-42	lat-1	mrck-1	soap-1	hmp-1	ENTREZID:286789
+cell-cell_junction_assembly_(GO:0007043)	smn-1	hmr-1	hmp-2	unc-104	cdc-42	ess-2	arl-8	atg-9	rpm-1	hmp-1	syg-1	unc-3	wve-1
+cell-cell_junction_maintenance_(GO:0045217)	dyb-1	ctn-1	unc-104	cdc-42	clh-1	zyx-1	gon-1	arl-8	slo-1	unc-2	rig-3	mec-7	lin-14	ptrn-1
+cell-cell_junction_organization_(GO:0045216)	dyb-1	ctn-1	fhod-1	erm-1	madd-4	ani-2	cdc-42	myrf-1	zyx-1	exc-6	slo-1	syg-1	unc-2	dlg-1	myrf-2
+cell-cell_signaling_(GO:0007267)	ubr-5	rab-5	eff-1	lat-1	mapk-15	lin-12	hecd-1	mom-2	dyn-1	glp-1
+cell-matrix_adhesion_(GO:0007160)	unc-40	vab-10	zyx-1	mig-10	ina-1	ost-1	fos-1	unc-6	him-4	sta-2
+cellular_aldehyde_metabolic_process_(GO:0006081)	sod-2	nduf-7	hif-1	sod-3	djr-1.2
+cellular_calcium_ion_homeostasis_(GO:0006874)	gon-2	gem-4	clhm-1	ENTREZID:286789	gtl-1
+cellular_carbohydrate_metabolic_process_(GO:0044262)	pyk-1	pck-1	dct-17	sdn-1	sir-2.3	ENTREZID:286789
+cellular_component_organization_(GO:0016043)	erm-1	snpc-4	rab-3	mks-5	ost-1	let-653	soap-1	hyls-1	pha-4	aex-3	syg-1	dlg-1	ENTREZID:286789
+cellular_glucose_homeostasis_(GO:0001678)	ipla-1	hsp-4	gsy-1	glod-4	gspd-1	hmit-1.1	hmit-1.2	hif-1	sod-3	ins-7	ire-1
+cellular_modified_amino_acid_catabolic_process_(GO:0042219)	gld-2	smn-1	dpy-27	dpy-28	npr-2	grl-21	dpy-26	sid-1	dop-1	npr-1	nhr-25	ptr-24	smcl-1
+cellular_protein_localization_(GO:0034613)	cdc-42	act-1	sid-3	lem-3
+cellular_protein_modification_process_(GO:0006464)	ubr-4	daf-16	hse-5	set-2	acs-4	fahd-1	fat-1	aip-1	fntb-1	mec-2	unc-6	ENTREZID:286789
+cellular_respiration_(GO:0045333)	nhr-49	daf-16	mdt-15	hlh-30	tald-1	fmo-2	aak-2
+cellular_response_to_X-ray_(GO:0071481)	cps-6	dog-1	pch-2	ser-2	ced-13
+cellular_response_to_acidic_pH_(GO:0071468)	tcer-1	nape-1	hif-1	npr-19	npr-32	ENTREZID:286789	daf-16
+cellular_response_to_amino_acid_starvation_(GO:0034198)	npr-17	skn-1	tax-6	mdf-1	ENTREZID:286789
+cellular_response_to_arsenite_ion_(GO:1903843)	rsf-1	rab-39	ENTREZID:286789	skn-1
+cellular_response_to_cGMP_(GO:0071321)	tax-2	hsf-1	daf-2	odr-1	cng-3	egl-4
+cellular_response_to_calcium_ion_(GO:0071277)	hmg-1.2	crt-1	hsp-16.1	glit-1	lite-1	gur-3	ocr-2	ENTREZID:286789
+cellular_response_to_caloric_restriction_(GO:0061433)	let-363	daf-7	efk-1	baf-1	nhr-8	sir-2.1	ins-1	atg-18	daf-9
+cellular_response_to_gamma_radiation_(GO:0071480)	wrn-1	ztf-8	parg-1	cpr-4	ENTREZID:286789	hsr-9
+cellular_response_to_hydrogen_peroxide_(GO:0070301)	ndx-1	prdx-3	hlh-30	tald-1	fmo-2	crt-1	glit-1	lite-1	gur-3
+cellular_response_to_hypoxia_(GO:0071456)	spg-7	blmp-1	daf-2	glr-1	manf-1	pmk-3	hif-1	ENTREZID:286789	glb-5
+cellular_response_to_ionizing_radiation_(GO:0071479)	daf-16	pch-2	ztf-8	abcf-3	dlc-1	bec-1	cpr-4	akt-1	gcn-1	let-7	ENTREZID:286789	cep-1
+cellular_response_to_leucine_(GO:0071233)	ENTREZID:13182525	lrk-1	mib-1	hlh-30	mma-1	cebp-1	lin-18	nipi-3	rhgf-1	dlk-1
+cellular_response_to_misfolded_protein_(GO:0071218)	nuo-6	cox-5B	daf-16	ire-1	tdp-1	cdc-48.1	mfn-1	daf-7	mdt-15	hpl-2	dct-17	daf-28
+cellular_response_to_pheromone_(GO:0071444)	hsf-1	daf-2	osm-3	gpa-3	srbc-66	srbc-64	rict-1	ENTREZID:286789
+cellular_response_to_starvation_(GO:0009267)	oaz-1	lsm-1	ilys-3	hlh-30	tald-1	fmo-2	lsm-3	seb-3	srh-234	ENTREZID:286789
+cellular_response_to_toxic_substance_(GO:0097237)	hsp-4	cysl-2	ethe-1	qui-1	sqrd-1	gpa-3	odr-3	hif-1	cysl-1	ENTREZID:268160
+cellular_water_homeostasis_(GO:0009992)	erm-1	daf-16	aqp-2	vha-19	aqp-4	hmit-1.1	hmit-1.2	vha-20	ENTREZID:286789	ceh-6	aqp-8
+centrosome_cycle_(GO:0007098)	spd-5	apr-1	spd-2	zyg-1	fzr-1	sas-7	cyb-1	gsp-1	sun-1	gsp-2	sas-5
+centrosome_duplication_(GO:0051298)	sep-1	spd-2	lin-23	fzr-1	sas-7	cyb-1	sas-6	gsp-1	sel-10	gsp-2	zyg-1	pptr-2	sas-5	ENTREZID:286789
+centrosome_localization_(GO:0051642)	arx-7	sys-1	par-6	che-10	par-3	cdk-1	sas-7	pig-1	let-99	sun-1	par-4	ajm-1	grdn-1	ENTREZID:286789	ENTREZID:3565765	spd-2
+centrosome_separation_(GO:0051299)	dhc-1	lin-41	ubxn-2	efa-6	air-1	sas-5
+ceramide_biosynthetic_process_(GO:0046513)	apg-1	age-1	daf-2	asm-3	ENTREZID:286789
+ceramide_transport_(GO:0035627)	apg-1	age-1	daf-2	asm-3	crp-1
+chemical_synaptic_transmission_(GO:0007268)	unc-13	unc-104	glr-1	cmk-1	arl-8	unc-10	syd-2
+chemosensory_behavior_(GO:0007635)	mut-16	osm-9	csr-1	lite-1	srh-234	osm-12	ENTREZID:286789
+chiasma_assembly_(GO:0051026)	syp-4	syp-3	htp-2	htp-1
+chitin_biosynthetic_process_(GO:0006031)	egg-4	egg-5	chs-1	chs-2	egg-3	cpg-2	cpg-1
+chitin_catabolic_process_(GO:0006032)	egg-4	egg-5	chs-1	chs-2	egg-3	cpg-2	cpg-1
+chloride_transport_(GO:0006821)	erm-1	ttx-7	trt-1	clh-1	lgc-55	aqp-8	slo-2
+cholesterol_biosynthetic_process_(GO:0006695)	mec-6	nduf-7	daf-16	daf-2	acs-4	mec-10	sur-7	mec-4	cblc-1	ENTREZID:286789
+cholesterol_homeostasis_(GO:0042632)	acs-4	sbp-1	nhr-8	dhs-16	atfs-1	mec-2	sur-7	klf-3	ENTREZID:286789
+cholesterol_metabolic_process_(GO:0008203)	mec-6	nduf-7	daf-16	daf-2	acs-4	mec-10	sur-7	mec-4	cblc-1	ENTREZID:286789
+cholesterol_transport_(GO:0030301)	lrp-1	nduf-7	tbc-2	nhr-8	nap-1	mec-2	epn-1	hsd-1	klf-3	ENTREZID:286789
+choline_transport_(GO:0015871)	unc-3	snf-6	cha-1	unc-17	cho-1
+chondroitin_sulfate_biosynthetic_process_(GO:0030206)	chst-1	nex-1	cpg-2	rib-2	pps-1	mir-79	ENTREZID:268154	ENTREZID:268156	ENTREZID:268157	ENTREZID:286789	cpg-1
+chondroitin_sulfate_catabolic_process_(GO:0030207)	chst-1	nex-1	cpg-2	rib-2	pps-1	mir-79	ENTREZID:268154	ENTREZID:268156	ENTREZID:268157	ENTREZID:286789	cpg-1
+chondroitin_sulfate_proteoglycan_biosynthetic_process_(GO:0050650)	chst-1	cpg-2	mir-79	ENTREZID:268154	ENTREZID:268157	cpg-1
+chromatin_maintenance_(GO:0070827)	capg-1	lem-3	spr-5	smc-5	smc-6	brc-1	set-2	morc-1	brd-1	met-2	wapl-1	elt-1	scc-3	sun-1	lsy-2	elt-2	pot-1	let-7	ENTREZID:286789
+chromatin_remodeling_(GO:0006338)	lin-35	ubxn-3	top-2	cul-2	sid-1	let-418
+chromatin_silencing_by_small_RNA_(GO:0031048)	nrde-2	nrde-1	morc-1	hmg-1.2	nrde-4	sid-1	hsp-16.1	nrde-3
+chromosome_attachment_to_the_nuclear_envelope_(GO:0097240)	lmn-1	zyg-1	mel-28	ENTREZID:286789	gsp-2	sun-1
+chromosome_condensation_(GO:0030261)	air-2	knl-2	cdc-48.1	tlk-1	air-1	cyb-3	ENTREZID:286789
+chromosome_organization_(GO:0051276)	capg-1	apr-1	set-17	wapl-1	scc-3	ska-1	lem-3
+chromosome_segregation_(GO:0007059)	capg-1	apr-1	wapl-1	scc-3	lem-3
+chromosome_separation_(GO:0051304)	cep-1	lin-41	top-2	coh-4	coh-3
+ciliary_transition_zone_assembly_(GO:1905349)	hyls-1	mks-5	ENTREZID:286789
+cilium_assembly_(GO:0060271)	osm-3	hyls-1	nphp-4	mks-5	ENTREZID:286789
+cilium_movement_involved_in_cell_motility_(GO:0060294)	mapk-15	osm-3	osm-1	bbs-8	osm-12	ENTREZID:286789
+circadian_behavior_(GO:0048512)	cep-1	daf-16	pdf-1	npr-1	flr-1	flr-4	dmsr-1	nlp-22
+circadian_rhythm_(GO:0007623)	lin-42	vha-6	pdf-1	flr-1	flr-4
+citrate_transport_(GO:0015746)	daf-16	atfs-1	nac-2	daf-2
+clathrin-dependent_endocytosis_(GO:0072583)	lrp-1	toca-2	toca-1	sng-1	epn-1	rab-10
+coenzyme_A_biosynthetic_process_(GO:0015937)	mboa-6	mdt-15	gna-1	klf-3	nhr-25	ENTREZID:286789
+coenzyme_A_catabolic_process_(GO:0015938)	mboa-6	mdt-15	gna-1	klf-3	nhr-25	ENTREZID:286789
+collagen_biosynthetic_process_(GO:0032964)	dpy-17	mua-3	ost-1	sir-2.1	ddr-2	svh-2	col-99	shc-1
+collagen_metabolic_process_(GO:0032963)	dpy-17	mua-3	ost-1	sir-2.1	ddr-2	svh-2	col-99	shc-1
+commissural_neuron_axon_guidance_(GO:0071679)	erm-1	unc-116	mig-15	wve-1	max-2
+cortical_cytoskeleton_organization_(GO:0030865)	apr-1	aspm-1	rab-5	cdc-42	lin-5	chc-1	rho-1	cmd-1	dhc-3	pph-6
+cortical_granule_exocytosis_(GO:0060471)	rab-11.1	rab-6.1	cav-1	sep-1
+cristae_formation_(GO:0042407)	lrk-1	misc-1	pink-1	moma-1	immt-2	immt-1	ENTREZID:286789	ENTREZID:177676
+cuticle_pattern_formation_(GO:0035017)	suro-1	qua-1	cut-6	let-653	nas-37
+cyanide_catabolic_process_(GO:0019500)	ethe-1	sqrd-1	hif-1	cysl-3	cysl-2	cysl-1
+cyanide_metabolic_process_(GO:0019499)	ethe-1	sqrd-1	hif-1	cysl-3	cysl-2	cysl-1
+cysteine_biosynthetic_process_(GO:0019344)	kin-10	cep-1	gcs-1	atf-7	cpr-4	egl-1	hif-1	selt-1.1	selt-1.2
+cysteine_biosynthetic_process_from_serine_(GO:0006535)	glrx-10	lrk-1	sup-9	ooc-5	cysl-2	atf-7	skn-1	srp-2	srp-3	egl-1	cysl-1	cysl-3	ENTREZID:268198	ENTREZID:286789	ire-1
+cytoplasmic_microtubule_organization_(GO:0031122)	spd-1	klp-15	apr-1	klp-16	ptl-1	knl-1	klp-18	sma-5	ENTREZID:286789
+cytoplasmic_sequestering_of_protein_(GO:0051220)	taf-4	daf-16	ced-4	ttm-1	ftt-2	ced-9
+cytoplasmic_streaming_(GO:0099636)	sam-4	ani-2	unc-104	eff-1	dat-1	ced-7	mec-17	par-1	lin-2	let-7
+cytoplasmic_translation_(GO:0002181)	cpb-3	lin-41	oma-1	grl-21	atg-9	oma-2	ist-1	nhr-25	ptr-24	rab-10
+cytoplasmic_translational_initiation_(GO:0002183)	gld-1	lin-41	pab-1	ifet-1	pal-1	ife-1	oma-1	oma-2	ife-4	pab-2
+cytoskeleton_organization_(GO:0007010)	spd-1	klp-15	apr-1	klp-16	klp-18	unc-82	sem-5	abl-1	ENTREZID:286789
+dauer_entry_(GO:0043053)	eif-2beta	ooc-5	eif-2A	cmk-1	rict-1
+defense_response_to_Gram-negative_bacterium_(GO:0050829)	bli-3	mdt-15	hlh-30	skn-1	rack-1	egl-9	hif-1	npr-1	elt-2	F57F4.4
+defense_response_to_Gram-positive_bacterium_(GO:0050830)	wwp-1	daf-16	daf-2	hlh-30	skn-1	ins-1	egl-9	hif-1	npr-1
+defense_response_to_bacterium_(GO:0042742)	bli-3	skn-1	rack-1	hif-1	npr-1
+demethylation_(GO:0070988)	fncm-1	spr-5	rbr-2	fcd-2	ENTREZID:286789
+dendrite_development_(GO:0016358)	mig-1	aff-1	ire-1	eff-1	unc-52	rpm-1	nrx-1	nid-1	arr-1	vang-1	unc-6	rab-28	ENTREZID:286789
+dendrite_extension_(GO:0097484)	ENTREZID:13182525	dlk-1	spon-1	cdc-42	mapk-15	ani-1	pkd-2	unc-70	mls-2	vab-3	mig-2	hlh-17	clr-1	unc-40	rhgf-1	ENTREZID:286789
+dendrite_guidance_(GO:0070983)	lin-44	cdk-8	kpc-1	dsh-1	cdc-42	unc-52	dpy-18	ani-1	fln-1	unc-33	unc-5	nid-1	sdn-1	mig-2	rhgf-1	dma-1	lin-4	unc-40	ENTREZID:286789
+dendrite_morphogenesis_(GO:0048813)	mig-1	kpc-1	lect-2	ire-1	eff-1	unc-52	sax-7	nid-1	fntb-1	arr-1	vang-1	unc-6	dma-1	rab-28	clr-1	ENTREZID:286789
+dendrite_self-avoidance_(GO:0070593)	kpc-1	aff-1	eff-1	unc-6	dma-1
+dense_core_granule_exocytosis_(GO:1990504)	rab-11.1	tom-1	unc-13	rab-5	sur-6	aex-6	pkc-3	rbf-1	unc-43	par-1	hid-1	ins-7	rab-10	ENTREZID:286789	unc-31
+dense_core_granule_maturation_(GO:1990502)	gop-1	tbc-8	ric-19	ENTREZID:286789	cccp-1	unc-108
+dephosphorylation_(GO:0016311)	mei-1	ppfr-1	lin-5	fem-2	gpr-1	gpr-2	fem-1	fem-3	ndc-80	cyb-1	hsp-90	pph-5	gmeb-1
+developmental_process_involved_in_reproduction_(GO:0003006)	atp-2	mab-5	scc-3	apl-1	ENTREZID:267242	ENTREZID:286789
+diacylglycerol_catabolic_process_(GO:0046340)	let-60	hif-1	unc-18	drn-1	pkc-2	ENTREZID:286789
+diacylglycerol_metabolic_process_(GO:0046339)	let-60	hif-1	unc-18	drn-1	pkc-2	ENTREZID:286789
+digestion_(GO:0007586)	crn-7	rad-51	cpl-1	nuc-1	rip-1	rfs-1
+digestive_system_process_(GO:0022600)	wdr-23	alh-6	skn-1	npr-22	lury-1	ENTREZID:286789
+digestive_tract_development_(GO:0048565)	vpr-1	daf-16	ins-11	elt-7	atg-18	elt-2	rict-1
+digestive_tract_morphogenesis_(GO:0048546)	vpr-1	ccm-3	elt-7	tmc-1	ENTREZID:286789	elt-2
+dipeptide_transport_(GO:0042938)	nhx-2	vha-6	ENTREZID:286789	pept-1
+distal_tip_cell_migration_(GO:0097628)	ENTREZID:13187896	hlh-2	mom-5	cacn-1	pat-2	unc-5	mig-39	mir-83	mir-34	ENTREZID:286789	blmp-1	ina-1	dre-1
+dopamine_biosynthetic_process_(GO:0042416)	grk-2	nca-2	manf-1	crt-1	swip-10	glit-1	dop-3	ttr-33	ENTREZID:286789
+dopamine_biosynthetic_process_from_tyrosine_(GO:0006585)	trt-1	daf-16	daf-2	ida-1	gst-1	skn-1	dop-1	dop-3	cat-2
+dopamine_catabolic_process_(GO:0042420)	grk-2	nca-2	manf-1	crt-1	swip-10	glit-1	dop-3	ttr-33	ENTREZID:286789
+dopamine_metabolic_process_(GO:0042417)	grk-2	nca-2	manf-1	crt-1	swip-10	glit-1	dop-3	ttr-33	ENTREZID:286789
+dopamine_receptor_signaling_pathway_(GO:0007212)	nlp-12	daf-16	grk-2	daf-2	nca-2	prmt-5	ida-1	eri-1	npr-2	dop-2	npr-1	unc-7	djr-1.2	swip-10	dop-1	ENTREZID:286789	dop-3
+dopamine_transport_(GO:0015872)	phb-1	mod-5	trt-1	atf-7	dat-1	pmk-3	swip-10
+dopamine_uptake_(GO:0090494)	manf-1	nlg-1	tsp-17	ENTREZID:286789	dat-1
+double-strand_break_repair_(GO:0006302)	rtel-1	wrn-1	ufd-2	helq-1	set-2	polq-1	rad-51	jmjd-5	fkb-6	rfs-1
+double-strand_break_repair_via_homologous_recombination_(GO:0000724)	mus-81	slx-1	lem-3	smc-3	him-6	mre-11	sun-1	ENTREZID:286789
+dsRNA_processing_(GO:0031050)	riok-1	adr-1	drh-3	lin-28	lem-3	wrn-1	tdp-1	adr-2	dcr-1	sid-1	ENTREZID:286789	drh-1
+dsRNA_transport_(GO:0033227)	sid-2	sec-22	sid-3	him-5	sid-5	sid-1
+early_endosome_to_Golgi_transport_(GO:0034498)	rab-11.1	lrk-1	ccm-3	rei-1	unc-16	vps-29	hsp-1	unc-23	rab-10	eat-17	cccp-1
+early_endosome_to_late_endosome_transport_(GO:0045022)	rab-11.1	unc-108	vps-51	tbc-2	sma-6	nhx-2	pbo-1	rei-1	alx-1	vps-29	tbc-8	sma-10	sand-1	arl-8	sec-22	sorf-1	ccz-1	ric-19	sorf-2	sid-5	ENTREZID:286789
+eating_behavior_(GO:0042755)	drsh-1	vhl-1	npr-22	lury-1	elc-2
+eggshell_formation_(GO:0030703)	lpr-1	sep-1	egg-4	egg-5	ipla-1	vha-19	gspd-1	lpr-3
+electron_transport_chain_(GO:0022900)	cep-1	dlk-1	mtcu-2	ceh-23	pmk-3	mttu-1	sek-3	aak-2	mev-1	ENTREZID:286789	mtcu-1
+embryonic_axis_specification_(GO:0000578)	zyg-11	cul-2	mex-5	pos-1	neg-1
+embryonic_cleavage_(GO:0040016)	ipla-1	lin-5	chst-1	ccm-3	gpr-1	gpr-2	gspd-1	let-99	ENTREZID:286789	plst-1
+embryonic_digestive_tract_development_(GO:0048566)	unc-94	pha-1	mrp-5	med-1	med-2	ENTREZID:286789	elt-7	elt-2
+embryonic_digestive_tract_morphogenesis_(GO:0048557)	unc-94	pha-1	hlh-8	elt-2	ENTREZID:286789	elt-7
+embryonic_genitalia_morphogenesis_(GO:0030538)	ccm-3	glp-1	rho-1	mom-2	plst-1
+embryonic_pattern_specification_(GO:0009880)	lect-2	spon-1	unc-130	mab-5	egl-5	glp-1	unc-129	lin-3	mom-2	ENTREZID:286789	lin-39
+endocytic_recycling_(GO:0032456)	rab-5	tbc-2	rei-1	sec-10	amph-1	atg-9	rab-11.1	ccm-3	rab-10
+endocytosis_(GO:0006897)	hsf-1	ncap-1	cdc-42	klf-1	fat-1	act-1	hpk-1	apa-2	sid-3	klf-3	kin-1
+endoderm_development_(GO:0007492)	skn-1	elt-7	osm-11	med-1	med-2	ENTREZID:286789	elt-2
+endoplasmic_reticulum_organization_(GO:0007029)	pign-1	unc-89	vps-25	car-1	myrf-1	vps-22	dcap-1	vps-36	lpin-1	apy-1	myrf-2	ENTREZID:286789
+endoplasmic_reticulum_unfolded_protein_response_(GO:0030968)	hif-1	pek-1	atf-5	mev-1	ENTREZID:286789	xbp-1	skn-1	ire-1
+endosomal_transport_(GO:0016197)	haf-4	haf-9	vps-25	vps-22	sec-10	exc-9	vps-36	sorf-1	ist-1	ENTREZID:286789	sorf-2	madd-3	rab-10
+endosome_to_lysosome_transport_(GO:0008333)	lrk-1	sma-6	vps-33.2	nhx-2	pbo-1	vps-33.1	unc-16	sand-1	sec-10	atg-9	unc-60	sec-22	syd-2	sad-1	sid-5	ccz-1	rab-10	ENTREZID:286789
+ephrin_receptor_signaling_pathway_(GO:0048013)	mab-20	rnt-1	par-6	cdc-42	par-3	efn-4	vab-2	unc-43	wrk-1	abl-1	wve-1	plx-2	vab-1
+epidermal_cell_differentiation_(GO:0009913)	cdk-8	sur-2	eff-1	aptf-4	trd-1	lin-39	lin-12	pha-1	lin-1	lin-22	sax-7	lin-3	let-60	nhr-25	elt-3	pax-3	aptf-2	ENTREZID:286789
+epidermal_cell_fate_specification_(GO:0009957)	lpr-1	daf-16	lin-56	vab-23	kin-19	mab-5	lin-12	hpl-2	lin-3	lin-2	nhr-25	elt-3	lin-15A	pax-3	lin-39
+epidermal_growth_factor_receptor_signaling_pathway_(GO:0007173)	erm-1	cdk-8	daf-16	unc-101	agef-1	sur-2	dep-1	pat-3	lin-1	arf-3	lin-3	let-60	fat-1	egl-1	vav-1	ENTREZID:286789	let-23	lin-12
+epidermis_development_(GO:0008544)	par-6	vab-1	ins-11	aptf-4	par-3	lin-22	let-653	act-1	lin-14	ptrn-1	sid-3	pax-3	sydn-1	aptf-2	pinn-1	cdc-42	dapk-1
+epidermis_morphogenesis_(GO:0048730)	rab-5	par-6	vab-1	aptf-4	par-3	lin-22	sax-7	act-1	dyn-1	ptrn-1	sid-3	pax-3	dapk-1	aptf-2	eff-1	cdc-42
+epithelial_cell_migration_(GO:0010631)	par-6	vab-1	par-3	pdr-1	let-60	mig-39	frk-1	ENTREZID:286789	cdc-42
+epithelial_cell-cell_adhesion_(GO:0090136)	madd-4	hmr-1	hmp-2	cdc-42	soap-1	hmp-1	sta-2
+epithelial_tube_morphogenesis_(GO:0060562)	par-3	let-60	ifc-2	vang-1	mls-2	egl-15	mig-39	ENTREZID:267255
+epithelium_development_(GO:0060429)	par-6	vab-1	ins-11	aptf-4	par-3	lin-22	act-1	ptrn-1	sid-3	wve-1	sydn-1	aptf-2	pinn-1	cdc-42	dapk-1
+establishment_of_chromosome_localization_(GO:0051303)	spd-1	gei-17	lin-5	cls-1	gpr-1	cls-2	cls-3	gpr-2	klp-19	cyk-4	zen-4	sun-1	fkb-6	toca-1	pot-1	him-5	ENTREZID:286789
+establishment_of_meiotic_sister_chromatid_cohesion_(GO:0034089)	air-2	capg-1	wapl-1	coh-4	scc-3	coh-3	lab-1	gsp-2
+establishment_of_protein_localization_(GO:0045184)	bet-1	nmy-2	par-6	pkc-3	ccm-3	unc-45	chin-1	par-3	kin-18	rack-1	rho-1	rga-4	rga-3	cgef-1	dyn-1	ENTREZID:286789	cdc-42
+establishment_of_sister_chromatid_cohesion_(GO:0034085)	air-2	capg-1	wapl-1	coh-4	scc-3	coh-3	lab-1	gsp-2
+ethanol_metabolic_process_(GO:0006067)	hsf-1	hsp-16.48	erg-28	ctbp-1	slo-2	slo-1
+execution_phase_of_apoptosis_(GO:0097194)	ced-4	ced-3	egl-1	ced-9
+exit_from_meiosis_(GO:1990947)	rbx-2	bub-1	gld-1	gla-3	fbf-2	puf-8	bub-3	mpk-1	fli-1	cul-2	pgl-1	pam-1	let-60	mbk-2	rbx-1	cul-5	gsp-1	memi-1	htp-1	gsp-2	mel-28
+exocytosis_(GO:0006887)	sep-1	tom-1	unc-18	dyn-1	ENTREZID:286789	unc-13
+exogenous_drug_catabolic_process_(GO:0042738)	wdr-23	alh-6	mdt-15	skn-1	hif-1	ENTREZID:286789
+extracellular_matrix_organization_(GO:0030198)	lpr-1	madd-4	cdc-42	ost-1	let-653	act-1	lpr-3	mec-4	sid-3	ENTREZID:286789
+extracellular_structure_organization_(GO:0043062)	lpr-1	let-653	ENTREZID:180903	lpr-3	nlg-1	ENTREZID:286789
+fatty_acid_beta-oxidation_(GO:0006635)	cebp-2	nhr-49	daf-16	hsf-1	acox-1.1	daf-2	nhr-8	daf-12	ENTREZID:286789
+fatty_acid_beta-oxidation_using_acyl-CoA_dehydrogenase_(GO:0033539)	acox-1.1	acdh-12	let-721	klf-3	ENTREZID:286789
+fatty_acid_elongation_(GO:0030497)	lpr-1	nhr-49	daf-16	tcer-1	sbp-1	elo-5	elo-6	elo-2	pept-1
+fatty_acid_elongation,_saturated_fatty_acid_(GO:0019367)	lpr-1	nhr-49	daf-16	tcer-1	sbp-1	elo-5	elo-6	elo-2	pept-1
+fatty_acid_oxidation_(GO:0019395)	cebp-2	hsf-1	nhr-8	daf-12	cblc-1
+feeding_behavior_(GO:0007631)	drsh-1	vhl-1	npr-22	lury-1	elc-2
+female_gamete_generation_(GO:0007292)	gld-1	apr-1	puf-8	gpr-1	plst-1
+female_genitalia_development_(GO:0030540)	cdk-8	vrk-1	lin-39	ncl-1	lin-12	lin-1	lin-3	fib-1	pax-3	let-7	ENTREZID:286789	sur-2
+female_germ-line_sex_determination_(GO:0019099)	sacy-1	gld-1	prp-17	mog-2	cdc-48.1	cacn-1	uaf-1	larp-1	acs-4	trd-1	tra-1	teg-1	cul-2	fem-1	fem-3
+female_gonad_development_(GO:0008585)	vpr-1	hlh-2	cacn-1	pat-2	ina-1
+female_meiosis_I_(GO:0007144)	gei-17	lem-3	top-2	klp-19	memi-1
+female_meiosis_II_(GO:0007147)	mei-1	F47G4.4	vab-1	zyg-11	zyg-9	wee-1.3	top-2	cdk-1	ani-1	cul-2	unc-43	memi-1	fzy-1
+female_meiotic_nuclear_division_(GO:0007143)	lin-41	lem-3	top-2	sun-1	memi-1
+female_sex_differentiation_(GO:0046660)	vpr-1	cdk-8	sur-2	cdk-11.1	lin-12	lin-1	cyl-1	cdk-11.2	srb-13
+female_somatic_sex_determination_(GO:0019101)	sacy-1	mog-2	cacn-1	acs-4	trd-1	lin-39	ENTREZID:286789	tra-1
+fibroblast_growth_factor_receptor_signaling_pathway_(GO:0008543)	ilcr-2	vrk-1	let-756	klo-1	vang-1	klo-2	ENTREZID:286789	egl-17	egl-15
+foraging_behavior_(GO:0060756)	daf-2	skn-1	srx-43	srx-44	twk-7
+formation_of_cytoplasmic_translation_initiation_complex_(GO:0001732)	lin-41	pab-1	dnj-27	tcer-1	puf-8	oma-1	rack-1	oma-2	pab-2
+formation_of_growth_cone_in_injured_axon_(GO:0048689)	eff-1	rsks-1	aak-2	dlk-1
+formation_of_primary_germ_layer_(GO:0001704)	elt-2	odd-1	odd-2	med-1	med-2
+forward_locomotion_(GO:0043056)	grk-2	lin-45	rho-1	ksr-1	dop-3	twk-7	kin-1	nca-2	ENTREZID:286789
+fucose_metabolic_process_(GO:0006004)	fut-1	lec-6	fut-8	fut-6
+galactose_catabolic_process_(GO:0019388)	unc-40	madd-4	fgt-1	fut-1	lec-6	mcp-1	fut-8	fut-6
+galactose_metabolic_process_(GO:0006012)	unc-40	madd-4	fgt-1	fut-1	lec-6	mcp-1	fut-8	fut-6
+gamma-aminobutyric_acid_biosynthetic_process_(GO:0009449)	madd-4	casy-1	dnj-17	nrx-1	gbb-1	twk-7	mir-51	kin-1
+gamma-aminobutyric_acid_catabolic_process_(GO:0009450)	madd-4	casy-1	dnj-17	nrx-1	gbb-1	twk-7	mir-51	kin-1
+gamma-aminobutyric_acid_signaling_pathway_(GO:0007214)	goa-1	casy-1	dnj-17	sng-1	aptf-1	gbb-1	twk-7	mir-51	ENTREZID:286789	kin-1
+gamma-aminobutyric_acid_transport_(GO:0015812)	casy-1	unc-46	unc-18	snf-11	mir-51
+gastrulation_(GO:0007369)	lin-44	pmr-1	cdc-42	mrck-1	ENTREZID:286789
+gene_silencing_(GO:0016458)	capg-1	rsd-6	lem-3	wapl-1	scc-3	ENTREZID:286789
+gene_silencing_by_RNA_(GO:0031047)	capg-1	rsd-6	lem-3	gsk-3	cdc-42	dpl-1	unc-52	wapl-1	act-1	scc-3	nid-1	sid-3
+gene_silencing_by_miRNA_(GO:0035195)	ain-2	drsh-1	pash-1	alg-2	teg-1	dcap-1	dcap-2	ain-1	mir-35	alg-1
+germ_cell_development_(GO:0007281)	gsk-3	cdk-11.1	set-17	dpl-1	cyl-1	cdk-11.2
+germ_cell_migration_(GO:0008354)	cacn-1	snf-10	top-1	ENTREZID:286789	mir-235	srb-13
+germ_cell_proliferation_(GO:0036093)	vpr-1	gsk-3	dpl-1	aak-1	daf-18	bec-1	apx-1	par-4
+germ-line_sex_determination_(GO:0018992)	sacy-1	rsr-2	cacn-1	wdr-5.1	ifet-1	acs-4	trd-1	tra-1
+gluconeogenesis_(GO:0006094)	cep-1	nhr-49	daf-16	agxt-1	sir-2.1	fat-1	dct-17	daf-2
+glucosamine_catabolic_process_(GO:0006043)	daf-2	gna-1	oga-1	ENTREZID:286789	ogt-1
+glucose_homeostasis_(GO:0042593)	ipla-1	gsy-1	daf-2	glod-4	ogt-1	gspd-1	fat-1	hmit-1.1	hmit-1.2	oga-1	sod-3	ins-7
+glutamate_biosynthetic_process_(GO:0006537)	ubr-1	cep-1	gcs-1	tax-4	egl-1	swip-10	ENTREZID:286789
+glutamate_metabolic_process_(GO:0006536)	ubr-1	cep-1	gcs-1	tax-4	egl-1	swip-10	ENTREZID:286789
+glutathione_biosynthetic_process_(GO:0006750)	wdr-23	daf-16	alh-6	brap-2	elt-3	ENTREZID:286789	cblc-1	skn-1
+glutathione_catabolic_process_(GO:0006751)	wdr-23	daf-16	alh-6	brap-2	elt-3	ENTREZID:286789	cblc-1	skn-1
+glutathione_metabolic_process_(GO:0006749)	wdr-23	daf-16	alh-6	brap-2	elt-3	ENTREZID:286789	cblc-1	skn-1
+glycerol_catabolic_process_(GO:0019563)	ptr-23	gcn-2	kgb-1	acl-6	hog-1	pgp-3	ENTREZID:286789
+glycerol_metabolic_process_(GO:0006071)	ptr-23	gcn-2	kgb-1	acl-6	hog-1	pgp-3	ENTREZID:286789
+glycine_biosynthetic_process_(GO:0006545)	mec-12	gars-1	egl-19	eat-6	rde-12	calu-1
+glycine_metabolic_process_(GO:0006544)	mec-12	gars-1	egl-19	eat-6	rde-12	calu-1
+glycogen_biosynthetic_process_(GO:0005978)	gsk-3	dpl-1	aqp-2	gsy-1	skn-1	aqp-4	aak-2	ENTREZID:286789
+glycogen_metabolic_process_(GO:0005977)	gsk-3	dpl-1	aqp-2	gsy-1	skn-1	aqp-4	aak-2	ENTREZID:286789
+glycolipid_biosynthetic_process_(GO:0009247)	pign-1	erm-1	pigv-1	manf-1	ENTREZID:286789
+glycolipid_metabolic_process_(GO:0006664)	pign-1	erm-1	pigv-1	manf-1	ENTREZID:286789
+glycolytic_process_(GO:0006096)	cep-1	pyk-1	enol-1	pck-1	atfs-1	aak-2	sir-2.3	nac-2
+glycoprotein_catabolic_process_(GO:0006516)	unc-52	ced-7	sax-7	nrx-1	hmp-1	nid-1	pgp-12	wve-1	let-7	ENTREZID:286789	clr-1	eff-1
+glycoprotein_metabolic_process_(GO:0009100)	unc-52	ced-7	sax-7	nrx-1	hmp-1	nid-1	pgp-12	wve-1	let-7	ENTREZID:286789	clr-1	eff-1
+gonad_development_(GO:0008406)	vpr-1	hlh-2	daf-16	dpff-1	ENTREZID:286789
+gonad_morphogenesis_(GO:0035262)	vpr-1	hlh-2	ubr-5	din-1	cacn-1	lin-12	glp-1	apx-1	par-4	daf-12
+habituation_(GO:0046959)	jnk-1	slo-1	mig-15	slo-2	dop-4
+head_morphogenesis_(GO:0060323)	aptf-4	age-1	nfm-1	ins-1	trx-1	aptf-1	aptf-2	daf-28	ENTREZID:286789
+heart_process_(GO:0003015)	ubr-4	fgt-1	aqp-2	unc-103	dnj-1	aqp-4	mec-2	ENTREZID:286789
+heme_transport_(GO:0015886)	glb-26	hrg-3	ENTREZID:179702	mrp-5	ENTREZID:286789	hrg-1
+heparan_sulfate_proteoglycan_biosynthetic_process_(GO:0015012)	chst-1	hse-5	unc-6	lon-2	sdn-1
+hermaphrodite_genitalia_development_(GO:0040035)	gld-1	egl-43	mig-10	cdc-25.3	ENTREZID:286789
+hermaphrodite_genitalia_morphogenesis_(GO:0048815)	vbh-1	blmp-1	wdr-5.1	lin-12	tra-1	mig-38	dre-1	nck-1	mig-15	snf-10
+hermaphrodite_germ-line_sex_determination_(GO:0040021)	cdc-48.1	wdr-5.1	mpk-1	cul-2	elt-1	mel-46	ENTREZID:286789	tra-1
+hermaphrodite_somatic_sex_determination_(GO:0042001)	mab-3	lin-39	mel-46	fog-2	tra-1
+histone_H2A_acetylation_(GO:0043968)	bet-1	knl-2	lin-53	hcp-3	hda-1	him-5	htas-1	ENTREZID:286789
+histone_H2A_ubiquitination_(GO:0033522)	dot-1.1	zfp-1	mig-32	htas-1	ENTREZID:286789	otub-1
+histone_H3_acetylation_(GO:0043966)	bet-1	knl-2	lin-53	hcp-3	hda-1	him-5	htas-1	ENTREZID:286789
+histone_H4_acetylation_(GO:0043967)	bet-1	knl-2	lin-53	hcp-3	him-5	htas-1	ENTREZID:286789
+histone_acetylation_(GO:0016573)	knl-2	lin-53	blmp-1	daf-16	hcp-3	sir-2.4	htas-1	ENTREZID:286789
+histone_deacetylation_(GO:0016575)	sir-2.1	mep-1	lin-1	hda-1
+histone_demethylation_(GO:0016577)	fncm-1	spr-5	rbr-2	fcd-2	ENTREZID:286789
+histone_exchange_(GO:0043486)	spr-5	coh-4	mes-4	coh-3	htas-1	ENTREZID:286789
+histone_methylation_(GO:0016571)	fncm-1	rtel-1	spr-5	helq-1	set-2	morc-1	met-2	rad-51	fcd-2	jmjd-5	rfs-1
+homocysteine_metabolic_process_(GO:0050667)	prmt-7	blmp-1	daf-7	lin-40	pcm-1	hsp-90	sams-1	cbs-2	ENTREZID:286789
+homologous_chromosome_segregation_(GO:0045143)	spd-1	klp-15	cep-1	gei-17	klp-16	mel-28	klp-19	klp-18	ENTREZID:286789	gsp-2	lem-3
+hydrogen_peroxide_catabolic_process_(GO:0042744)	sod-2	hlh-30	tald-1	fmo-2	crt-1	glit-1	ttr-33
+hyperosmotic_response_(GO:0006972)	tom-1	hmit-1.1	hmit-1.2	osm-11	ENTREZID:286789
+import_into_nucleus_(GO:0051170)	hcp-4	apr-1	pry-1	sod-1	ooc-5	myrf-1	clk-1	grp-1	npp-20	crm-1	myrf-2	trx-1	ENTREZID:286789
+in_utero_embryonic_development_(GO:0001701)	riok-1	skn-1	nhr-67	hif-1	egl-17	ENTREZID:286789	vrk-1
+inductive_cell-cell_signaling_(GO:0031129)	ubr-5	mom-2	lin-12	glp-1
+inosine_biosynthetic_process_(GO:0046103)	eri-6	tsn-1	tdp-1	clec-41	adr-1	adr-2
+inositol_biosynthetic_process_(GO:0006021)	ttx-7	pmr-1	hpl-2	fln-1	erl-1	acs-1	plc-1	ENTREZID:286789	mir-786	ire-1
+inositol_metabolic_process_(GO:0006020)	ttx-7	pmr-1	hpl-2	fln-1	erl-1	acs-1	plc-1	ENTREZID:286789	mir-786	ire-1
+inositol_phosphate_biosynthetic_process_(GO:0032958)	ppk-1	ced-1	jun-1	fln-1	mca-3	fos-1	acs-1	let-413	dlg-1	plc-1	ENTREZID:286789
+insulin_processing_(GO:0030070)	drsh-1	daf-16	gcy-35	sea-2	exc-7	fsn-1	atg-9	atx-3	mbl-1	rab-10	daf-2
+insulin_receptor_signaling_pathway_(GO:0008286)	daf-2	atg-18	mbk-1	ENTREZID:286789	rict-1
+insulin-like_growth_factor_receptor_signaling_pathway_(GO:0048009)	sacy-1	daf-16	ire-1	din-1	atg-18	par-4	daf-12	mbk-1	srh-234	daf-2	ENTREZID:286789
+intercellular_transport_(GO:0010496)	cil-7	ani-2	egl-19	slo-1	cebp-1	unc-2	ets-4	svh-2	slo-2
+interneuron_axon_guidance_(GO:0097376)	cdk-8	ast-1	spon-1	enu-3.1	zag-1	vem-1	ENTREZID:286789
+intestinal_absorption_(GO:0050892)	nhx-2	snf-5	nac-3	gtl-1	gem-4	nac-1	nac-2	pept-1
+intracellular_mRNA_localization_(GO:0008298)	vpr-1	sod-2	smn-1	pab-1	glr-1	cmk-1	dapk-1	sydn-1	pinn-1	pmk-1	ENTREZID:286789
+intracellular_receptor_signaling_pathway_(GO:0030522)	vpr-1	smn-1	sma-6	aipr-1	mapk-15	enu-3.1	sma-10	grl-21	unc-6	nhr-25	ptr-24
+intracellular_signal_transduction_(GO:0035556)	cep-1	mec-8	aipr-1	exc-7	asd-1	mapk-15	jnk-1	rpm-1	swip-10	fox-1	mig-15	mir-51
+ion_transmembrane_transport_(GO:0034220)	sol-1	tax-2	exc-4	nhx-2	glr-1	tax-4	unc-50	mec-4	gcy-14	ENTREZID:286789
+ion_transport_(GO:0006811)	aipr-1	mcu-1	apx-1	slo-1	calu-1	slo-2
+ionotropic_glutamate_receptor_signaling_pathway_(GO:0035235)	sol-1	sol-2	glr-2	dnj-17	magi-1	npr-9	ENTREZID:286789	glr-1
+kinetochore_assembly_(GO:0051382)	hcp-4	knl-2	lin-53	top-2	mel-28	hcp-3	klp-7	npp-20	ndc-80	ska-1	ENTREZID:286789	gsp-2
+kinetochore_organization_(GO:0051383)	ego-1	knl-1	klp-19	csr-1	rack-1	ENTREZID:267983
+lactate_biosynthetic_process_(GO:0019249)	cep-1	nhr-49	mdt-15	rack-1	aak-2
+lactate_catabolic_process_(GO:1903457)	cep-1	nhr-49	mdt-15	rack-1	aak-2
+larval_feeding_behavior_(GO:0030536)	hsf-1	cgt-3	peb-1	npr-1	gpa-12	cgt-2	cgt-1	nlp-22
+lateral_inhibition_(GO:0046331)	spdl-1	tdp-1	lin-12	par-5	dct-17	par-1	lin-14	let-99
+leucine_biosynthetic_process_(GO:0009098)	dlk-1	lect-2	sma-6	ire-1	sma-10	pig-1	hsp-1	unc-23	cebp-1	calu-1	nipi-3	ces-1	lrk-1	ENTREZID:286789
+leucine_catabolic_process_(GO:0006552)	dlk-1	lect-2	sma-6	ire-1	sma-10	pig-1	hsp-1	unc-23	cebp-1	calu-1	nipi-3	ces-1	lrk-1	ENTREZID:286789
+lipid_biosynthetic_process_(GO:0008610)	mafr-1	sbp-1	grl-21	nhr-25	ptr-24	ENTREZID:286789	fat-1
+lipid_catabolic_process_(GO:0016042)	lid-1	atgl-1	acs-4	hlh-30	bec-1	unc-43	mxl-3
+lipoprotein_transport_(GO:0042953)	lrp-1	dab-1	mib-1	nhr-8	lin-18	epn-1	klf-3
+locomotory_behavior_(GO:0007626)	tom-1	unc-13	daf-2	glr-1	erg-28	slo-1	unc-18	npr-22	lury-1	npr-9
+long-chain_fatty_acid_biosynthetic_process_(GO:0042759)	ndg-4	tmem-135	pept-1	nhr-25	ENTREZID:286789
+long-chain_fatty_acid_metabolic_process_(GO:0001676)	ndg-4	tmem-135	pept-1	nhr-25	ENTREZID:286789
+long-chain_fatty-acyl-CoA_metabolic_process_(GO:0035336)	tmem-135	nhr-25	ENTREZID:286789
+long-term_memory_(GO:0007616)	nmr-1	glr-1	crh-1	pos-1	neg-1
+lysine_transport_(GO:0015819)	dot-1.1	zfp-1	lin-12	wnk-1	his-3	deg-1	acd-1	him-5	gck-3	laat-1	ENTREZID:286789
+lysosomal_protein_catabolic_process_(GO:1905146)	plk-1	imp-2	atg-18	mir-51	ENTREZID:286789	kin-1	daf-16
+lysosomal_transport_(GO:0007041)	haf-4	haf-9	lrk-1	srp-2	cpl-1	mir-51	mir-60	ENTREZID:286789
+lysosome_localization_(GO:0032418)	haf-4	unc-101	agef-1	nhx-2	let-23	pbo-1	plk-1	arf-3	atg-9	vps-39	rab-10	lgg-1	hlh-30	lgg-2	ENTREZID:286789
+mRNA_catabolic_process_(GO:0006402)	gld-2	tsn-1	smg-8	smg-9	cebp-1
+mRNA_export_from_nucleus_(GO:0006406)	tra-2	tcer-1	puf-8	ref-1	hsp-16.2	nrde-3	ref-2
+mRNA_metabolic_process_(GO:0016071)	lst-1	sygl-1	gsk-3	set-17	dpl-1	ENTREZID:286789
+mRNA_methylation_(GO:0080009)	fat-1	hen-1	ENTREZID:286789
+mRNA_polyadenylation_(GO:0006378)	cpb-3	gld-1	gld-4	lin-41	oma-1	oma-2	pos-1	neg-1	dapk-1	ssup-72	sydn-1	pinn-1	gld-2
+mRNA_processing_(GO:0006397)	ain-2	gld-2	mec-8	smg-8	smg-9	skn-1	emb-4	ain-1	mir-35	alg-1
+mRNA_stabilization_(GO:0048255)	cdc-25.1	gld-1	flcn-1	dcap-1	fem-3	dcap-2	unc-62	unc-55
+mRNA_transcription_by_RNA_polymerase_II_(GO:0042789)	nrde-2	feh-1	pie-1	hsp-16.2	ssup-72
+mRNA_transport_(GO:0051028)	fpn-1.1	vbh-1	eff-1	ced-7	pdr-1	miro-1	unc-43	atfs-1	hizr-1	cha-1	unc-17	let-7
+magnesium_ion_homeostasis_(GO:0010960)	gon-2	gem-4	acr-2	gtl-1	gtl-2
+maintenance_of_dauer_(GO:0043055)	hmbx-1	ifg-1	snf-5	ogt-1	hsp-90	oga-1	aak-2	ENTREZID:286789	daf-16	daf-2
+maintenance_of_meiotic_sister_chromatid_cohesion_(GO:0034090)	capg-1	wapl-1	ENTREZID:267242	scc-3
+maintenance_of_protein_localization_in_organelle_(GO:0072595)	arx-7	vps-25	fbf-1	vps-22	jamp-1	vps-36	sun-1	unc-98	trx-1	pot-1	ENTREZID:286789
+maintenance_of_synapse_structure_(GO:0099558)	dyb-1	ctn-1	sam-4	unc-104	clh-1	zyx-1	mec-12	gon-1	arl-8	slo-1	unc-2	rig-3	lin-14	ptrn-1
+male_genitalia_morphogenesis_(GO:0048808)	ENTREZID:13187896	spv-1	rho-1	swm-1	plx-1
+male_germ-line_sex_determination_(GO:0019100)	sacy-1	gld-1	cacn-1	uaf-1	wdr-5.1	acs-4	trd-1	tra-1	teg-1	fem-1	ENTREZID:286789
+male_mating_behavior_(GO:0060179)	lov-1	mapk-15	nrx-1	seb-3	plep-1	pkd-2
+male_meiotic_nuclear_division_(GO:0007140)	gld-1	puf-8	top-2	ztf-8	cyb-1	sun-1	memi-1
+male_somatic_sex_determination_(GO:0019102)	sacy-1	mog-2	mab-3	cacn-1	acs-4	trd-1	lin-39	egl-5	tra-1
+mannose_metabolic_process_(GO:0006013)	fgt-1	mcp-1	spe-39	dpy-19	ENTREZID:286789
+meiosis_I_(GO:0007127)	fncm-1	cpb-3	capg-1	gld-1	lem-3	spr-5	puf-8	wapl-1	fcd-2	scc-3
+meiosis_I_cytokinesis_(GO:0007110)	car-1	ani-1	ife-1	let-99	pph-6	ENTREZID:286789	nmy-2
+meiotic_DNA_double-strand_break_formation_(GO:0042138)	plk-2	rtel-1	helq-1	ztf-8	pph-4.1	rad-51	coh-4	jmjd-5	coh-3	chk-2	him-5	rfs-1	ENTREZID:286789
+meiotic_DNA_double-strand_break_processing_(GO:0000706)	mus-81	rtel-1	helq-1	rad-51	jmjd-5	rfs-1	ENTREZID:286789
+meiotic_DNA_integrity_checkpoint_(GO:0044778)	top-3	mrg-1	rad-51	him-6	ENTREZID:286789
+meiotic_cell_cycle_(GO:0051321)	cpb-3	capg-1	gld-1	apr-1	lin-41	daf-16	gsk-3	puf-8	dpl-1	set-2	wapl-1	oma-1	cyb-1	oma-2	scc-3
+meiotic_chromosome_condensation_(GO:0010032)	cdc-48.1	elb-1	cyb-3	elc-1	ENTREZID:286789
+meiotic_chromosome_segregation_(GO:0045132)	capg-1	cep-1	lin-41	lem-3	top-2	mel-28	wapl-1	oma-1	oma-2	scc-3	ENTREZID:286789	gsp-2
+meiotic_chromosome_separation_(GO:0051307)	sep-1	htp-3	cep-1	zhp-3	lin-41	top-2	cdk-1	coh-4	coh-3
+meiotic_recombination_checkpoint_(GO:0051598)	plk-2	zhp-3	pch-2	ztf-8	mrg-1	sun-1	chk-2	msh-4	ENTREZID:286789
+meiotic_sister_chromatid_cohesion_(GO:0051177)	htp-3	air-2	capg-1	smc-3	lab-1	ENTREZID:267242	ENTREZID:286789	gsp-2	wapl-1	coh-4	coh-3	scc-3
+meiotic_sister_chromatid_segregation_(GO:0045144)	htp-3	capg-1	zyg-11	top-2	smc-3	cul-2	wapl-1	ENTREZID:286789	scc-3
+meiotic_spindle_assembly_checkpoint_(GO:0033316)	zyg-11	pch-2	npp-5	bub-3	mdf-2	cyb-3	mdf-1
+meiotic_spindle_disassembly_(GO:0051229)	mei-2	ppfr-1	pch-2	cdc-48.1	ENTREZID:286789	mei-1
+meiotic_spindle_elongation_(GO:0051232)	gpa-16	spd-1	src-1	goa-1	spd-2	zyg-9	tac-1	par-3	sas-7	cyk-4	zen-4	ndc-80	efa-6	mes-1	let-99	bmk-1
+meiotic_spindle_organization_(GO:0000212)	spd-1	klp-15	mei-2	apr-1	mei-1	klp-16	chc-1	cyk-4	zen-4	klp-18	ENTREZID:286789
+membrane_depolarization_(GO:0051899)	ctn-1	unc-40	dys-1	phb-2	unc-77	cho-1	slo-1	unc-80	unc-10	syd-2
+membrane_fusion_(GO:0061025)	sep-1	tom-1	vab-10	ced-7	unc-18	let-7	unc-13	eff-1
+membrane_lipid_metabolic_process_(GO:0006643)	lpr-1	unc-13	paqr-2	cccp-1	manf-1	grl-21	lpr-3	nhr-25	ptr-24
+membrane_organization_(GO:0061024)	lpr-1	pign-1	myrf-1	ccm-3	let-653	hyls-1	dct-17	sem-5	myrf-2	abl-1	lpr-3	sma-5
+membrane_protein_proteolysis_(GO:0033619)	blmp-1	dnj-27	let-99	dre-1	ENTREZID:180903	fis-1	memi-1
+mesoderm_development_(GO:0007498)	unc-130	skn-1	unc-129	pos-1	osm-11	bed-3	neg-1	ENTREZID:286789
+mesodermal_cell_differentiation_(GO:0048333)	let-381	hlh-2	cdk-8	eya-1	hlh-3	cyd-1	glp-1	fozi-1	zag-1	unc-62	mls-2	hlh-8	tbx-38	tbx-37	tbx-35	ENTREZID:268224	ceh-20	ceh-34
+mesodermal_cell_fate_determination_(GO:0007500)	cdk-8	hlh-3	unc-130	fozi-1	unc-129	egl-38	hlh-8	ceh-20	hlh-2	mls-2
+mesodermal_cell_fate_specification_(GO:0007501)	let-381	fozi-1	skn-1	egl-38	unc-62	ceh-34	tbx-35	pop-1	mls-2	ceh-20
+mesodermal_cell_migration_(GO:0008078)	unc-130	zag-1	unc-129	unc-62	ENTREZID:268224	ceh-20
+methionine_biosynthetic_process_(GO:0009086)	blmp-1	daf-7	grl-21	lin-40	sams-1	nhr-25	ptr-24
+methionine_metabolic_process_(GO:0006555)	blmp-1	daf-7	grl-21	lin-40	sams-1	nhr-25	ptr-24
+methylglyoxal_metabolic_process_(GO:0009438)	djr-1.1	glod-4	sod-3	djr-1.2	ins-7	mev-1
+miRNA_catabolic_process_(GO:0010587)	alg-5	tsn-1	eff-1	ced-7	acn-1	alg-1	mir-51	let-7
+microtubule_anchoring_(GO:0034453)	che-10	lin-5	gpr-1	gpr-2	ajm-1	dyrb-1	grdn-1
+microtubule_bundle_formation_(GO:0001578)	spd-1	mei-2	mei-1	mec-12	mec-4	cyk-4	zen-4
+microtubule_cytoskeleton_organization_(GO:0000226)	spd-1	klp-15	apr-1	klp-16	ptl-1	knl-1	klp-18	sma-5	ENTREZID:286789
+microtubule_nucleation_(GO:0007020)	spd-1	cls-1	ran-1	dhc-3	bmk-1	ptrn-1	msp-51	ENTREZID:286789	ENTREZID:3565765
+microtubule_organizing_center_organization_(GO:0031023)	spd-1	klp-15	apr-1	klp-16	chc-1	zyg-8	klp-18	ENTREZID:286789
+microtubule_polymerization_(GO:0046785)	spd-1	mig-10	cls-2	cls-3	ran-1	zyg-8	ced-10	bmk-1	ska-1	ENTREZID:286789	cls-1	ptrn-1
+microtubule_severing_(GO:0051013)	unc-89	mei-2	aspm-1	ppfr-1	cul-2	let-99	gpa-1	ENTREZID:286789	mel-26	spas-1	mei-1
+mismatch_repair_(GO:0006298)	msh-6	exo-3	apn-1	msh-2
+mitochondrial_DNA_metabolic_process_(GO:0032042)	bli-3	skn-1	grl-21	nhr-25	ptr-24	ENTREZID:286789
+mitochondrial_electron_transport,_NADH_to_ubiquinone_(GO:0006120)	daf-16	nuaf-1	nuaf-3	ND1	nuo-1
+mitochondrion_localization_(GO:0051646)	vpr-1	smn-1	dlk-1	agxt-1	clk-1
+mitochondrion_morphogenesis_(GO:0070584)	vpr-1	sod-2	nduf-7	smn-1	gsr-1	sod-3
+mitotic_DNA_damage_checkpoint_(GO:0044773)	drh-3	lrr-1	ztf-8	clk-2	plk-1	cdk-1	top-3	cul-2	rad-51	him-6	ENTREZID:286789
+mitotic_DNA_integrity_checkpoint_(GO:0044774)	drh-3	lrr-1	top-3	cul-2	rad-51	him-6
+mitotic_DNA_replication_checkpoint_(GO:0033314)	drh-3	lrr-1	npl-4.1	cdc-48.1	ztf-8	clk-2	ufd-1	cul-2
+mitotic_cell_cycle_(GO:0000278)	dhc-1	capg-1	apr-1	zyg-1	fzr-1	top-2	wapl-1	apx-1	sas-5	scc-3	ska-1
+mitotic_cell_cycle_arrest_(GO:0071850)	bub-1	pch-2	bub-3	plk-1	glp-1	cdk-1	hda-1	ENTREZID:286789
+mitotic_cell_cycle_checkpoint_(GO:0007093)	bub-1	zyg-11	pch-2	bub-3	plk-1	glp-1	cdk-1	cul-2	hda-1	ENTREZID:286789
+mitotic_cell_cycle_phase_transition_(GO:0044772)	zyg-11	mel-28	cul-2	mir-35	gsp-2
+mitotic_cell_cycle,_embryonic_(GO:0045448)	hcp-4	apr-1	fzr-1	top-2	plk-1	gpr-1	gpr-2	cdk-1	npp-20	ndc-80	let-99	sas-5	cyb-3	lin-5	ENTREZID:286789
+mitotic_chromosome_condensation_(GO:0007076)	air-2	knl-2	cdc-48.1	tlk-1	elb-1	air-1	cyb-3	elc-1	ENTREZID:267983
+mitotic_cleavage_furrow_formation_(GO:1903673)	spd-1	sep-1	ostd-1	mel-26	nud-1	cyk-4	zen-4	par-4
+mitotic_cytokinesis_(GO:0000281)	spd-1	sep-1	ostd-1	air-2	nmy-2	tlk-1	ife-1	cyk-4	zen-4	par-4
+mitotic_nuclear_envelope_disassembly_(GO:0007077)	swsn-2.2	vrk-1	mel-28	plk-1	ham-3	lem-4	gsp-2
+mitotic_nuclear_envelope_reassembly_(GO:0007084)	swsn-2.2	vrk-1	mel-28	ham-3	lem-4	gsp-2
+mitotic_recombination_(GO:0006312)	slx-1	pch-2	top-2	ztf-8	glp-1	smc-3	wapl-1	coh-4	coh-3
+mitotic_sister_chromatid_cohesion_(GO:0007064)	capg-1	smc-3	coh-4	coh-3	wapl-1	scc-3
+mitotic_sister_chromatid_segregation_(GO:0000070)	spd-1	capg-1	top-2	cls-1	ran-1	smc-3	wapl-1	zen-4	hcp-1	hcp-2	bmk-1	scc-3
+mitotic_spindle_assembly_(GO:0090307)	spd-1	klp-15	spd-2	klp-16	zyg-11	sas-7	klp-18	ska-1	ENTREZID:286789
+mitotic_spindle_assembly_checkpoint_(GO:0007094)	zyg-11	pch-2	npp-5	bub-3	mdf-2	mdf-1
+mitotic_spindle_disassembly_(GO:0051228)	mei-2	mei-1	pch-2	cdc-48.1	ENTREZID:286789
+mitotic_spindle_elongation_(GO:0000022)	gpa-16	spd-1	src-1	goa-1	spd-2	par-3	sas-7	cyk-4	zen-4	ndc-80	efa-6	mes-1	let-99	bmk-1
+mitotic_spindle_organization_(GO:0007052)	spd-1	sep-1	klp-15	mei-2	apr-1	mei-1	klp-16	chc-1	zyg-8	cyk-4	zen-4	klp-18	ENTREZID:286789
+molting_cycle_(GO:0042303)	cuti-1	nhr-23	catp-1	mlt-10	cdc-42	myrf-1	lin-29	trxr-1	act-1	flp-2	nhr-25	sid-3	mab-10	mir-84	let-7	ENTREZID:286789
+morphogenesis_of_a_polarized_epithelium_(GO:0001738)	unc-73	crml-1	par-6	vab-1	cdc-42	par-3	ced-10	mig-2
+morphogenesis_of_an_epithelium_(GO:0002009)	rab-5	par-6	vab-1	eff-1	aptf-4	par-3	lin-22	act-1	dyn-1	ptrn-1	sid-3	pax-3	dapk-1	aptf-2	cdc-42
+morphogenesis_of_embryonic_epithelium_(GO:0016331)	unc-73	lin-44	let-502	crml-1	rab-5	par-6	rhgf-2	vab-1	eff-1	aptf-4	par-3	trd-1	pha-1	ced-10	soap-1	mig-2	dyn-1	pax-3	aptf-2	cdc-42	ENTREZID:286789
+motor_neuron_axon_guidance_(GO:0008045)	lin-17	unc-73	erm-1	cam-1	unc-116	dpy-18	fln-1	unc-33	rack-1	par-4	vang-1	mig-15	lin-14	ncx-9	wve-1	unc-40	ENTREZID:286789	enu-3.1	unc-6
+motor_neuron_migration_(GO:0097475)	unc-73	erm-1	tba-1	dlk-1	spon-1	unc-53	tbx-2	abi-1	egl-5	unc-116	enu-3.1	rack-1	ham-1	unc-6	mig-15	wve-1	ENTREZID:286789
+multicellular_organism_development_(GO:0007275)	mafr-1	cdk-11.1	cyl-1	cdk-11.2	ENTREZID:286789
+multicellular_organism_growth_(GO:0035264)	mafr-1	rpl-43	xbp-1	acs-4	atfs-1	ENTREZID:286789
+multicellular_organism_reproduction_(GO:0032504)	mafr-1	exo-3	cdc-42	cdk-11.1	sop-2	asb-1	pat-2	cyl-1	cdk-11.2	ENTREZID:286789
+multicellular_organismal_process_(GO:0032501)	apr-1	sax-3	selt-1.1	selt-1.2	ENTREZID:286789
+muscle_attachment_(GO:0016203)	cpna-1	unc-52	pxl-1	ina-1	unc-23	nid-1	sec-22	sid-5	pxn-1	ENTREZID:286789	dnj-13
+muscle_cell_cellular_homeostasis_(GO:0046716)	pyk-1	daf-16	dys-1	pck-1	coel-1	clhm-1	ENTREZID:286789
+muscle_cell_development_(GO:0055001)	vpr-1	smn-1	ufd-2	unc-45	endu-2	bed-3	ENTREZID:286789
+muscle_cell_differentiation_(GO:0042692)	glh-1	hlh-2	cdk-8	hlh-1	spon-1	aptf-4	hlh-3	ccm-3	nfm-1	lin-39	mab-5	egl-5	hsp-12.2	glp-1	unc-119	pgl-1	egl-19	unc-62	mom-2	gck-1	hsp-90	slo-1	unc-2	slo-2	aptf-2	unc-55	ENTREZID:286789
+muscle_cell_fate_specification_(GO:0042694)	pop-1	sem-2	let-381	unc-37	hmr-1	tbx-2	glp-1	fozi-1	skn-1	sax-7	ceh-34	fos-1	mom-2	egl-13	mls-1	tbx-35	ENTREZID:286789	lin-12
+muscle_contraction_(GO:0006936)	let-502	vps-25	mlc-4	vps-22	ric-3	vps-36
+muscle_organ_development_(GO:0007517)	ufd-2	unc-52	unc-45	nid-1	endu-2	bed-3
+muscle_organ_morphogenesis_(GO:0048644)	vpr-1	smn-1	lect-2	spon-1	unc-130	nfm-1	lin-39	mab-5	egl-5	glp-1	unc-129	mom-2	bed-3	ENTREZID:286789
+muscle_tissue_development_(GO:0060537)	vpr-1	glh-1	smn-1	unc-119	pgl-1	bed-3	ENTREZID:286789
+myoblast_fate_specification_(GO:0048626)	sem-2	sem-4	lin-12	fos-1	egl-17	egl-13	ENTREZID:286789
+myoblast_migration_(GO:0051451)	sem-4	lin-42	fox-1	sup-12	egl-17	egl-15
+myofibril_assembly_(GO:0030239)	unc-89	mei-1	mel-26	pfn-1	unc-45	pxl-1	csn-5	unc-82	unc-60	tmd-2	unc-96	unc-98	cas-1	unc-54	ENTREZID:286789
+myosin_filament_assembly_(GO:0031034)	let-502	nmy-2	ani-1	unc-82	unc-60	mrck-1	pak-1	unc-54	unc-45
+ncRNA_metabolic_process_(GO:0034660)	gsk-3	tsn-1	eff-1	dpl-1	unc-52	ced-7	nid-1	ist-1	bed-3	mir-51	let-7
+negative_chemotaxis_(GO:0050919)	osm-9	let-60	egl-2	cng-1	ocr-2	ENTREZID:286789
+negative_regulation_of_DNA_recombination_(GO:0045910)	cep-1	dpy-27	mpk-1	dpy-28	dpy-26	smcl-1	ENTREZID:286789
+negative_regulation_of_DNA-binding_transcription_factor_activity_(GO:0043433)	bro-1	daf-16	tra-1	lin-1	nhr-60	him-8	skn-1
+negative_regulation_of_MAP_kinase_activity_(GO:0043407)	daf-16	hsf-1	ire-1	xbp-1	lin-1	skn-1	pek-1	let-7	ENTREZID:286789
+negative_regulation_of_MAPK_cascade_(GO:0043409)	cep-1	fasn-1	mpk-1	lin-12	lin-1	nlp-29	ENTREZID:286789
+negative_regulation_of_Notch_signaling_pathway_(GO:0045746)	let-23	lin-12	lag-1	cdt-2	hlh-6
+negative_regulation_of_RNA_interference_(GO:1900369)	dot-1.1	daf-16	nfyc-1	nfyb-1	tbx-2	rde-4	sbp-1	mig-38	dpy-21	hif-1	nck-1	mig-15	odr-1	skn-1	ENTREZID:286789	zfp-1
+negative_regulation_of_Rac_protein_signal_transduction_(GO:0035021)	unc-73	mtm-1	crml-1	mom-5	ced-12	unc-5	ced-5
+negative_regulation_of_Ras_protein_signal_transduction_(GO:0046580)	cep-1	fbf-1	fbf-2	puf-8	mpk-1	lin-1	ENTREZID:286789
+negative_regulation_of_apoptotic_process_(GO:0043066)	mtm-1	ced-12	ENTREZID:173066	ccm-3	ced-4	fsn-1	crn-7	ced-5	lst-4	egl-1	nuc-1	dapk-1	cep-1	mpk-1	ced-3	gck-1	ced-9
+negative_regulation_of_binding_(GO:0051100)	tom-1	unc-13	wdr-23	daf-16	ncap-1	ccm-3	dpy-27	ced-4	dpy-28	skn-1	dpy-26	ced-3	gck-1	egl-1	lgl-1	unc-18	apa-2	nipi-3	sur-7	smcl-1	ENTREZID:286789	ced-9	cebp-1
+negative_regulation_of_calcium-mediated_signaling_(GO:0050849)	glr-1	cmk-1	egl-4	egl-19	slo-1	unc-2	slo-2	ENTREZID:286789
+negative_regulation_of_cell_adhesion_(GO:0007162)	egl-43	mig-10	skn-1	mig-38	nck-1	mig-15	nlg-1
+negative_regulation_of_cell_cycle_(GO:0045786)	egg-4	egg-5	sys-1	daf-16	vrk-1	cki-1	cki-2	ire-1	mig-5	fzr-1	xbp-1	mpk-1	cdk-1	sbp-1	mbk-2	sas-5	pek-1	flr-1	flr-4	mir-34	dsh-2	ENTREZID:286789	cep-1
+negative_regulation_of_cell_death_(GO:0060548)	mtm-1	sacy-1	ced-12	daf-16	ENTREZID:173066	ced-4	fsn-1	ced-5	lst-4	lipl-4	gck-1	egl-1	sydn-1	pinn-1	mir-34	mpk-1	ced-3	dapk-1	ced-9	cep-1
+negative_regulation_of_cell_differentiation_(GO:0045596)	unc-73	gld-2	unc-37	crml-1	gld-1	lsy-22	cep-1	sys-1	vrk-1	fbf-1	syd-1	mig-5	ccm-3	ccf-1	egl-19	gck-1	slo-1	unc-2	hbl-1	unc-10	syd-2	slo-2	dsh-2	ENTREZID:286789
+negative_regulation_of_cell_division_(GO:0051782)	sacy-1	cep-1	sys-1	unc-101	agef-1	cki-1	cki-2	mig-5	let-23	fzr-1	ccm-3	dpy-27	mpk-1	dpy-28	egl-19	arf-3	dpy-26	gck-1	sas-5	slo-1	unc-2	slo-2	smcl-1	dapk-1	sydn-1	pinn-1	dsh-2	ENTREZID:286789
+negative_regulation_of_cell_fate_specification_(GO:0009996)	met-1	unc-37	sem-4	lsy-22	nfyc-1	nfyb-1	fbf-1	fbf-2	puf-8	cdc-42	tbx-2	met-2	lin-12	lin-1	egl-17	ENTREZID:286789
+negative_regulation_of_cell_growth_(GO:0030308)	sys-1	unc-101	agef-1	mig-5	let-23	dpy-27	ced-4	dpy-28	skn-1	arf-3	dpy-26	ced-3	egl-1	cebp-1	sorf-1	nlg-1	smcl-1	dsh-2	sorf-2	ced-9	ENTREZID:286789
+negative_regulation_of_cell_migration_(GO:0030336)	unc-73	sem-4	crml-1	mom-5	egl-43	mpk-1	mig-10	zfp-1	osm-9	unc-5	mig-38	let-60	gck-1	egl-17	nck-1	mig-15	ocr-2	ENTREZID:286789
+negative_regulation_of_cell_proliferation_(GO:0008285)	bro-1	cep-1	sys-1	daf-16	vrk-1	mig-5	mpk-1	gck-1	dsh-2	ENTREZID:286789
+negative_regulation_of_cellular_protein_catabolic_process_(GO:1903363)	tom-1	unc-13	wdr-23	ncap-1	fzr-1	ccm-3	dpy-27	dpy-28	skn-1	dpy-26	gck-1	sas-5	lgl-1	unc-18	apa-2	nipi-3	sur-7	smcl-1	dapk-1	sydn-1	npr-22	lury-1	pinn-1	mir-34	ENTREZID:286789	daf-16	cebp-1
+negative_regulation_of_cytoplasmic_translation_(GO:2000766)	glr-1	sbp-1	cmk-1	lgl-1	pmk-1	ENTREZID:286789
+negative_regulation_of_distal_tip_cell_migration_(GO:1903355)	mom-5	unc-5	mig-38	nck-1	mig-15
+negative_regulation_of_endocytosis_(GO:0045806)	ncap-1	let-23	cnt-1	sel-2	glr-1	lin-12	pmk-3	lst-4	lipl-4	rpm-1	cdt-2	apa-2	rab-10
+negative_regulation_of_epidermal_growth_factor_receptor_signaling_pathway_(GO:0042059)	unc-101	agef-1	lin-12	arf-3	cdt-2	ENTREZID:286789	let-23
+negative_regulation_of_gene_expression_(GO:0010629)	plk-2	sep-1	cpb-3	syp-4	wdr-23	gld-1	daf-16	ncap-1	dpy-27	dpy-28	skn-1	dpy-26	cebp-1	apa-2	smcl-1	npr-22	lury-1
+negative_regulation_of_innate_immune_response_(GO:0045824)	cep-1	fasn-1	hsf-1	djr-1.1	crn-7	skn-1	lst-4	nlp-29	cebp-1	nuc-1	elt-2	nipi-3	dapk-1	let-7
+negative_regulation_of_insulin_receptor_signaling_pathway_(GO:0046627)	daf-16	daf-2	skn-1	ENTREZID:267111	ENTREZID:286789
+negative_regulation_of_locomotion_(GO:0040013)	unc-73	tom-1	sem-4	crml-1	unc-13	mom-5	egl-43	gar-2	mig-10	zfp-1	osm-9	unc-5	skn-1	mig-38	let-60	egl-17	nck-1	unc-18	mig-15	ocr-2	npr-22	lury-1	ENTREZID:286789
+negative_regulation_of_mRNA_polyadenylation_(GO:1900364)	gld-2	gld-1	fbf-1	daf-4	ccf-1	dapk-1	sydn-1	pinn-1
+negative_regulation_of_meiotic_cell_cycle_(GO:0051447)	egg-4	egg-5	vrk-1	mpk-1	cdk-1	mbk-2	cep-1
+negative_regulation_of_mitotic_cell_cycle_(GO:0045930)	sys-1	fzr-1	let-711	sas-5	ENTREZID:286789
+negative_regulation_of_muscle_cell_differentiation_(GO:0051148)	ccm-3	egl-19	gck-1	slo-1	unc-2	slo-2	ENTREZID:286789
+negative_regulation_of_nematode_larval_development_(GO:0061064)	unc-101	agef-1	ire-1	let-23	xbp-1	daf-4	crn-7	arf-3	nhr-60	hbl-1	nuc-1	pek-1	ENTREZID:286789
+negative_regulation_of_netrin-activated_signaling_pathway_(GO:1902842)	tom-1	unc-13	wdr-23	daf-16	mig-5	ced-4	glr-1	kgb-1	cmk-1	egl-19	ced-3	fos-1	egl-1	slo-1	cebp-1	unc-2	unc-18	slo-2	nipi-3	npr-22	lury-1	mir-34	dsh-2	ENTREZID:286789	ced-9
+negative_regulation_of_nucleotide_metabolic_process_(GO:0045980)	unc-73	sacy-1	crml-1	unc-101	agef-1	let-23	egl-4	arf-3	let-60	dpy-21	ENTREZID:286789
+negative_regulation_of_oocyte_maturation_(GO:1900194)	egg-4	egg-5	sacy-1	cdk-1	mbk-2
+negative_regulation_of_organ_growth_(GO:0046621)	mpk-1	lag-1	gck-1	pha-4	hlh-6
+negative_regulation_of_phosphatase_activity_(GO:0010923)	mtm-1	ced-12	ced-5	dapk-1	sydn-1	pinn-1	ENTREZID:286789
+negative_regulation_of_phosphorylation_(GO:0042326)	egg-4	egg-5	cep-1	cat-2	djr-1.1	ncap-1	cul-4	fsn-1	cdk-1	egl-4	lin-1	let-60	mbk-2	dpy-21	lgl-1	apa-2	flr-1	odr-1	flr-4	ENTREZID:286789
+negative_regulation_of_programmed_cell_death_(GO:0043069)	mtm-1	ced-12	ENTREZID:173066	ccm-3	ced-4	fsn-1	crn-7	ced-5	lst-4	egl-1	nuc-1	dapk-1	cep-1	mpk-1	ced-3	gck-1	ced-9
+negative_regulation_of_protein_binding_(GO:0032091)	tom-1	unc-13	wdr-23	daf-16	ncap-1	ccm-3	dpy-27	ced-4	dpy-28	skn-1	dpy-26	ced-3	gck-1	egl-1	lgl-1	sorf-1	unc-18	apa-2	nipi-3	sur-7	smcl-1	ENTREZID:286789	sorf-2	ced-9	cebp-1
+negative_regulation_of_protein_kinase_activity_(GO:0006469)	cep-1	cat-2	vrk-1	ire-1	let-23	xbp-1	glr-1	zfp-1	cmk-1	skn-1	cdt-2	dpy-21	lgl-1	sorf-1	pek-1	dapk-1	sydn-1	pinn-1	let-7	sorf-2	daf-16	ENTREZID:286789
+negative_regulation_of_protein_localization_to_nucleus_(GO:1900181)	nhr-60	dapk-1	sydn-1	pinn-1	pmk-1
+negative_regulation_of_protein_phosphorylation_(GO:0001933)	egg-4	egg-5	cep-1	cat-2	djr-1.1	ncap-1	cul-4	fsn-1	cdk-1	egl-4	lin-1	let-60	mbk-2	dpy-21	lgl-1	apa-2	flr-1	odr-1	flr-4	ENTREZID:286789
+negative_regulation_of_protein_secretion_(GO:0050709)	unc-101	agef-1	let-23	daf-4	arf-3	elt-2
+negative_regulation_of_protein_tyrosine_kinase_activity_(GO:0061099)	egg-4	egg-5	cat-2	ire-1	let-23	xbp-1	cdk-1	mbk-2	cdt-2	pek-1	ENTREZID:286789
+negative_regulation_of_response_to_drug_(GO:2001024)	ire-1	xbp-1	osm-9	skn-1	pek-1	ocr-2	ced-9
+negative_regulation_of_response_to_oxidative_stress_(GO:1902883)	tdp-1	nlg-1	skn-1
+negative_regulation_of_signal_transduction_(GO:0009968)	tom-1	unc-13	wdr-23	mom-5	mig-5	ced-4	glr-1	kgb-1	cmk-1	unc-5	egl-19	ced-3	fos-1	egl-1	slo-1	cebp-1	unc-2	unc-18	slo-2	nipi-3	npr-22	lury-1	dsh-2	let-7	ENTREZID:286789	ced-9
+negative_regulation_of_synapse_assembly_(GO:0051964)	tom-1	unc-13	syd-1	unc-10	unc-18	syd-2
+negative_regulation_of_transcription_by_transcription_factor_localization_(GO:0010621)	sys-1	mig-5	glr-1	cmk-1	nhr-60	cebp-1	pmk-1	dsh-2	ENTREZID:286789
+negative_regulation_of_translation_(GO:0017148)	dot-1.1	daf-16	ced-4	glr-1	zfp-1	zif-1	cmk-1	egl-19	ced-3	egl-1	slo-1	lgl-1	unc-2	slo-2	nlg-1	nipi-3	sur-7	hlh-6	pmk-1	ced-9	skn-1	cebp-1	ENTREZID:286789
+negative_regulation_of_vulval_development_(GO:0040027)	met-1	sem-4	unc-101	agef-1	fbf-1	fbf-2	puf-8	cdc-42	sel-2	lin-13	met-2	hpl-2	lin-1	arf-3	cdt-2	egl-17	ENTREZID:286789	let-23	lin-12
+nervous_system_development_(GO:0007399)	ubr-1	unc-52	nid-1	max-1	endu-2	clr-1
+nervous_system_process_(GO:0050877)	hsf-1	aff-1	eff-1	swip-10	sax-3	ENTREZID:286789
+neuroblast_development_(GO:0014019)	spon-1	aptf-4	hse-5	nfm-1	lin-39	egl-5	grp-1	ani-1	egl-20	let-60	sem-5	abl-1	mig-2	aptf-2	mab-5
+neuroblast_differentiation_(GO:0014016)	spon-1	aptf-4	nfm-1	lin-39	egl-5	grp-1	egl-20	ham-1	par-4	aptf-2	mab-5	pig-1	let-60	ces-1	lin-32
+neuroblast_division_(GO:0055057)	toe-2	aptf-4	mab-5	grp-1	ani-1	egl-20	ham-1	par-4	aptf-2	lin-32	pig-1	ces-1
+neuroblast_migration_(GO:0097402)	spon-1	hse-5	cdh-4	nfm-1	lin-39	egl-5	ani-1	egl-20	let-60	sem-5	sdn-1	abl-1	mig-2	lin-32	mab-5
+neurogenesis_(GO:0022008)	lin-17	kpc-1	eff-1	cam-1	unc-52	chin-1	jnk-1	sax-7	nid-1	vang-1	unc-6	mig-15
+neuromuscular_junction_development_(GO:0007528)	casy-1	fsn-1	unc-36	gon-1	unc-43	nrx-1	unc-2	nlg-1	ENTREZID:286789
+neuromuscular_process_(GO:0050905)	smn-1	gar-2	mel-46	acr-12	mir-2	ENTREZID:267167	ENTREZID:286789
+neuron_apoptotic_process_(GO:0051402)	dpff-1	manf-1	crt-1	swip-10	glit-1	atf-5
+neuron_differentiation_(GO:0030182)	lin-17	eff-1	cam-1	unc-52	dpff-1	jnk-1	sax-7	nid-1	vang-1	mig-15
+neuron_fate_determination_(GO:0048664)	hlh-2	cdk-8	toe-2	hlh-3	lin-12	glp-1	ceh-14	alr-1
+neuron_fate_specification_(GO:0048665)	mom-5	nfyc-1	nfyb-1	cam-1	tbx-2	glp-1	plr-1	egl-46	ttx-1	lin-18	lin-12	ceh-14	ENTREZID:286789
+neuron_migration_(GO:0001764)	dlk-1	jmjd-1.2	skn-1	max-1	lon-2	pkc-2	sdn-1	srb-13	ENTREZID:286789
+neuron_projection_development_(GO:0031175)	mig-1	ani-1	rpm-1	nrx-1	arr-1	vang-1	unc-6	mig-2	unc-3	ENTREZID:286789
+neuron_projection_morphogenesis_(GO:0048812)	ENTREZID:13182525	mig-1	dlk-1	kal-1	fntb-1	arr-1	vang-1	unc-6	dgn-1	egl-15	rhgf-1	hst-3.1	lin-4	hst-3.2	ENTREZID:286789
+neuron_remodeling_(GO:0016322)	eff-1	sax-7	nrx-1	vhl-1	elc-2	rict-1	ENTREZID:286789
+neuronal_signal_transduction_(GO:0023041)	grk-2	nca-2	dop-3	mir-51	ENTREZID:286789	rict-1
+neuropeptide_processing_(GO:0061837)	nlp-12	gcy-35	tbc-8	ntr-1	ceh-28	ntc-1
+neuropeptide_signaling_pathway_(GO:0007218)	cep-1	pkc-2	npr-22	lury-1	rict-1	srb-13	ENTREZID:286789
+neurotransmitter_biosynthetic_process_(GO:0042136)	casy-1	lin-45	crt-1	nrx-1	glit-1	calu-1	ksr-1	ttr-33
+neurotransmitter_secretion_(GO:0007269)	lgc-46	swip-10	flp-11	npr-1	ENTREZID:180903	aak-2	oig-1	nlp-7	ENTREZID:286789
+neurotransmitter_transport_(GO:0006836)	mod-5	tom-1	trt-1	casy-1	aipr-1	dat-1	cho-1	erg-28	slo-1	calu-1	unc-18	pkc-2	unc-13
+neurotransmitter_uptake_(GO:0001504)	dat-1	cho-1	lgc-55	nlg-1	tsp-17
+nuclear_DNA_replication_(GO:0033260)	ehs-1	polh-1	ztf-8	thoc-2	polk-1	mdf-1
+nuclear_chromosome_segregation_(GO:0098813)	hcp-4	swsn-2.2	capg-1	lin-41	lin-5	bub-3	dpy-27	plk-1	gpr-1	gpr-2	ham-3	dpy-28	npp-20	mdf-2	wapl-1	oma-1	dpy-26	oma-2	mdf-1	gsp-1	scc-3	smcl-1	ENTREZID:286789	gsp-2	mel-28
+nuclear_division_(GO:0000280)	cpb-3	capg-1	gld-1	puf-8	wapl-1	apx-1	scc-3	lem-3
+nuclear_envelope_disassembly_(GO:0051081)	swsn-2.2	rab-5	vrk-1	mel-28	plk-1	ham-3	lem-4	lpin-1	gsp-2
+nuclear_envelope_organization_(GO:0006998)	emr-1	lem-2	spd-3	sun-1	pot-1
+nuclear_envelope_reassembly_(GO:0031468)	swsn-2.2	vrk-1	mel-28	ham-3	lem-4	lpin-1	gsp-2
+nuclear_migration_(GO:0007097)	ENTREZID:13187896	anc-1	lmn-1	cacn-1	unc-30	rpm-1	toca-1	ceh-36	mir-235
+nuclear_pore_complex_assembly_(GO:0051292)	hcp-4	ego-1	npp-19	npp-5	npp-20	mdf-1	gsp-2	mel-28	ENTREZID:267983	ENTREZID:286789
+nuclear_transport_(GO:0051169)	cep-1	sod-1	mtcu-2	myrf-1	clk-1	ceh-23	mttu-1	crm-1	myrf-2	aak-2	ENTREZID:286789	mtcu-1
+nuclear-transcribed_mRNA_catabolic_process,_nonsense-mediated_decay_(GO:0000184)	ngp-1	smg-9	noah-2	ENTREZID:286789	smg-8
+nucleocytoplasmic_transport_(GO:0006913)	hcp-4	apr-1	pry-1	sod-1	ooc-5	myrf-1	clk-1	grp-1	npp-20	crm-1	myrf-2	trx-1	ENTREZID:286789
+nucleoside_phosphate_metabolic_process_(GO:0006753)	tsn-1	gfat-1	thk-1	mcp-1	dcs-1
+nucleotide_phosphorylation_(GO:0046939)	let-502	mel-11	egl-4	dpy-21	cebp-1	ets-4	svh-2	pix-1	cng-3
+nucleotide-excision_repair_(GO:0006289)	fncm-1	lem-3	spr-5	fcd-2	ENTREZID:286789
+nucleotide-sugar_metabolic_process_(GO:0009225)	nstp-4	glf-1	nstp-5	ENTREZID:268160	ENTREZID:286789
+nucleus_localization_(GO:0051647)	myrf-1	clk-1	enu-3.1	unc-6	myrf-2	dapk-1	sydn-1	pinn-1	lem-3
+octopamine_signaling_pathway_(GO:0071927)	goa-1	daf-16	dop-2	octr-1	dop-3	ser-3	crh-1
+olfactory_behavior_(GO:0042048)	daf-16	hsf-1	skn-1	erg-28	slo-1
+oligosaccharide_biosynthetic_process_(GO:0009312)	scp-1	gfat-1	agl-1	daf-2	mdt-15	dct-17	fut-6
+oligosaccharide_metabolic_process_(GO:0009311)	scp-1	gfat-1	agl-1	daf-2	mdt-15	dct-17	fut-6
+oocyte_development_(GO:0048599)	spd-1	klp-15	cpb-3	gld-1	klp-16	nos-2	cdk-11.1	mpk-1	klp-18	csr-1	cyl-1	ist-1	cdk-11.2	lin-15B	nos-1	ENTREZID:286789
+oocyte_fate_determination_(GO:0030716)	rnp-8	gld-2	lin-41	mpk-1	acs-4	trd-1	htas-1	ENTREZID:286789
+oocyte_growth_(GO:0001555)	spd-1	klp-15	lin-41	klp-16	ccm-3	aak-1	daf-18	klp-18	oma-1	cdc-25.2	oma-2	par-4	ist-1	elli-1
+oocyte_maturation_(GO:0001556)	lin-41	pash-1	alg-2	cacn-1	ife-1	oma-1	cdc-25.2	oma-2	alg-1
+oocyte_morphogenesis_(GO:0048601)	gld-1	puf-8	spv-1	ccm-3	cacn-1	acs-4	trd-1	rho-1	cdc-25.2	apx-1
+oogenesis_(GO:0048477)	gld-1	cdk-11.1	cyl-1	cdk-11.2	ENTREZID:286789	cpb-3
+organelle_fusion_(GO:0048284)	sep-1	tom-1	unc-18	daf-12	unc-13
+organelle_inheritance_(GO:0048308)	mec-6	mec-12	hrde-1	morc-1	grp-1	lgg-2	mec-4	poml-1
+organelle_localization_(GO:0051640)	haf-4	vpr-1	vps-34	rab-5	smn-1	tbc-2	myrf-1	clk-1	plk-1	enu-3.1	cccp-1	atg-9	unc-6	myrf-2	rab-10
+organelle_organization_(GO:0006996)	pign-1	myrf-1	mks-5	morc-1	myrf-2	ENTREZID:286789
+organic_acid_metabolic_process_(GO:0006082)	xbp-1	mdt-15	mcu-1	crt-1	cblc-1	ENTREZID:286789
+oviposition_(GO:0018991)	kcnl-2	clh-3	lin-12	flp-11	nlp-7
+ovulation_(GO:0030728)	let-502	fhod-1	pash-1	daf-16	alg-2	exc-6	mlc-4	nhr-6	pat-2	ina-1	pha-1	apx-1	alg-1	ENTREZID:286789
+oxidation-reduction_process_(GO:0055114)	mtcu-2	mttu-1	prdx-2	mtcu-1	cblc-1
+oxidative_phosphorylation_(GO:0006119)	cep-1	mtcu-2	mttu-1	fat-1	mev-1	mtcu-1
+pentose_catabolic_process_(GO:0019323)	daf-16	daf-2	hlh-30	tald-1	fmo-2	dhs-21
+peptide_catabolic_process_(GO:0043171)	capg-1	cdk-11.1	wapl-1	cyl-1	scc-3	endu-2	cdk-11.2
+peptide_metabolic_process_(GO:0006518)	capg-1	cdk-11.1	wapl-1	cyl-1	scc-3	endu-2	cdk-11.2
+peptide_secretion,_neurotransmission_(GO:0061544)	nlp-12	unc-31	flp-11	sphk-1	nlp-7	tom-1
+peptide_transport_(GO:0015833)	haf-4	sep-1	unc-108	aipr-1	sod-1	gop-1	mapk-15	atg-9	crm-1	ist-1	dyn-1	mir-51	rab-10	ENTREZID:286789
+peptidyl-aspartic_acid_modification_(GO:0018197)	nduf-7	mtcu-2	mttu-1	dpy-21	ENTREZID:286789	mtcu-1
+peptidyl-histidine_dephosphorylation_(GO:0035971)	mei-1	ppfr-1	lin-5	fem-2	gpr-1	gpr-2	fem-1	fem-3	ndc-80	cyb-1	hsp-90	pph-5	gmeb-1
+peptidyl-serine_ADP-ribosylation_(GO:0018312)	sma-6	arl-1	cnt-2	cav-1	arl-8	ncs-1	ENTREZID:286789	arl-13
+peptidyl-serine_dephosphorylation_(GO:0070262)	mei-1	ppfr-1	lin-5	fem-2	gpr-1	gpr-2	fem-1	fem-3	ndc-80	cyb-1	hsp-90	pph-5	gmeb-1
+phagocytosis_(GO:0006909)	hsf-1	klf-1	fat-1	hpk-1	klf-3	kin-1
+phagocytosis,_engulfment_(GO:0006911)	pdr-1	arl-8	cpl-1	sli-1	ENTREZID:286789	ced-8
+pharyngeal_muscle_development_(GO:0043282)	unc-37	tbx-2	gtl-2	tmc-1	pxn-1	ENTREZID:286789
+pheromone_biosynthetic_process_(GO:0042811)	mut-16	csr-1	gpa-3	srx-43	srx-44	rict-1
+phosphatidic_acid_biosynthetic_process_(GO:0006654)	pign-1	ipla-1	grl-21	gspd-1	sorf-1	nhr-25	ptr-24	ENTREZID:286789	sorf-2
+phosphatidylcholine_biosynthetic_process_(GO:0006656)	paqr-2	mdt-15	acs-4	grl-21	nhr-25	ptr-24	sur-7	ENTREZID:286789
+phosphatidylcholine_catabolic_process_(GO:0034638)	paqr-2	mdt-15	acs-4	grl-21	nhr-25	ptr-24	sur-7	ENTREZID:286789
+phosphatidylethanolamine_biosynthetic_process_(GO:0006646)	tat-5	mboa-6	mdt-15	acs-4	fat-1	ENTREZID:286789
+phosphatidylinositol_3-kinase_signaling_(GO:0014065)	mtm-1	vab-1	age-1	cnt-1	daf-2	daf-18	asm-3	vab-2	mboa-7	abl-1	piki-1	ENTREZID:286789
+phosphatidylinositol_biosynthetic_process_(GO:0006661)	pign-1	vps-34	rab-5	tbc-2	ENTREZID:286789
+phosphatidylinositol_catabolic_process_(GO:0031161)	pign-1	vps-34	rab-5	tbc-2	ENTREZID:286789
+phosphatidylinositol_metabolic_process_(GO:0046488)	pign-1	vps-34	rab-5	tbc-2	ENTREZID:286789
+phosphatidylinositol-3-phosphate_biosynthetic_process_(GO:0036092)	unc-108	vps-34	ced-1	mig-14	mtm-6	lst-4	mtm-9	snx-1	sorf-1	mboa-7	sorf-2	mtm-1	rab-5	tbc-2	mtm-3	ENTREZID:286789
+phosphatidylserine_biosynthetic_process_(GO:0006659)	ipla-1	eff-1	dnpp-1	tat-1	psr-1	ENTREZID:286789	ced-8
+phosphatidylserine_exposure_on_apoptotic_cell_surface_(GO:0070782)	src-1	ina-1	wah-1	tat-1	ced-8
+phospholipid_biosynthetic_process_(GO:0008654)	pign-1	ipla-1	paqr-2	grl-21	gspd-1	nhr-25	ptr-24	ENTREZID:286789
+phospholipid_metabolic_process_(GO:0006644)	pign-1	ipla-1	paqr-2	grl-21	gspd-1	nhr-25	ptr-24	ENTREZID:286789
+phospholipid_translocation_(GO:0045332)	ttx-7	ipla-1	unc-104	mig-14	dnpp-1	mtm-6	mtm-9	num-1	sorf-1	rab-10	ENTREZID:286789	sorf-2	cnt-1	tat-1
+phospholipid_transport_(GO:0015914)	ttx-7	ipla-1	unc-104	dnpp-1	num-1	sorf-1	rab-10	ENTREZID:286789	sorf-2	cnt-1	tat-1
+phytochelatin_biosynthetic_process_(GO:0046938)	ENTREZID:286789	pcs-1	hmt-1
+piRNA_biosynthetic_process_(GO:1990511)	alg-5	gsk-3	dpl-1	unc-52	hrde-1	paqr-2	sid-1	nid-1	emb-4	acn-1	ist-1	let-7
+piRNA_metabolic_process_(GO:0034587)	alg-5	gsk-3	dpl-1	unc-52	hrde-1	paqr-2	sid-1	nid-1	emb-4	acn-1	ist-1	let-7
+pigment_accumulation_(GO:0043476)	daf-16	kat-1	sir-2.1	sod-3	ctl-1
+plasma_membrane_fusion_(GO:0045026)	lpr-1	sep-1	vab-10	ced-7	sec-22	sid-5	let-7	eff-1
+plasma_membrane_organization_(GO:0007009)	lpr-1	pign-1	cdc-42	myrf-1	ccm-3	myrf-2	lpr-3
+positive_regulation_of_DNA-binding_transcription_factor_activity_(GO:0051091)	wwp-1	lin-28	daf-16	ubc-18	lin-1	skn-1
+positive_regulation_of_MAP_kinase_activity_(GO:0043406)	daf-16	hsf-1	let-23	lin-1	skn-1	eps-8
+positive_regulation_of_apoptotic_process_(GO:0043065)	ced-4	tbx-2	ced-3	lst-4	egl-1	ENTREZID:286789	ced-9
+positive_regulation_of_apoptotic_signaling_pathway_(GO:2001235)	ced-4	ced-3	lst-4	egl-1	ced-9
+positive_regulation_of_behavior_(GO:0048520)	tom-1	unc-13	gar-2	pros-1	unc-18	snet-1	nep-2	dop-3	med-1	med-2
+positive_regulation_of_cell_cycle_(GO:0045787)	egg-4	egg-5	gld-2	cdc-25.1	hsf-1	mig-5	cdk-1	let-99	mbk-2	dbl-1	dsh-2	ENTREZID:286789
+positive_regulation_of_cell_differentiation_(GO:0045597)	gld-2	gld-1	lin-28	fbf-1	syd-1	mig-5	ccf-1	elt-7	unc-10	elt-2	syd-2	med-1	med-2	dsh-2	ENTREZID:286789
+positive_regulation_of_cell_division_(GO:0051781)	sep-1	gld-2	cdc-25.1	blmp-1	mig-5	let-99	alg-1	pph-6	bed-3	dapk-1	sydn-1	pinn-1	med-1	med-2	dsh-2	let-7	ENTREZID:286789
+positive_regulation_of_cell_fate_specification_(GO:0042660)	sem-4	let-23	tbx-2	lin-39	elt-6	lin-1	eps-8	egl-17	med-1	med-2	lin-26
+positive_regulation_of_cell_growth_(GO:0030307)	sma-6	mig-5	age-1	daf-2	ced-4	rsks-1	sma-10	asm-3	ilys-3	catp-6	ced-3	egl-1	dsh-2	ced-9	blmp-1	dre-1	ENTREZID:286789
+positive_regulation_of_cell_migration_(GO:0030335)	sem-4	egl-17	snet-1	nep-2	blmp-1	dre-1
+positive_regulation_of_cell_motility_(GO:2000147)	sem-4	egl-17	snet-1	nep-2	blmp-1	dre-1
+positive_regulation_of_cellular_protein_catabolic_process_(GO:1903364)	fpn-1.1	tom-1	unc-13	daf-16	sma-6	pros-1	sma-10	skn-1	unc-8	pmk-3	let-99	lgl-1	unc-18	dapk-1	sydn-1	pinn-1	ENTREZID:286789
+positive_regulation_of_cellular_protein_localization_(GO:1903829)	mig-5	let-23	zif-1	let-99	eps-8	lgl-1	pph-6	dapk-1	sydn-1	pinn-1	pmk-1	dsh-2
+positive_regulation_of_defense_response_to_bacterium_(GO:1900426)	wwp-1	daf-16	daf-2	skn-1	ins-1
+positive_regulation_of_developmental_growth_(GO:0048639)	lin-28	daf-16	sma-6	age-1	daf-2	ced-4	pdhk-2	sma-10	asm-3	catp-6	ced-3	egl-1	ced-9	blmp-1	dre-1	ENTREZID:286789
+positive_regulation_of_developmental_process_(GO:0051094)	age-1	daf-2	ced-4	asm-3	ced-3	egl-1	vps-52	ced-9
+positive_regulation_of_embryonic_development_(GO:0040019)	sep-1	egg-4	egg-5	hlh-1	pal-1	lin-39	zif-1	cdk-1	elt-6	mbk-2	elt-7	elt-2	pph-6	dapk-1	sydn-1	pinn-1	med-1	med-2	ENTREZID:286789	lin-26
+positive_regulation_of_endocytosis_(GO:0045807)	sma-6	glr-1	tat-1	sma-10	pmk-3	lst-4	rpm-1	ENTREZID:286789
+positive_regulation_of_gene_expression_(GO:0010628)	daf-16	sma-6	sma-10	skn-1	atg-9	rab-10	ENTREZID:286789
+positive_regulation_of_gonad_development_(GO:1905941)	sem-4	blmp-1	catp-6	dre-1	egl-17	ENTREZID:286789
+positive_regulation_of_growth_(GO:0045927)	sma-6	mig-5	ced-4	sma-10	ilys-3	ced-3	egl-1	dsh-2	ENTREZID:286789	ced-9	blmp-1	dre-1
+positive_regulation_of_hydrolase_activity_(GO:0051345)	gld-2	gld-1	fbf-1	pah-1	let-23	pdhk-2	ccf-1	lin-1	catp-6	lst-4	eps-8	ENTREZID:286789
+positive_regulation_of_innate_immune_response_(GO:0045089)	wwp-1	daf-16	hsf-1	daf-2	ilys-3	skn-1	ins-1	lst-4	dbl-1	ENTREZID:286789
+positive_regulation_of_intracellular_protein_transport_(GO:0090316)	fpn-1.1	tom-1	unc-13	sma-6	tat-1	sma-10	pmk-3	lst-4	vps-52	unc-18	pmk-1
+positive_regulation_of_kinase_activity_(GO:0033674)	egg-4	egg-5	gld-1	cdk-9	hsf-1	fbf-1	let-23	age-1	pdhk-2	cdk-1	ccf-1	skn-1	catp-6	mbk-2	eps-8	lgl-1	dapk-1	sydn-1	pinn-1	gld-2	daf-16	ENTREZID:286789
+positive_regulation_of_locomotion_(GO:0040017)	tom-1	sem-4	unc-13	dkf-1	gar-2	egl-17	unc-18	snet-1	nep-2	blmp-1	dre-1
+positive_regulation_of_meiosis_I_(GO:0060903)	gld-1	fbf-1	ccf-1	let-99	pph-6	gld-2
+positive_regulation_of_meiotic_cell_cycle_(GO:0051446)	egg-4	egg-5	gld-2	cdk-1	mbk-2
+positive_regulation_of_mitochondrial_translation_(GO:0070131)	wwp-1	ced-4	ubc-18	ced-3	egl-1	ced-9
+positive_regulation_of_nematode_larval_development_(GO:0061063)	ins-18	lin-28	lin-39	pros-1	elt-6	lin-26
+positive_regulation_of_neuron_differentiation_(GO:0045666)	syd-1	unc-10	syd-2	alr-1	ENTREZID:286789
+positive_regulation_of_peptidyl-serine_phosphorylation_(GO:0033138)	egg-4	egg-5	daf-16	cdk-9	dkf-1	age-1	cdk-1	lin-1	jnk-1	mbk-2	lgl-1	pph-6
+positive_regulation_of_polynucleotide_adenylyltransferase_activity_(GO:1904247)	gld-1	fbf-1	ccf-1	gld-2
+positive_regulation_of_programmed_cell_death_(GO:0043068)	ced-4	tbx-2	ced-3	lst-4	egl-1	ENTREZID:286789	ced-9
+positive_regulation_of_protein_catabolic_process_(GO:0045732)	tom-1	unc-13	daf-16	sma-6	sma-10	skn-1	let-99	unc-18	ENTREZID:286789
+positive_regulation_of_protein_import_into_nucleus_(GO:0042307)	daf-16	age-1	daf-2	asm-3	jnk-1
+positive_regulation_of_protein_kinase_activity_(GO:0045860)	egg-4	egg-5	cdk-9	hsf-1	dkf-1	let-23	age-1	pdhk-2	cdk-1	lin-1	skn-1	mbk-2	eps-8	lgl-1	dapk-1	sydn-1	pinn-1	daf-16	ENTREZID:286789
+positive_regulation_of_protein_phosphorylation_(GO:0001934)	egg-4	egg-5	daf-16	cdk-9	dkf-1	age-1	cdk-1	lin-1	jnk-1	mbk-2	lgl-1	pph-6
+positive_regulation_of_protein_processing_(GO:0010954)	wwp-1	lin-28	daf-16	ubc-18	skn-1	lgl-1	alg-1	let-7
+positive_regulation_of_protein_transport_(GO:0051222)	ENTREZID:13192684	fpn-1.1	tom-1	unc-13	daf-16	dkf-1	sma-6	mig-5	age-1	daf-2	pdhk-2	tat-1	sma-10	asm-3	jnk-1	pmk-3	lst-4	itsn-1	vps-52	unc-18	sup-1	pmk-1	dsh-2
+positive_regulation_of_protein_ubiquitination_(GO:0031398)	wwp-1	sma-6	ubc-18	glr-1	sma-10	pmk-3	rpm-1
+positive_regulation_of_reproductive_process_(GO:2000243)	ins-18	age-1	daf-2	asm-3	ENTREZID:286789
+positive_regulation_of_synapse_assembly_(GO:0051965)	tom-1	unc-13	syd-1	unc-10	unc-18	syd-2
+positive_regulation_of_translation_(GO:0045727)	wwp-1	gld-2	daf-16	ced-4	ubc-18	zif-1	skn-1	ced-3	egl-1	lgl-1	alg-1	pmk-1	let-7	ced-9
+positive_regulation_of_vulval_development_(GO:0040026)	sem-4	let-23	lin-39	elt-6	lin-1	eps-8	egl-17	vps-52	ENTREZID:286789	lin-26
+post-embryonic_animal_morphogenesis_(GO:0009886)	daf-16	vab-10	lin-42	eff-1	zmp-2	kin-19	trd-1	elt-7	dbl-1	acn-1	daf-12	let-7
+post-embryonic_animal_organ_morphogenesis_(GO:0048563)	daf-16	ceh-13	dbl-1	daf-12	sma-9	hlh-28	hlh-29
+post-embryonic_development_(GO:0009791)	daf-16	lin-42	trd-1	elt-1	elt-7	dbl-1	acn-1	daf-12	ndx-2	ENTREZID:286789	let-7
+post-embryonic_digestive_tract_morphogenesis_(GO:0048621)	set-2	ten-1	ceh-13	elt-7	hpl-1
+post-translational_protein_modification_(GO:0043687)	fncm-1	cpb-3	gld-1	spr-5	ufd-2	unc-45	fcd-2	max-1	ENTREZID:286789
+posttranscriptional_gene_silencing_(GO:0016441)	capg-1	rsd-6	lem-3	wapl-1	scc-3
+posttranscriptional_gene_silencing_by_RNA_(GO:0035194)	capg-1	rsd-6	lem-3	wapl-1	scc-3
+posttranscriptional_regulation_of_gene_expression_(GO:0010608)	gld-1	daf-16	dcr-1	mir-34	let-7
+potassium_ion_transport_(GO:0006813)	abts-1	kcc-2	egl-19	unc-24	lgc-55	unc-1	unc-2	slo-1	slo-2
+pre-miRNA_processing_(GO:0031054)	ain-2	lin-28	drsh-1	ddx-23	ncl-1	dcr-1	teg-1	ced-3	fib-1	ain-1	mir-35	alg-1	let-7
+presynaptic_membrane_assembly_(GO:0097105)	nab-1	tom-1	unc-13	unc-104	syd-1	arl-8	atg-9	unc-10	unc-18	syd-2	nlg-1	clec-38
+primary_miRNA_processing_(GO:0031053)	ain-2	lin-28	drsh-1	ddx-23	ncl-1	dcr-1	teg-1	ced-3	fib-1	ain-1	mir-35	alg-1	let-7
+production_of_small_RNA_involved_in_gene_silencing_by_RNA_(GO:0070918)	ekl-1	rde-2	mut-7	elo-2	ENTREZID:286789
+pronuclear_migration_(GO:0035046)	dhc-1	mel-26	zyg-9	mbk-2	cyb-3	txdc-9	ENTREZID:267983	tac-1
+proteasomal_protein_catabolic_process_(GO:0010498)	ubr-4	ire-1	gfat-1	xbp-1	rfp-1	mrg-1	imp-2	ced-3	mec-2	daf-12	pek-1	mev-1
+proteasome_assembly_(GO:0043248)	unc-89	mei-1	mel-26	skr-1	unc-45	csn-5	sel-10	syg-1
+protein_acetylation_(GO:0006473)	knl-2	lin-53	blmp-1	daf-16	hcp-3	natc-1	htas-1
+protein_autophosphorylation_(GO:0046777)	egg-4	egg-5	ire-1	wrm-1	cdk-1	lit-1	unc-43	mbk-2	ENTREZID:286789
+protein_complex_oligomerization_(GO:0051259)	knl-1	hmt-1	cyk-4	sun-1	lin-2
+protein_deacetylation_(GO:0006476)	lin-1	hda-1	coel-1	sir-2.1
+protein_demethylation_(GO:0006482)	fncm-1	spr-5	rbr-2	fcd-2	ENTREZID:286789
+protein_dephosphorylation_(GO:0006470)	mei-1	ppfr-1	lin-5	fem-2	gpr-1	gpr-2	fem-1	fem-3	ndc-80	cyb-1	hsp-90	pph-5	gmeb-1
+protein_destabilization_(GO:0031648)	cpb-3	gld-1	bpnt-1	ani-2	xrn-2	tac-1	asna-1	zyg-8	efa-6	pgp-3	lin-14	alg-1	paxt-1	lin-4	let-7	mir-249	ENTREZID:286789
+protein_deubiquitination_(GO:0016579)	ekl-1	ufd-2	uaf-1	glr-1	usp-46
+protein_exit_from_endoplasmic_reticulum_(GO:0032527)	png-1	tfg-1	myrf-1	glr-2	glr-1	enu-3.1	glr-5	unc-6	ENTREZID:286789
+protein_export_from_nucleus_(GO:0006611)	hcp-4	apr-1	pry-1	sod-1	ooc-5	myrf-1	clk-1	grp-1	npp-20	crm-1	myrf-2	trx-1	ENTREZID:286789
+protein_farnesylation_(GO:0018343)	fce-1	hmgr-1	M57.2	aip-1	atfs-1	fntb-1	glb-5	pdl-1	fce-2
+protein_folding_(GO:0006457)	hsf-1	sod-1	ufd-2	unc-45	crm-1	hpk-1	calu-1
+protein_folding_in_endoplasmic_reticulum_(GO:0034975)	mec-6	gfat-1	xbp-1	odr-4	odr-8	crt-1	mec-4	poml-1	ire-1	ENTREZID:286789
+protein_geranylgeranylation_(GO:0018344)	fce-1	hmgr-1	M57.2	aip-1	atfs-1	fntb-1	glb-5	pdl-1	fce-2
+protein_glycosylation_(GO:0006486)	nduf-7	fut-1	fut-8	fut-6	ENTREZID:286789
+protein_glycosylation_in_endoplasmic_reticulum_(GO:0033577)	rad-23	agl-1	apy-1	ENTREZID:286789	png-1
+protein_import_into_nucleus_(GO:0006606)	hcp-4	apr-1	pry-1	sod-1	ooc-5	myrf-1	clk-1	grp-1	npp-20	crm-1	myrf-2	trx-1	ENTREZID:286789
+protein_import_into_nucleus,_translocation_(GO:0000060)	hcp-4	apr-1	daf-16	pry-1	sod-1	ooc-5	myrf-1	clk-1	grp-1	zfp-1	npp-20	crm-1	myrf-2	trx-1	ENTREZID:286789
+protein_localization_to_Golgi_apparatus_(GO:0034067)	lin-10	cccp-1	tpst-1	cav-1	hsp-1	unc-23	crp-1	bar-1	pad-2	ENTREZID:286789	lrk-1
+protein_localization_to_Golgi_membrane_(GO:1903292)	rab-11.1	lin-10	unc-101	agef-1	let-23	rei-1	cccp-1	arf-3	cav-1	crp-1	bar-1	ENTREZID:286789
+protein_localization_to_basolateral_plasma_membrane_(GO:1903361)	erm-1	unc-101	agef-1	nhx-2	pbo-1	par-3	arf-3	eps-8	atg-9	ehbp-1	crp-1	ENTREZID:286789	rab-10	let-23
+protein_localization_to_cell_cortex_(GO:0072697)	chdp-1	rab-5	vab-10	eff-1	wrm-1	gpr-1	ani-1	ced-10	ham-1	let-99	air-1	tcc-1	lgl-1	vang-1	egl-15
+protein_localization_to_cell_surface_(GO:0034394)	chdp-1	mec-6	sup-17	che-10	eff-1	ccm-3	dat-1	ced-10	tsp-12	cho-1	tsp-14	ajm-1	mec-4	poml-1	grdn-1
+protein_localization_to_centrosome_(GO:0071539)	arx-7	sys-1	par-6	che-10	par-3	cdk-1	sas-7	pig-1	let-99	sun-1	par-4	ajm-1	grdn-1	ENTREZID:286789	ENTREZID:3565765	spd-2
+protein_localization_to_chromatin_(GO:0071168)	knl-2	snpc-4	lin-53	baf-1	hcp-3	hsp-16.2	sun-1	pot-1	ENTREZID:286789	lem-3
+protein_localization_to_chromosome_(GO:0034502)	knl-2	bub-1	lin-53	pch-2	bub-3	dpy-27	hcp-3	dpy-28	cyk-4	dpy-26	smcl-1	spe-47	lem-3
+protein_localization_to_cilium_(GO:0061512)	arl-13	cil-7	che-10	fbf-1	osm-3	pkd-2	nphp-2	nphp-4	ajm-1	grdn-1	mapk-15
+protein_localization_to_early_endosome_(GO:1902946)	rab-11.1	cil-7	vps-34	unc-13	rab-5	lrk-1	dlk-1	rab-3	tbc-2	lgg-1	snt-1	unc-104	nhx-2	pbo-1	rei-1	cccp-1	lgg-2	arl-8	hsp-1	atg-9	unc-23	vps-39	ptrn-1	rab-10	ENTREZID:286789
+protein_localization_to_endosome_(GO:0036010)	rab-11.1	arx-7	vps-34	unc-101	agef-1	uev-1	tbc-2	nhx-2	eff-1	let-23	pbo-1	rei-1	glr-1	arf-3	atg-9	ehbp-1	rab-5	rab-10	ENTREZID:286789
+protein_localization_to_kinetochore_(GO:0034501)	knl-2	lin-53	spdl-1	pch-2	npp-5	bub-3	plk-1	knl-1	hcp-3	mdf-1	ENTREZID:267983	bub-1	ENTREZID:286789
+protein_localization_to_membrane_(GO:0072657)	vpr-1	vps-34	rab-5	smn-1	tbc-2	eff-1	myrf-1	enu-3.1	cccp-1	sax-7	cho-1	atg-9	unc-6	myrf-2	rab-10
+protein_localization_to_microtubule_(GO:0035372)	che-10	unc-104	mapk-15	let-99	arl-8	air-1	ajm-1	ptrn-1	dapk-1	grdn-1
+protein_localization_to_nuclear_envelope_(GO:0090435)	lmn-1	spd-2	ooc-5	npp-19	npp-5	ifet-1	cdk-1	kdp-1	hsp-16.2	mdf-1	dhc-3	unc-84	pot-1	sun-1	ENTREZID:3565765
+protein_localization_to_nuclear_inner_membrane_(GO:0036228)	unc-83	sun-1	ENTREZID:3565765	unc-84
+protein_localization_to_nucleus_(GO:0034504)	myrf-1	clk-1	enu-3.1	unc-6	myrf-2	dapk-1	sydn-1	pinn-1	lem-3
+protein_localization_to_organelle_(GO:0033365)	haf-4	vpr-1	vps-34	spd-2	rab-5	smn-1	tbc-2	myrf-1	clk-1	plk-1	sas-7	enu-3.1	cccp-1	atg-9	unc-6	myrf-2	dapk-1	sydn-1	pinn-1	rab-10
+protein_localization_to_plasma_membrane_(GO:0072659)	vpr-1	vps-34	rab-5	smn-1	vab-10	tbc-2	myrf-1	enu-3.1	cccp-1	sax-7	cho-1	atg-9	unc-6	myrf-2	rab-10	eff-1
+protein_localization_to_postsynaptic_membrane_(GO:1903539)	sol-1	glr-1	ehbp-1	ENTREZID:180903	snf-11	rab-10	shn-1	ENTREZID:286789
+protein_localization_to_synapse_(GO:0035418)	dyb-1	ctn-1	lrk-1	vab-10	rab-3	snt-1	eff-1	myrf-1	dat-1	cmk-1	pmk-3	cho-1	arl-8	hsp-1	atg-9	unc-23	slo-1	unc-2	myrf-2	ptrn-1	glr-1	unc-104
+protein_methylation_(GO:0006479)	fncm-1	spr-5	set-2	morc-1	met-2	fcd-2	ENTREZID:286789
+protein_neddylation_(GO:0045116)	cep-1	ned-8	ubxn-3	dcn-1	fsn-1	rfl-1	cul-2	csn-5	cand-1
+protein_palmitoylation_(GO:0018345)	arl-13	cil-7	eat-16	dlk-1	ENTREZID:286789	mec-2
+protein_phosphorylation_(GO:0006468)	cpb-3	gld-1	apr-1	ncap-1	apa-2	lem-3
+protein_polyubiquitination_(GO:0000209)	ned-8	daf-16	dcn-1	rle-1	ENTREZID:286789
+protein_prenylation_(GO:0018342)	fce-1	hmgr-1	M57.2	aip-1	atfs-1	fntb-1	glb-5	pdl-1	fce-2
+protein_processing_(GO:0016485)	fncm-1	cpb-3	gld-1	spr-5	fcd-2	max-1	lem-3
+protein_secretion_(GO:0009306)	lpr-1	vpr-1	smn-1	flp-11	lpr-3	nlp-7
+protein_stabilization_(GO:0050821)	plk-2	syp-4	mig-5	ccm-3	dcap-1	ndc-80	fmo-2	dcap-2	unc-62	gck-1	unc-55	dsh-2	ENTREZID:286789	hif-1
+protein_sumoylation_(GO:0016925)	bet-1	unc-37	gei-17	hsf-1	xbp-1	tbx-2	klp-19	lin-1	let-60	crt-1	max-1	hpk-1	nhr-25	smo-1	ENTREZID:286789
+protein_targeting_(GO:0006605)	rsd-6	cdc-42	act-1	max-1	sid-3
+protein_targeting_to_ER_(GO:0045047)	ire-1	myrf-1	dat-1	skn-1	ddi-1	erg-28	slo-1	myrf-2	selt-1.1	selt-1.2	rab-10	sar-1
+protein_targeting_to_membrane_(GO:0006612)	ncap-1	eff-1	ced-7	cla-1	cho-1	sid-1	ist-1	apa-2	let-7
+protein_targeting_to_mitochondrion_(GO:0006626)	cep-1	dlk-1	phb-2	mtcu-2	clk-1	ceh-23	mcu-1	mttu-1	aak-2	mev-1	ENTREZID:286789	mtcu-1
+protein_targeting_to_vacuole_(GO:0006623)	exoc-7	exoc-8	lgg-1	vps-33.2	cup-5	vps-33.1	tat-1	bec-1	spe-39	cav-2	unc-51	vps-41	mrp-4	rab-10	ENTREZID:286789
+protein_to_membrane_docking_(GO:0022615)	aex-6	vps-33.2	rbf-1	vps-33.1	lst-4	hyls-1	snx-1	unc-18	rab-10	syx-3	unc-31	ENTREZID:286789
+protein_transport_(GO:0015031)	casy-1	cdc-42	act-1	max-1	sid-3
+protein_ubiquitination_(GO:0016567)	cpb-3	ari-1.1	gld-1	gei-17	ubxn-3	sma-6	ufd-2	unc-45	ubc-18	klp-19	cul-2	sma-10	max-1	ENTREZID:286789
+proteoglycan_biosynthetic_process_(GO:0030166)	chst-1	unc-52	hse-5	nid-1	unc-6	lon-2	sdn-1
+proteolysis_involved_in_cellular_protein_catabolic_process_(GO:0051603)	unc-89	lin-35	mei-1	fer-1	mel-26	cdc-48.1	ubc-18	tra-1	cul-2	let-99	atx-3	swip-10	ENTREZID:268205
+pyridoxal_phosphate_biosynthetic_process_(GO:0042823)	agxt-1	cysl-2	cysl-1	cbs-2	cysl-3
+pyrimidine_ribonucleotide_biosynthetic_process_(GO:0009220)	nstp-4	umps-1	nstp-5	ENTREZID:268160	ENTREZID:286789
+pyruvate_biosynthetic_process_(GO:0042866)	cep-1	pyk-1	pck-1	atf-7	pdhk-2	fat-1
+pyruvate_metabolic_process_(GO:0006090)	cep-1	pyk-1	pck-1	atf-7	pdhk-2	fat-1
+rRNA_catabolic_process_(GO:0016075)	cep-1	ncl-1	fib-1	dao-5	let-7
+rRNA_processing_(GO:0006364)	lin-35	cep-1	nst-1	pro-2	pro-1	ncl-1	eri-1	skn-1	wdr-46	fib-1	pro-3	let-7	rbd-1
+rRNA_transcription_(GO:0009303)	nst-1	let-756	skn-1	wdr-46	pha-4	dao-5	cep-1	rbd-1
+receptor_clustering_(GO:0043113)	unc-40	madd-4	abi-1	mig-10	npr-1	unc-6	ENTREZID:286789	mir-786
+receptor_guanylyl_cyclase_signaling_pathway_(GO:0007168)	egl-4	glb-5	gcy-9	gcy-14	gcy-36	ENTREZID:286789	gcy-35
+receptor_internalization_(GO:0031623)	ENTREZID:13222483	src-1	mtm-1	lrp-1	cdc-42	glr-1	pat-2	ina-1	chc-1	mib-1	rab-35	pmk-3	lin-18	epn-1
+receptor_localization_to_synapse_(GO:0097120)	uev-1	glr-2	mig-10	dat-1	cmk-1	unc-5	pmk-3	magi-1	ENTREZID:180903	unc-6	sphk-1	ENTREZID:286789	glr-1
+receptor_recycling_(GO:0001881)	sma-6	eff-1	egl-5	bec-1	atg-9	snx-1	sorf-1	rab-6.2	sorf-2	rab-10
+receptor-mediated_endocytosis_(GO:0006898)	ENTREZID:13222483	dab-1	eff-1	let-23	cnt-2	rab-35	amph-1	rme-1	spe-39	cnb-1	cdt-2	vps-45	apl-1	epn-1	chc-1
+recognition_of_apoptotic_cell_(GO:0043654)	ubr-1	lin-28	cdc-42	ced-4	met-2	pat-2	psr-1	ttr-52	ced-3
+regulated_exocytosis_(GO:0045055)	rab-11.1	sep-1	unc-57	unc-13	unc-43	pkc-2	ENTREZID:286789	tom-1	unc-18
+regulation_of_AMPA_receptor_activity_(GO:2000311)	uev-1	cdk-5	cmk-1	rab-6.2	npr-9	mir-61	glr-1
+regulation_of_ARF_protein_signal_transduction_(GO:0032012)	unc-101	agef-1	let-23	sma-10	arf-3	sma-6
+regulation_of_BMP_signaling_pathway_(GO:0030510)	unc-40	daf-16	sma-10	crm-1	sma-9	drag-1	sma-6	dbl-1	lon-2
+regulation_of_DNA_damage_checkpoint_(GO:2000001)	fncm-1	san-1	cep-1	exo-3	spr-5	wrn-1	apn-1	bub-3	polh-1	clk-2	polk-1	fcd-2	fzy-1	atm-1	ENTREZID:286789
+regulation_of_DNA_double-strand_break_processing_(GO:1903775)	rtel-1	ufd-2	helq-1	rad-51	jmjd-5	rfs-1
+regulation_of_DNA_repair_(GO:0006282)	fncm-1	san-1	lem-3	rtel-1	spr-5	bub-3	helq-1	dpy-27	set-2	dpy-28	rad-51	dpy-26	fcd-2	jmjd-5	smcl-1	rfs-1	fzy-1	ENTREZID:286789
+regulation_of_DNA_replication_(GO:0006275)	fncm-1	lem-3	gsk-3	spr-5	dpl-1	cul-2	fcd-2	cyb-3	ENTREZID:286789	ubxn-3
+regulation_of_DNA-binding_transcription_factor_activity_(GO:0051090)	ENTREZID:13187896	ubr-5	egl-27	tdp-1	mab-3	lin-12	glp-1	dct-17	efl-1	fkh-9	vit-2	nhr-25	trx-1	ENTREZID:286789	elt-2	daf-16	skn-1
+regulation_of_G_protein-coupled_receptor_signaling_pathway_(GO:0008277)	lin-17	amx-2	gcy-35	cam-1	nca-2	npr-17	glr-1	vang-1	npr-1	vav-1	dop-3	gbb-1	npr-22	lury-1	npr-9	ENTREZID:286789	grk-2
+regulation_of_GTPase_activity_(GO:0043087)	rab-11.1	unc-73	let-502	crml-1	rhgf-2	grk-2	rei-1	nca-2	unc-116	ced-10	lin-45	gdi-1	mrck-1	sorf-1	ksr-1	mig-2	dma-1	dop-3	rab-10	sorf-2	ENTREZID:286789	cdc-42
+regulation_of_MAP_kinase_activity_(GO:0043405)	daf-16	hsp-60	kgb-1	skn-1	lin-45	pmk-3	ksr-1	trx-1	ssup-72	let-7
+regulation_of_MAPK_cascade_(GO:0043408)	fpn-1.1	wdr-23	skr-1	dlk-1	hsp-60	skn-1	lin-45	rack-1	hsp-90	sek-3	ksr-1	ENTREZID:286789	madd-3	pmk-3
+regulation_of_Notch_signaling_pathway_(GO:0008593)	ubr-5	gsk-3	dpl-1	daf-2	lin-12	mom-2	mbk-1	glp-1
+regulation_of_RNA_interference_(GO:1900368)	capg-1	rsd-6	lem-3	gsk-3	dpl-1	wapl-1	csr-1	scc-3
+regulation_of_RNA_splicing_(GO:0043484)	sig-7	prmt-7	mec-8	exc-7	hrde-1	asd-1	rpb-2	prmt-9	emb-4	fox-1	ENTREZID:286789
+regulation_of_RNA_stability_(GO:0043487)	gld-2	mec-8	smg-8	smg-9	dcap-1	dcap-2	cebp-1
+regulation_of_Rab_protein_signal_transduction_(GO:0032483)	rab-11.1	unc-73	nhr-49	tbc-2	cdc-42	tub-1	eff-1	rab-7	rei-1	rbg-3	atx-2	egl-4	ced-10	egl-19	wsp-1	gdi-1	slo-1	unc-2	slo-2	ppk-3	dyn-1	madd-3	rab-5
+regulation_of_Rho_protein_signal_transduction_(GO:0035023)	crml-1	rab-5	tbc-2	grk-2	nca-2	lin-45	wsp-1	gdi-1	rho-1	ksr-1	sphk-1	dop-3	ENTREZID:286789	rin-1	unc-73	cdc-42	ced-10	vav-1
+regulation_of_SNARE_complex_assembly_(GO:0035542)	unc-13	skr-1	sel-10	syg-1	unc-18	tom-1
+regulation_of_TOR_signaling_(GO:0032006)	pyk-1	pch-2	pck-1	atx-2	hlh-30	skn-1	cnnm-1	cnnm-3	hpk-1	aak-2	daf-16	hsf-1	ENTREZID:286789
+regulation_of_Wnt_signaling_pathway_(GO:0030111)	ENTREZID:13187896	lin-17	pop-1	mom-5	sys-1	mig-5	glp-1	lin-22	mom-2	vang-1	lin-18	rig-3	dsh-2	cam-1
+regulation_of_actin_cytoskeleton_organization_(GO:0032956)	let-502	rab-5	par-6	par-2	mrck-1	sma-1	pak-1	cas-1	pph-6	ENTREZID:268262
+regulation_of_apoptotic_process_involved_in_development_(GO:1904748)	ced-1	cdc-42	atad-3	abcf-3	dlc-1	pat-2	eif-3.K	gcn-1	ENTREZID:286789	ced-3
+regulation_of_asymmetric_cell_division_(GO:0009786)	sys-1	mig-5	mrg-1	lin-22	egl-19	let-99	erg-28	par-4	unc-2	slo-2	dsh-2	ENTREZID:286789	slo-1
+regulation_of_autophagy_(GO:0010506)	hsf-1	klf-1	atg-18	hpk-1	klf-3
+regulation_of_autophagy_of_mitochondrion_(GO:1903146)	phb-1	dnj-27	atf-7	hlh-30	tald-1	pmk-3	fmo-2
+regulation_of_axon_extension_(GO:0030516)	unc-73	tba-1	dlk-1	unc-59	unc-61	mls-2	vab-3	hlh-16	hlh-17	madd-4	rpm-1	ENTREZID:286789	unc-40
+regulation_of_axon_guidance_(GO:1902667)	lin-17	dlk-1	unc-130	nurf-1	dpy-18	plr-1	ced-10	jmjd-1.2	unc-5	wsp-1	unc-129	rbr-2	rpm-1	max-1	vang-1	sax-3	lin-18	drag-1	rin-1	unc-40	mom-5	cam-1	ENTREZID:286789
+regulation_of_brood_size_(GO:0060378)	nos-2	prmt-5	xnd-1	atx-2	dpy-21	prmt-1	pals-39	nos-1
+regulation_of_calcium_ion_transport_(GO:0051924)	gon-2	dlk-1	tir-1	egl-19	gtl-1	slo-1	cebp-1	unc-2	mec-2	ets-4	svh-2	ocr-2	mir-71	mir-786	slo-2	ENTREZID:286789
+regulation_of_cell_adhesion_(GO:0030155)	hlh-2	hmr-1	hmp-2	ina-1	ost-1	mrck-1	hmp-1	rig-3	nlg-1	madd-3	cdc-42
+regulation_of_cell_cycle_(GO:0051726)	san-1	capg-1	gsk-3	cdc-42	dpl-1	fzr-1	bub-3	wapl-1	sas-5	scc-3	acn-1	fzy-1	let-7
+regulation_of_cell_cycle_process_(GO:0010564)	san-1	wrn-1	cdc-42	bub-3	set-2	lin-39	plk-1	cdk-1	fzy-1	ENTREZID:286789
+regulation_of_cell_differentiation_(GO:0045595)	gsk-3	dpl-1	cyld-1	elt-7	elt-2
+regulation_of_cell_fate_specification_(GO:0042659)	fog-1	hlh-2	fog-3	glp-1	mom-2	pos-1	ttx-1	ceh-14	neg-1	med-1	med-2	ENTREZID:286789
+regulation_of_cell_migration_(GO:0030334)	lin-17	daf-16	cam-1	adr-2	rde-4	clec-41	vang-1	pkc-2	ENTREZID:286789
+regulation_of_cell_morphogenesis_(GO:0022604)	lin-17	cam-1	lin-22	elt-7	vang-1	acn-1	elt-2	vhl-1	elc-2	let-7
+regulation_of_cell_proliferation_(GO:0042127)	daf-16	gsk-3	dpl-1	lin-22	ENTREZID:286789
+regulation_of_cell_shape_(GO:0008360)	let-502	rhgf-2	kcc-3	crn-7	gcy-8	mrck-1	nuc-1	ENTREZID:286789	cdc-42
+regulation_of_cell_size_(GO:0008361)	daf-16	mab-3	ccm-3	top-2	atx-2	sar-1	gck-1	fkh-9	vit-2	elt-2	ENTREZID:286789
+regulation_of_cellular_component_movement_(GO:0051270)	ENTREZID:13187896	unc-63	cdk-8	daf-16	rad-23	nep-1	rack-1	dyf-2	ENTREZID:286789
+regulation_of_cellular_localization_(GO:0060341)	daf-2	let-99	cebp-1	mbk-1	lem-3
+regulation_of_cellular_pH_(GO:0030641)	capg-1	lem-3	wapl-1	scc-3	max-1
+regulation_of_cellular_protein_localization_(GO:1903827)	ccm-3	daf-2	dpy-27	dpy-28	dpy-26	let-99	gck-1	cebp-1	mbk-1	smcl-1	lem-3
+regulation_of_cellular_response_to_hypoxia_(GO:1900037)	blmp-1	hmg-1.2	cdk-1	npp-16	srp-6	hsp-16.1	gas-1	aak-2	hif-1
+regulation_of_centrosome_duplication_(GO:0010824)	sep-1	lin-23	fzr-1	sas-4	gsp-1	sas-5	sel-10	gsp-2	ENTREZID:286789	zyg-1
+regulation_of_chemotaxis_(GO:0050920)	unc-40	trt-1	daf-16	adr-2	glr-1	clec-41	sax-3	npr-9	ENTREZID:286789
+regulation_of_chromatin_silencing_(GO:0031935)	lin-35	nrde-2	nrde-1	hmg-1.2	nrde-4	hsp-16.1	nrde-3
+regulation_of_chromosome_segregation_(GO:0051983)	capg-1	gei-17	lin-41	dpy-27	dpy-28	klp-19	wapl-1	oma-1	dpy-26	oma-2	scc-3	smcl-1	cep-1	lem-3
+regulation_of_cilium_assembly_(GO:1902017)	fbf-1	klp-11	dyf-2	klp-20	ENTREZID:286789
+regulation_of_cytokinesis_(GO:0032465)	let-502	lem-3	rhgf-2	ccm-3	chc-1	cyk-4	zen-4	let-99	acs-1	gck-1	par-4	ENTREZID:286789	rab-11.1	rei-1
+regulation_of_cytoskeleton_organization_(GO:0051493)	rab-5	par-6	zyx-1	par-2	chc-1	cas-1
+regulation_of_dauer_entry_(GO:1905909)	eif-2beta	eif-2A	pdhk-2	cmk-1	nhr-8	ENTREZID:286789	rict-1
+regulation_of_dauer_larval_development_(GO:0061065)	dcap-1	dcap-2	rict-1	daf-16
+regulation_of_defecation_(GO:2000292)	pop-1	sod-2	gon-2	rab-3	vha-6	rep-1	lin-12	bec-1	gtl-1	rho-1	flr-1	flr-4	osm-11	mir-786	ENTREZID:286789
+regulation_of_dendrite_extension_(GO:1903859)	unc-40	mls-2	vab-3	hlh-17	ENTREZID:286789
+regulation_of_dendrite_morphogenesis_(GO:0048814)	src-1	lin-17	lin-44	unc-40	kpc-1	kal-1	dsh-1	ire-1	sup-26	unc-116	prkl-1	cfz-2	vang-1	hst-3.1	rab-28	rab-10	ENTREZID:286789	hst-3.2	dma-1
+regulation_of_dense_core_granule_transport_(GO:1904809)	rab-11.1	sur-6	pkc-3	tbc-8	par-1	hid-1
+regulation_of_development,_heterochronic_(GO:0040034)	ubr-1	lin-41	blmp-1	lin-42	dcap-1	dcap-2	dre-1	acn-1	let-7	ENTREZID:286789	lin-28	ced-3
+regulation_of_distal_tip_cell_migration_(GO:1903354)	ENTREZID:13187896	hlh-2	mom-5	vab-10	cacn-1	ina-1	emb-9	unc-5	fbl-1	rack-1	mig-38	nck-1	mig-15	mir-83	mir-34	blmp-1	dre-1	ENTREZID:286789
+regulation_of_double-strand_break_repair_via_homologous_recombination_(GO:0010569)	mus-81	slx-1	lem-3	him-6	ENTREZID:286789
+regulation_of_eating_behavior_(GO:1903998)	drsh-1	vav-1	vhl-1	srh-234	npr-22	lury-1	elc-2	daf-16	daf-2	ENTREZID:286789
+regulation_of_embryonic_cell_shape_(GO:0016476)	let-502	rhgf-2	cgt-3	cdc-42	vab-23	par-3	crn-7	pat-2	ina-1	unc-82	let-99	par-1	nuc-1	vab-3	cgt-2	cgt-1	ENTREZID:286789
+regulation_of_embryonic_development_(GO:0045995)	lem-3	gsk-3	dpl-1	csr-1	elt-7	elt-2	rict-1
+regulation_of_endocytic_recycling_(GO:2001135)	ENTREZID:13222483	rab-11.1	arx-7	tub-1	rab-7	cnt-1	rei-1	rbg-3	rab-35	ced-10	amph-1	itsn-1	unc-41	tbc-2	rab-10	rab-5
+regulation_of_endocytosis_(GO:0030100)	hsf-1	ncap-1	sma-6	klf-1	sma-10	tald-1	fmo-2	hpk-1	apa-2	klf-3	ENTREZID:286789	hlh-30
+regulation_of_endodermal_cell_differentiation_(GO:1903224)	pop-1	sys-1	elt-7	elt-2
+regulation_of_endoplasmic_reticulum_unfolded_protein_response_(GO:1900101)	dnj-27	cdc-48.1	skn-1	nlp-29	crt-1	hsp-3	octr-1	ENTREZID:286789	mir-233	ire-1	xbp-1
+regulation_of_endosome_size_(GO:0051036)	unc-101	agef-1	let-23	arf-3	ENTREZID:286789
+regulation_of_engulfment_of_apoptotic_cell_(GO:1901074)	mtm-1	rab-5	ced-12	ced-1	tbc-2	cdc-42	pat-2	ced-7	ced-10	ced-5	lst-4	nrf-5	ced-8	ENTREZID:286789
+regulation_of_epidermal_cell_differentiation_(GO:0045604)	bro-1	eff-1	let-23	lin-12	lin-22	elt-1	let-60	eps-8	dbl-1	hbl-1	puf-9	nhr-25	elt-3	ENTREZID:286789	lin-3
+regulation_of_epidermal_growth_factor_receptor_signaling_pathway_(GO:0042058)	erm-1	daf-16	unc-101	agef-1	vab-23	lin-39	lin-12	arf-3	lin-3	let-60	sos-1	egl-1	cdt-2	vav-1	ENTREZID:286789	let-23
+regulation_of_establishment_of_cell_polarity_(GO:2000114)	kin-18	strd-1	unc-83	par-4	ifc-2	sad-1	dyn-1	unc-34	ENTREZID:286789
+regulation_of_exocytosis_(GO:0017157)	exoc-7	tom-1	unc-13	sur-6	exoc-8	pkc-3	acs-1	hrg-3	par-1	hid-1	pkc-2	dyn-1	rab-10	cpx-1	ENTREZID:286789	unc-18
+regulation_of_fatty_acid_metabolic_process_(GO:0019217)	cytb-5.2	daf-16	nhr-8	daf-12	cytb-5.1	sur-7	ENTREZID:286789
+regulation_of_feeding_behavior_(GO:0060259)	drsh-1	vav-1	vhl-1	srh-234	npr-22	lury-1	elc-2	daf-16	daf-2	ENTREZID:286789
+regulation_of_fibroblast_growth_factor_receptor_signaling_pathway_(GO:0040036)	ilcr-2	vrk-1	unc-52	let-756	klo-1	klo-2	ENTREZID:286789	egl-17	egl-15
+regulation_of_forward_locomotion_(GO:0043059)	blmp-1	pde-4	grk-2	nca-2	lin-45	dre-1	ksr-1	dop-3	ENTREZID:286789
+regulation_of_gastrulation_(GO:0010470)	pop-1	hmr-1	cdc-42	npp-19	skn-1	sax-7	mrck-1	hlh-16	ENTREZID:286789
+regulation_of_gene_expression,_epigenetic_(GO:0040029)	fncm-1	sup-46	spr-5	nos-2	hrde-1	set-2	morc-1	met-2	fcd-2	emb-4	lin-15B	nos-1
+regulation_of_germ_cell_proliferation_(GO:1905936)	ubr-5	gsk-3	dpl-1	lin-12	glp-1	daf-18	cnnm-1	cnnm-3	aak-2
+regulation_of_gluconeogenesis_(GO:0006111)	cep-1	nhr-49	daf-16	daf-2
+regulation_of_hormone_metabolic_process_(GO:0032350)	lin-41	hsf-1	ins-11	atf-7	nhr-8	oma-1	oma-2	hpk-1	dyn-1	npr-22	lury-1	ENTREZID:286789	daf-12
+regulation_of_innate_immune_response_(GO:0045088)	daf-16	ins-11	rack-1	irg-7	daf-12	let-7	ENTREZID:286789
+regulation_of_insulin_receptor_signaling_pathway_(GO:0046626)	nhr-49	mut-16	gcy-35	ire-1	skn-1	csr-1	atg-18	pha-4	mbk-1	srh-234	rict-1	daf-16	ENTREZID:286789	daf-2
+regulation_of_intracellular_pH_(GO:0051453)	cep-1	mec-8	exc-7	fzr-1	asd-1	sas-5	max-1	fox-1
+regulation_of_lipid_storage_(GO:0010883)	cebp-2	nhr-49	mdt-15	skn-1	ctbp-1	daf-12	aak-2	klf-3	ENTREZID:286789
+regulation_of_locomotion_(GO:0040012)	lin-17	cam-1	grk-2	nca-2	adr-2	lin-45	clec-41	vang-1	ksr-1	dop-3	npr-22	lury-1	ENTREZID:286789
+regulation_of_mRNA_processing_(GO:0050684)	fog-1	ain-2	gld-2	mec-8	fog-3	smg-8	smg-9	skn-1	emb-4	alg-1	ain-1	ssup-72	mir-35
+regulation_of_mRNA_stability_(GO:0043488)	gld-2	mec-8	smg-8	smg-9	dcap-1	dcap-2	cebp-1
+regulation_of_male_mating_behavior_(GO:1902435)	egl-2	slo-1	daf-12	seb-3	cwp-5	unc-55	ENTREZID:268068
+regulation_of_meiosis_I_(GO:0060631)	fncm-1	capg-1	gei-17	lin-41	lem-3	spr-5	dpy-27	dpy-28	klp-19	wapl-1	oma-1	dpy-26	let-99	fcd-2	oma-2	scc-3	smcl-1
+regulation_of_meiotic_cell_cycle_(GO:0051445)	capg-1	ubr-5	lin-41	daf-16	gsk-3	ubxn-3	dpl-1	set-2	lin-12	glp-1	cul-2	wapl-1	oma-1	oma-2	scc-3
+regulation_of_membrane_potential_(GO:0042391)	tom-1	unc-13	ncs-2	fust-1	cdc-42	grk-2	nca-2	dat-1	gdi-1	unc-18	clhm-1	dop-3	ENTREZID:286789
+regulation_of_mesodermal_cell_fate_specification_(GO:0042661)	let-381	fozi-1	skn-1	unc-62	ceh-34	tbx-35	pop-1	mls-2	ceh-20
+regulation_of_microtubule_motor_activity_(GO:2000574)	src-1	unc-40	cwn-1	nud-1	osm-3	zen-4	klp-11	dnc-1	unc-83	par-1	ptrn-1	klp-20	ENTREZID:286789
+regulation_of_mitochondrial_transcription_(GO:1903108)	phb-1	cep-1	klf-1	atf-7	ceh-23	tald-1	pmk-3	fmo-2	aak-2	klf-3	ENTREZID:286789	hlh-30
+regulation_of_mitotic_cell_cycle_(GO:0007346)	swsn-2.2	capg-1	gld-1	ubxn-3	vrk-1	fzr-1	top-2	glp-1	ham-3	cul-2	wapl-1	sas-5	scc-3	hda-1	cyb-3	par-4
+regulation_of_mitotic_cell_cycle,_embryonic_(GO:0009794)	swsn-2.2	bub-1	puf-8	fzr-1	npp-3	pal-1	ham-3	ndc-80	sas-5	cyb-3
+regulation_of_mitotic_nuclear_division_(GO:0007088)	swsn-2.2	capg-1	gld-1	sys-1	ubxn-3	vrk-1	fzr-1	top-2	glp-1	cdk-1	ham-3	cul-2	wapl-1	sas-5	scc-3	cyb-3	ENTREZID:286789
+regulation_of_motor_neuron_axon_guidance_(GO:1905812)	lin-17	unc-73	unc-14	cam-1	enu-3.1	dpy-18	unc-5	rack-1	rpm-1	unc-51	vang-1	sax-3	unc-40	ENTREZID:286789
+regulation_of_multicellular_organism_growth_(GO:0040014)	rpl-43	xbp-1	pnc-1	atfs-1	ppk-3	ENTREZID:286789
+regulation_of_muscle_contraction_(GO:0006937)	emr-1	let-502	unc-87	rhgf-2	cpna-1	lem-2	ina-1	ric-3	egl-2	sup-37	slo-1	dgn-1	ENTREZID:286789
+regulation_of_necrotic_cell_death_(GO:0010939)	sacy-1	dys-1	zyx-1	pnc-1	srp-6	dyc-1
+regulation_of_nematode_larval_development_(GO:0061062)	vgln-1	mpk-1	dcap-1	nhr-8	dcap-2	acn-1	daf-12	let-7	ENTREZID:286789	rict-1
+regulation_of_nematode_larval_development,_heterochronic_(GO:0090444)	lin-28	sea-2	lin-29	dcap-1	dcap-2	acn-1	daf-12	sel-7	mab-10	let-7	ENTREZID:286789	lin-42
+regulation_of_neuroblast_migration_(GO:0061853)	src-1	mes-3	unc-40	mab-3	ptp-3	mes-2	ina-1	mes-6	egl-20	bar-1	mig-2	mig-21	lin-32	mab-5
+regulation_of_neurogenesis_(GO:0050767)	lin-17	hlh-2	cdk-8	ire-1	hlh-3	cam-1	unc-116	jmjd-1.2	unc-62	vang-1	unc-3	dma-1	unc-55	rab-10
+regulation_of_neuromuscular_synaptic_transmission_(GO:1900073)	rab-3	casy-1	rep-1	fsn-1	chc-1	unc-50	skn-1	wsp-1	slo-1	acr-12	sphk-1	cpx-1	ENTREZID:286789
+regulation_of_neuron_apoptotic_process_(GO:0043523)	nhr-69	eya-1	efl-3	lin-39	ced-7	ced-3	ceh-34	nrf-5	egl-1	unc-3	sptf-3	daf-28
+regulation_of_neuron_death_(GO:1901214)	clh-1	dapk-1	sydn-1	sptf-3	pinn-1	tsp-17
+regulation_of_neuron_differentiation_(GO:0045664)	lin-17	hlh-2	cdk-8	ire-1	hlh-3	cam-1	jmjd-1.2	erg-28	slo-1	vang-1	ENTREZID:286789
+regulation_of_neuron_migration_(GO:2001222)	anc-1	mom-5	dlk-1	zfp-1	ced-10	jmjd-1.2	unc-5	unc-30	rpm-1	max-1	coel-1	pak-1	pkc-2	ceh-36	lin-32	ENTREZID:286789	rin-1
+regulation_of_neuron_projection_development_(GO:0010975)	ppk-1	unc-40	kal-1	vab-1	dsh-1	daf-2	prkl-1	hif-1	vang-1	mls-2	vab-3	dgn-1	unc-3	mnm-2	hlh-17	hst-3.1	ENTREZID:286789	hst-3.2
+regulation_of_neuron_remodeling_(GO:1904799)	ncs-2	daf-2	cmk-1	unc-8	vhl-1	ssup-72	elc-2	rict-1	ENTREZID:286789
+regulation_of_neurotransmitter_levels_(GO:0001505)	adr-1	daf-16	amx-2	grk-2	glr-1	cmk-1	aak-2	oig-1	hlh-17
+regulation_of_neurotransmitter_secretion_(GO:0046928)	tom-1	cho-1	aak-2	oig-1	sphk-1
+regulation_of_nuclear_division_(GO:0051783)	san-1	capg-1	fzr-1	top-2	bub-3	wapl-1	let-99	sas-5	scc-3	fzy-1	ENTREZID:286789	lem-3
+regulation_of_nucleus_size_(GO:0097298)	zyg-1	nos-2	top-2	xnd-1	let-711	apl-1	nos-1	ENTREZID:286789
+regulation_of_oocyte_development_(GO:0060281)	lin-41	pash-1	alg-2	nos-2	mpk-1	csr-1	oma-1	cdc-25.2	oma-2	alg-1	lin-15B	elli-1	nos-1	ENTREZID:286789
+regulation_of_oocyte_maturation_(GO:1900193)	lin-41	pash-1	alg-2	vps-33.2	cacn-1	abcf-3	vps-33.1	oma-1	cdc-25.2	oma-2	alg-1	gcn-1
+regulation_of_organ_growth_(GO:0046620)	hlh-2	pmk-2	pmk-1	sup-7	mir-58.1	ENTREZID:286789
+regulation_of_oviposition_(GO:0046662)	egl-30	unc-73	unc-89	sem-4	goa-1	kcnl-2	skr-1	pdfr-1	lin-12	tax-6	sel-10	egl-17	syg-1	ets-4	ser-1	scpl-1	ENTREZID:286789
+regulation_of_ovulation_(GO:0060278)	rab-11.1	pash-1	daf-16	png-1	alg-2	jun-1	rad-23	hlh-11	tax-6	rho-1	fos-1	sup-37	alg-1	egrh-1	ENTREZID:286789
+regulation_of_oxidative_phosphorylation_(GO:0002082)	wdr-23	cep-1	skr-1	atad-3	age-1	skn-1	ucp-4	efl-1	daf-16
+regulation_of_peptide_secretion_(GO:0002791)	rab-11.1	sur-6	nhr-69	unc-101	agef-1	pkc-3	ire-1	let-23	rei-1	mtm-6	arf-3	ins-1	par-1	aak-2	sphk-1	daf-28	prdx-2	ENTREZID:286789
+regulation_of_peptide_transport_(GO:0090087)	phb-1	fpn-1.1	atf-7	dat-1	sar-1	cnnm-1	cnnm-3	sek-3	dyn-1	aak-2	ptrn-1	dapk-1	rab-28	madd-3	dlk-1	pmk-3	ENTREZID:286789
+regulation_of_phagocytosis_(GO:0050764)	hsf-1	klf-1	tald-1	exc-9	fmo-2	hpk-1	klf-3	hlh-30	ENTREZID:286789
+regulation_of_phosphatidylinositol_3-kinase_activity_(GO:0043551)	sorf-1	egl-15	sorf-2	age-1
+regulation_of_phosphoprotein_phosphatase_activity_(GO:0043666)	unc-89	cdc-25.1	cdc-14	lin-23	nhx-2	pbo-1	tra-1	crh-1	cul-2	tax-6	gsp-1	hsp-90	pph-5	scpl-1	gmeb-1	ces-1	ssup-72	crtc-1	gsp-2	cdc-25.2	ENTREZID:286789
+regulation_of_phosphorylation_(GO:0042325)	eif-2beta	cep-1	ubxn-3	ncap-1	eif-2A	grk-2	daf-2	atf-7	nca-2	cul-2	apa-2	mbk-1	dop-3	ENTREZID:286789	lem-3
+regulation_of_potassium_ion_transport_(GO:0043266)	abts-1	kcc-2	egl-19	slo-1	unc-2	slo-2
+regulation_of_programmed_cell_death_(GO:0043067)	ubr-1	cpb-3	cep-1	lin-28	set-2	ced-3	ENTREZID:286789
+regulation_of_proteasomal_protein_catabolic_process_(GO:0061136)	wdr-23	vab-1	zyg-1	lin-23	cul-4	daf-2	C18H2.2	rfp-1	mrg-1	skn-1	ddb-1	ced-3	sel-10	aip-1	atx-3	vhl-1	mev-1	hif-1
+regulation_of_protein_autophosphorylation_(GO:0031952)	egg-4	egg-5	ire-1	cdk-1	mbk-2	ENTREZID:286789
+regulation_of_protein_binding_(GO:0043393)	fncm-1	capg-1	spr-5	wapl-1	lin-45	fcd-2	scc-3	max-1	ksr-1
+regulation_of_protein_export_from_nucleus_(GO:0046825)	pop-1	apr-1	sys-1	pry-1	cdc-14	tcer-1	puf-8	age-1	daf-2	wrm-1	zfp-1	lit-1	asm-3	hsp-16.2	atfs-1	trx-1	ocr-2	ENTREZID:286789
+regulation_of_protein_localization_(GO:0032880)	daf-2	let-99	cebp-1	mbk-1	lem-3
+regulation_of_protein_localization_to_basolateral_plasma_membrane_(GO:1904508)	erm-1	unc-101	agef-1	nhx-2	pbo-1	par-3	arf-3	eps-8	crp-1	ENTREZID:286789	let-23
+regulation_of_protein_localization_to_cell_cortex_(GO:1904776)	gpa-16	chdp-1	apr-1	rab-5	mom-5	cdc-42	par-2	par-3	ced-10	let-99	rho-1	par-1	tcc-1	bar-1	dyn-1	dsh-2	ric-8
+regulation_of_protein_localization_to_cell_surface_(GO:2000008)	gpa-16	stam-1	chdp-1	unc-14	lov-1	npp-19	par-3	lin-12	dat-1	ric-8	ced-10	unc-5	hgrs-1	pkd-2	unc-51	ced-9
+regulation_of_protein_localization_to_centrosome_(GO:1904779)	arx-7	sys-1	tac-1	ric-8	tank-1	ENTREZID:286789
+regulation_of_protein_localization_to_chromatin_(GO:1905634)	lin-56	npp-19	zfp-1	plp-1	lin-3	tank-1	hsp-16.2	dpy-30	end-1	lin-15A	him-5	lem-3	ENTREZID:286789
+regulation_of_protein_localization_to_nucleus_(GO:1900180)	pop-1	apr-1	sys-1	daf-16	pry-1	plk-1	hlh-30	efl-1	lin-18	trx-1	dapk-1	sydn-1	pinn-1	lem-3	ENTREZID:286789
+regulation_of_protein_localization_to_synapse_(GO:1902473)	lrk-1	uev-1	pde-4	dat-1	unc-16	cmk-1	hsp-1	unc-23	unc-41	sphk-1	ENTREZID:286789	glr-1
+regulation_of_protein_phosphorylation_(GO:0001932)	eif-2beta	cep-1	amx-2	ubxn-3	ncap-1	eif-2A	daf-2	atf-7	nca-2	cul-2	apa-2	mbk-1	dop-3	ENTREZID:286789	lem-3	grk-2
+regulation_of_protein_secretion_(GO:0050708)	rab-11.1	ire-1	rei-1	ins-1	let-653	oig-1	prdx-2	ENTREZID:286789
+regulation_of_protein_stability_(GO:0031647)	sep-1	gld-2	san-1	wdr-23	mec-8	ccm-3	bub-3	set-2	gck-1	cebp-1	fzy-1	ENTREZID:286789
+regulation_of_protein_transport_(GO:0051223)	tom-1	unc-13	ncap-1	casy-1	sma-6	sma-10	max-1	unc-18	apa-2	pkc-2	dyn-1	ENTREZID:286789
+regulation_of_proteolysis_(GO:0030162)	mex-3	ubr-1	oaz-1	lin-28	sys-1	ced-3	ENTREZID:286789	blmp-1	dre-1
+regulation_of_reactive_oxygen_species_biosynthetic_process_(GO:1903426)	kin-10	daf-16	gcy-35	atf-7	hlh-30	tald-1	fmo-2
+regulation_of_reactive_oxygen_species_metabolic_process_(GO:2000377)	kin-10	daf-16	gcy-35	atf-7	hlh-30	tald-1	fmo-2
+regulation_of_receptor_biosynthetic_process_(GO:0010869)	lin-17	hsf-1	cam-1	max-1	vang-1	hpk-1	rict-1
+regulation_of_receptor_localization_to_synapse_(GO:1902683)	uev-1	cmk-1	sphk-1	glr-1
+regulation_of_receptor-mediated_endocytosis_(GO:0048259)	ENTREZID:13222483	let-23	chc-1	rab-35	cdt-2	apl-1
+regulation_of_reproductive_process_(GO:2000241)	lin-41	pash-1	daf-16	alg-2	set-2	alg-1	unc-3	ENTREZID:286789
+regulation_of_response_to_endoplasmic_reticulum_stress_(GO:1905897)	cdc-48.1	rpl-43	skn-1	crt-1	atfs-1	pek-1	ENTREZID:286789	ire-1	xbp-1
+regulation_of_response_to_oxidative_stress_(GO:1902882)	cep-1	daf-16	prmt-5	hlh-30	tald-1	skn-1	fmo-2	prmt-1
+regulation_of_response_to_reactive_oxygen_species_(GO:1901031)	cps-6	wdr-23	skr-1	daf-16	hlh-30	tald-1	skn-1	fmo-2
+regulation_of_secretion_(GO:0051046)	rab-11.1	ire-1	rei-1	let-653	oig-1	ENTREZID:286789
+regulation_of_sodium_ion_transport_(GO:0002028)	nhx-2	mec-2	slo-2	ENTREZID:286789
+regulation_of_spindle_assembly_(GO:0090169)	san-1	gei-17	lin-41	bub-3	klp-19	oma-1	oma-2	mdf-1	fzy-1	ENTREZID:286789
+regulation_of_striated_muscle_cell_differentiation_(GO:0051153)	sem-2	unc-40	unc-120	eya-1	fozi-1	ceh-34	egl-15	hnd-1	ENTREZID:286789	hlh-1
+regulation_of_striated_muscle_contraction_(GO:0006942)	emr-1	unc-87	cpna-1	lem-2	ina-1	ceh-28
+regulation_of_synapse_assembly_(GO:0051963)	nab-1	unc-13	skr-1	tba-1	syd-1	elks-1	arl-8	sel-10	syg-1	unc-10	unc-18	nlg-1	unc-3	vps-50	clec-38	ceh-28	tom-1	syd-2
+regulation_of_synapse_organization_(GO:0050807)	rab-5	zyx-1	rabx-5	rpm-1	sad-1	nlg-1	clec-38
+regulation_of_synaptic_plasticity_(GO:0048167)	ncs-2	daf-2	unc-8	pkc-2	vhl-1	ssup-72	elc-2	rict-1	ENTREZID:286789
+regulation_of_synaptic_transmission,_GABAergic_(GO:0032228)	rab-5	casy-1	exc-7	rabx-5	acr-12	unc-75
+regulation_of_synaptic_vesicle_exocytosis_(GO:2000300)	unc-13	ENTREZID:286789	unc-18	cpx-1	tom-1
+regulation_of_transcription_by_RNA_polymerase_II_(GO:0006357)	dot-1.1	sig-7	cdk-8	rpb-2	zfp-1	hsp-16.2	pha-4	ssup-72	csr-1
+regulation_of_transcription_by_glucose_(GO:0046015)	nhr-49	nhr-69	daf-16	aqp-1	scp-1	pha-4	aak-2	daf-28	mdt-15
+regulation_of_transcription_regulatory_region_DNA_binding_(GO:2000677)	hlh-1	mab-3	hsp-12.2	skn-1	hsp-90	fkh-9	vit-2	nlg-1	ENTREZID:286789	daf-16	elt-2
+regulation_of_transforming_growth_factor_beta_receptor_signaling_pathway_(GO:0017015)	nhr-69	mut-16	daf-16	sma-10	cmk-1	csr-1	daf-12	exp-1	daf-28	sma-6	dbl-1	daf-7	ENTREZID:286789
+regulation_of_translation_(GO:0006417)	fncm-1	gsk-3	spr-5	ins-11	dpl-1	fcd-2	max-1
+regulation_of_translational_initiation_(GO:0006446)	eif-2alpha	oaz-1	eif-2beta	lin-41	pab-1	eif-2A	abcf-3	oma-1	oma-2	pab-2	octr-1	gcn-1	ENTREZID:286789
+regulation_of_ubiquitin-protein_transferase_activity_(GO:0051438)	mom-5	dlk-1	let-23	cam-1	plr-1	rpm-1	cdt-2	lin-18
+regulation_of_voltage-gated_calcium_channel_activity_(GO:1901385)	grk-2	nca-2	unc-8	slo-2	dop-3	ENTREZID:286789
+regulation_of_vulval_development_(GO:0040028)	swsn-2.2	lin-41	unc-101	agef-1	cdc-42	let-23	ham-3	lin-1	arf-3	lin-3	let-653	gdi-1	let-418	let-7	ENTREZID:286789
+resolution_of_meiotic_recombination_intermediates_(GO:0000712)	mus-81	lem-3	rtel-1	helq-1	rad-51	jmjd-5	rfs-1	ENTREZID:286789
+resolution_of_recombination_intermediates_(GO:0071139)	mus-81	lem-3	rtel-1	helq-1	rad-51	jmjd-5	rfs-1	ENTREZID:286789
+response_to_X-ray_(GO:0010165)	cps-6	dog-1	pch-2	fic-1	ENTREZID:286789
+response_to_alkaloid_(GO:0043279)	ENTREZID:13182525	hsf-1	dlk-1	vab-1	wrn-1	npr-17	nhr-8	let-99	hsp-16.48	rhgf-1
+response_to_amino_acid_(GO:0043200)	calu-1	atf-5	npr-22	lury-1	ENTREZID:286789
+response_to_anoxia_(GO:0034059)	spg-7	manf-1	dct-17	hif-1	ENTREZID:286789	glb-5
+response_to_axon_injury_(GO:0048678)	goa-1	rtcb-1	ENTREZID:286789	dlk-1
+response_to_cAMP_(GO:0051591)	lid-1	daf-16	dlk-1	tfg-1	daf-19	daf-2	ced-4	prmt-5	atgl-1	ins-1	dop-3	crh-1
+response_to_calcium_ion_(GO:0051592)	shn-1	hmg-1.2	crh-1	egl-19	crt-1	hsp-16.1	glit-1	lite-1	gur-3	ocr-2	ENTREZID:286789
+response_to_caloric_restriction_(GO:0061771)	wwp-1	let-363	nhr-62	daf-7	klf-1	baf-1	nhr-8	ins-1	atg-18	daf-9
+response_to_cold_(GO:0009409)	pinn-4	pkc-2	pinn-1	mir-83	mir-34	ENTREZID:286789	daf-2
+response_to_cytokine_(GO:0034097)	blmp-1	din-1	lin-40	par-4	daf-12	vhl-1	sams-1	dmsr-1	daf-28	pmk-1	elc-2	ENTREZID:286789	daf-7
+response_to_endoplasmic_reticulum_stress_(GO:0034976)	manf-1	pek-1	atf-5	mev-1	ENTREZID:286789	xbp-1	skn-1	ire-1
+response_to_ethanol_(GO:0045471)	hsf-1	hsp-16.48	erg-28	eat-6	slo-1
+response_to_exogenous_dsRNA_(GO:0043330)	eri-6	rde-2	rsd-6	mut-7	rsd-2	rde-12	ENTREZID:286789
+response_to_gamma_radiation_(GO:0010332)	wrn-1	ztf-8	parg-1	cpr-4	hsr-9	atm-1	ENTREZID:286789
+response_to_hormone_(GO:0009725)	daf-16	hsf-1	ins-11	daf-7	jnk-1	hpk-1	dyn-1	npr-22	lury-1	daf-28	kgb-2	ENTREZID:286789
+response_to_hydrogen_peroxide_(GO:0042542)	prdx-3	hlh-30	tald-1	fmo-2	crt-1	glit-1	lite-1	gur-3
+response_to_hypoxia_(GO:0001666)	spg-7	glr-1	manf-1	pmk-3	hif-1	ENTREZID:286789	glb-5
+response_to_ionizing_radiation_(GO:0010212)	san-1	cep-1	daf-16	pch-2	bub-3	cpr-4	akt-1	fzy-1	let-7	ENTREZID:286789
+response_to_lead_ion_(GO:0010288)	lgg-1	osm-9	bec-1	unc-51	ocr-2
+response_to_metal_ion_(GO:0010038)	shn-1	hmg-1.2	crh-1	egl-19	crt-1	hsp-16.1	glit-1	lite-1	gur-3	hlh-29
+response_to_methionine_(GO:1904640)	blmp-1	daf-16	daf-7	mdt-15	lin-40	sams-1	msra-1	ENTREZID:286789
+response_to_misfolded_protein_(GO:0051788)	nuo-6	cox-5B	daf-16	ire-1	tdp-1	cdc-48.1	mfn-1	daf-7	mdt-15	hpl-2	dct-17	daf-28
+response_to_odorant_(GO:1990834)	daf-16	prmt-5	vdac-1	cng-1	dop-3	ENTREZID:286789
+response_to_oxygen_levels_(GO:0070482)	cep-1	brap-2	skn-1	hif-1	elt-3	ENTREZID:286789
+response_to_paraquat_(GO:1901562)	daf-16	egl-27	crt-1	glit-1	aak-2	hif-1
+response_to_pheromone_(GO:0019236)	blmp-1	hsf-1	daf-7	lin-40	sams-1	rict-1
+response_to_radiation_(GO:0009314)	san-1	cep-1	bub-3	cpr-4	fzy-1
+response_to_starvation_(GO:0042594)	nhr-49	daf-16	daf-2	hlh-30	tald-1	skn-1	fmo-2	dct-17	pha-4	ENTREZID:286789
+response_to_toxic_substance_(GO:0009636)	hsp-4	cysl-2	ethe-1	qui-1	sqrd-1	gpa-3	odr-3	hif-1	cysl-1	ENTREZID:268160
+response_to_tunicamycin_(GO:1904576)	lrk-1	pink-1	hsp-4	ire-1	cdc-48.1	xbp-1	crt-1	apy-1	pek-1
+response_to_wounding_(GO:0009611)	fasn-1	daf-16	nlp-29	dapk-1	dcar-1
+retrograde_axonal_transport_(GO:0008090)	dlk-1	ptl-1	dnc-1	syd-2	unc-104
+retrograde_transport,_endosome_to_Golgi_(GO:0042147)	vps-51	rme-8	chc-1	bec-1	clic-1	bar-1	rab-6.2	ENTREZID:286789
+retrograde_transport,_endosome_to_plasma_membrane_(GO:1990126)	rme-8	chc-1	clic-1	bar-1	rab-6.2	ENTREZID:286789
+rhythmic_behavior_(GO:0007622)	nlp-40	pdf-1	dop-2	acr-12	unc-7	twk-7	ENTREZID:286789	kin-1
+ribosome_assembly_(GO:0042255)	gld-1	cep-1	eif-6	skn-1	wdr-46	msp-51
+ribosome_biogenesis_(GO:0042254)	cep-1	daf-16	tcer-1	ncl-1	nog-1	fib-1	dao-5	let-7
+sarcomere_organization_(GO:0045214)	emr-1	unc-89	unc-15	fer-1	pfn-1	lem-2	unc-45	tmd-2	unc-98	cas-1	ENTREZID:286789
+sensory_neuron_axon_guidance_(GO:0097374)	lin-44	dsh-1	vps-35	unc-52	nid-1	mls-2	unc-6	unc-115	vab-3	lin-14	hlh-17	unc-34
+sensory_neuron_migration_(GO:1904937)	mig-5	tbx-2	egl-5	skn-1	ham-1	unc-6	pkc-2	ENTREZID:286789	srb-13
+sensory_organ_development_(GO:0007423)	sin-3	snf-5	pros-1	vab-3	alr-1	unc-3	ENTREZID:286789
+sensory_perception_of_bitter_taste_(GO:0050913)	osm-9	qui-1	gpa-3	odr-3	ocr-2
+sensory_perception_of_taste_(GO:0050909)	ptb-1	age-1	daf-2	vdac-1	gur-3	tmc-1	ENTREZID:286789	lite-1
+serine_family_amino_acid_metabolic_process_(GO:0009069)	zyg-1	ire-1	fut-1	ooc-5	skn-1	srp-2	srp-3	cgr-1
+serotonin_biosynthetic_process_(GO:0042427)	hsf-1	amx-2	tph-1	grk-2	daf-7	gpa-3	flp-11	cca-1	vhl-1	nlp-7	elc-2
+serotonin_biosynthetic_process_from_tryptophan_(GO:0006587)	goa-1	daf-19	unc-43	fmo-2	hif-1	daf-6	aak-2	egl-30	tph-1	daf-7
+serotonin_catabolic_process_(GO:0042429)	hsf-1	amx-2	tph-1	grk-2	daf-7	gpa-3	flp-11	cca-1	vhl-1	nlp-7	elc-2
+serotonin_receptor_signaling_pathway_(GO:0007210)	amx-2	grk-2	fmo-2	gpa-3	lin-18	hlh-17	hif-1
+short-term_memory_(GO:0007614)	nmr-1	eat-2	daf-2	glr-1	pxn-2	pxn-1	crh-1
+signal_transduction_(GO:0007165)	lem-3	gsk-3	cdc-42	dpl-1	lin-45	act-1	endu-2	ksr-1	sid-3	clr-1
+signal_transduction_by_protein_phosphorylation_(GO:0023014)	cpb-3	gld-1	cep-1	lem-3	amx-2	dep-1	mtcu-2	pat-3	atf-7	nca-2	mttu-1	cebp-1	nipi-3	dop-3	ENTREZID:286789	mtcu-1	grk-2
+signal_transduction_in_response_to_DNA_damage_(GO:0042770)	egl-27	ire-1	jmjd-1.1	prmt-5	skn-1	dop-3	daf-16
+signal_transduction_involved_in_regulation_of_gene_expression_(GO:0023019)	wdr-23	mec-8	lem-3	par-6	vab-1	cdc-42	exc-7	asd-1	par-3	fox-1	mir-60	cebp-1	nipi-3
+single_fertilization_(GO:0007338)	dpl-1	unc-116	unc-83	spe-47	plep-1	ENTREZID:286789
+single_strand_break_repair_(GO:0000012)	mrt-1	rtel-1	helq-1	polq-1	ENTREZID:286789	ENTREZID:3565472
+sister_chromatid_cohesion_(GO:0007062)	hcp-4	htp-3	air-2	capg-1	cdk-11.1	smc-3	cyl-1	scc-3	cdk-11.2	lab-1	hcp-6	ENTREZID:286789	gsp-2	wapl-1	coh-4	coh-3
+sister_chromatid_segregation_(GO:0000819)	spd-1	htp-3	capg-1	top-2	cls-1	ran-1	smc-3	wapl-1	scc-3	bmk-1	ENTREZID:286789
+skeletal_muscle_contraction_(GO:0003009)	unc-89	vps-25	vps-22	pxl-1	vps-36	hid-1	cah-4
+skin_epidermis_development_(GO:0098773)	unc-73	lin-44	crml-1	rab-5	par-6	vab-1	ins-11	eff-1	aptf-4	par-3	trd-1	lin-22	ced-10	soap-1	act-1	mig-2	dyn-1	ptrn-1	sid-3	pax-3	sydn-1	aptf-2	pinn-1	cdc-42	dapk-1	ENTREZID:286789
+small_GTPase_mediated_signal_transduction_(GO:0007264)	rab-5	ced-1	tub-1	ccm-3	rab-7	rbg-3	mib-1	eri-1	dop-2	vps-45	cgr-1	lin-18	dapk-1	srbc-66	srbc-64	rab-10	max-2	cdc-42	pat-2	dop-3
+snRNA_modification_(GO:0040031)	morc-1	htz-1	mys-1	ceh-22	hda-1	ENTREZID:286789
+snRNA_processing_(GO:0016180)	glh-1	cep-1	hrde-1	dcr-1	skn-1	csr-1	wdr-46	alg-1	let-7	emb-4
+sodium_ion_transport_(GO:0006814)	unc-40	nhx-2	lin-12	madd-2	apx-1	lgc-55	mec-2	deg-1	slo-2	mec-4	acd-1	ENTREZID:286789
+somatic_muscle_development_(GO:0007525)	mex-3	emr-1	phb-1	glh-1	gld-1	puf-8	lem-2	zmp-2	pal-1	unc-119	pgl-1	sup-37	ENTREZID:286789
+sperm_entry_(GO:0035037)	mex-3	cpb-3	gld-2	daz-1	puf-8	egg-3	glp-1	fln-1	pam-1	plc-1	memi-1
+spermatogenesis_(GO:0007283)	cpb-3	cdk-11.1	cyb-1	cyl-1	cdk-11.2
+sphingomyelin_biosynthetic_process_(GO:0006686)	age-1	daf-2	cpl-1	hyl-2	ccz-1	ENTREZID:286789	asm-3
+sphingomyelin_catabolic_process_(GO:0006685)	age-1	daf-2	cpl-1	hyl-2	ccz-1	ENTREZID:286789	asm-3
+spicule_insertion_(GO:0034609)	egl-30	lov-1	unc-103	flp-10	dop-2	gar-3	flp-12	flp-20	flp-8	unc-7	cil-1	ENTREZID:286789
+spindle_assembly_(GO:0051225)	spd-1	klp-15	san-1	gei-17	lin-41	klp-16	cdk-11.1	zyg-11	bub-3	klp-19	klp-18	oma-1	oma-2	cyl-1	cdk-11.2	ska-1	fzy-1	ENTREZID:286789
+spindle_elongation_(GO:0051231)	gpa-16	spd-1	src-1	goa-1	zyg-9	tac-1	par-3	cyk-4	zen-4	ndc-80	efa-6	mes-1	let-99	bmk-1
+spindle_localization_(GO:0051653)	pch-2	bub-3	plk-1	cyk-4	par-5	air-1	par-1	bub-1	let-99	ENTREZID:286789
+spindle_organization_(GO:0007051)	spd-1	sep-1	klp-15	mei-2	apr-1	mei-1	klp-16	chc-1	zyg-8	cyk-4	zen-4	klp-18	ENTREZID:286789
+steroid_biosynthetic_process_(GO:0006694)	ire-1	din-1	daf-2	xbp-1	skn-1	nhr-8	par-4	ENTREZID:286789	daf-16	daf-12
+steroid_metabolic_process_(GO:0008202)	ire-1	din-1	daf-2	xbp-1	skn-1	nhr-8	par-4	ENTREZID:286789	daf-16	daf-12
+sterol_biosynthetic_process_(GO:0016126)	lpr-1	daf-16	ire-1	daf-2	xbp-1	crh-1	skn-1	sur-7	ENTREZID:286789
+sterol_metabolic_process_(GO:0016125)	lpr-1	daf-16	ire-1	daf-2	xbp-1	crh-1	skn-1	sur-7	ENTREZID:286789
+sterol_transport_(GO:0015918)	lpr-1	ptc-3	tbc-2	nhr-8	nap-1	mec-2	hsd-1	rab-10	ENTREZID:286789
+striated_muscle_cell_development_(GO:0055002)	vpr-1	smn-1	daf-16	cpna-1	unc-45	nfm-1	ina-1	ceh-19	gtl-2
+striated_muscle_cell_differentiation_(GO:0051146)	sem-2	unc-40	unc-120	spd-2	eya-1	hlh-1	nfm-1	fozi-1	cdk-1	ceh-19	ceh-34	egl-15	hnd-1	ENTREZID:286789
+succinate_metabolic_process_(GO:0006105)	ire-1	xbp-1	mdt-15	sir-2.1	fat-1	ucp-4	daf-12	pek-1	gas-1	mev-1
+succinate_transport_(GO:0015744)	frh-1	fat-1	ucp-4	gas-1	mev-1
+sucrose_biosynthetic_process_(GO:0005986)	unc-13	scp-1	mdt-15	unc-64	ife-4	apl-1
+sulfate_transport_(GO:0008272)	pst-2	tpst-1	mir-79	pst-1
+synapse_assembly_(GO:0007416)	met-1	tom-1	unc-13	smn-1	unc-104	ess-2	unc-16	arl-8	atg-9	rpm-1	mes-4	syg-1	unc-18	syd-2	sad-1	nlg-1	unc-3	vps-50
+synapse_organization_(GO:0050808)	dyb-1	ctn-1	madd-4	rab-5	myrf-1	zyx-1	unc-116	rabx-5	zyg-8	slo-1	syg-1	unc-2	myrf-2	nlg-1	ptrn-1
+synapsis_(GO:0007129)	capg-1	casy-1	puf-8	wapl-1	scc-3	endu-2	clr-1
+synaptic_transmission,_GABAergic_(GO:0051932)	rab-5	casy-1	exc-7	rabx-5	eel-1	sng-1	acr-12	unc-75	mir-51	ENTREZID:286789
+synaptic_transmission,_cholinergic_(GO:0007271)	uba-5	ncs-2	lgc-46	ufm-1	unc-3
+synaptic_transmission,_glutamatergic_(GO:0035249)	uba-5	sol-1	sol-2	glr-2	ufm-1	cmk-1	aak-2	glr-1
+synaptic_vesicle_docking_(GO:0016081)	ENTREZID:286789	syx-3	unc-13	unc-64	unc-31	unc-18
+synaptic_vesicle_endocytosis_(GO:0048488)	rab-5	smn-1	ehs-1	unc-104	rabx-5	atg-9	unc-41	cnb-1	dpy-23	sng-1	apa-2	ENTREZID:286789
+synaptic_vesicle_exocytosis_(GO:0016079)	tom-1	rab-5	rab-3	snt-1	mec-12	unc-43	nrx-1	dpy-23	unc-18	apa-2	nlg-1	rab-10	unc-13
+synaptic_vesicle_fusion_to_presynaptic_active_zone_membrane_(GO:0031629)	syd-1	unc-18	unc-10	syd-2
+synaptic_vesicle_localization_(GO:0097479)	unc-13	tax-2	lrk-1	rab-3	snt-1	abi-1	tax-4	cdk-5	arl-8	hsp-1	atg-9	unc-23	unc-41	ENTREZID:180903	ptrn-1	ENTREZID:286789	unc-104	mig-10
+synaptic_vesicle_maturation_(GO:0016188)	cdk-1	cdk-5	kcc-2	hid-1	vps-50	ric-19	ENTREZID:286789	unc-108
+synaptic_vesicle_priming_(GO:0016082)	rab-3	unc-31	unc-10	cpx-1	ENTREZID:286789	syx-3	tom-1	unc-18	unc-13
+synaptic_vesicle_targeting_(GO:0016080)	rab-3	mec-12	rpm-1	eat-6	unc-10
+synaptic_vesicle_transport_(GO:0048489)	tom-1	casy-1	aipr-1	cla-1	arl-8	atg-9	par-1	unc-18	pkc-2	lin-2	lin-4	ENTREZID:286789	unc-13	unc-104
+synaptonemal_complex_assembly_(GO:0007130)	air-2	mrg-1	csn-5	spd-3	coh-4	coh-3	fkb-6	lab-1	ENTREZID:286789	gsp-2
+synaptonemal_complex_disassembly_(GO:0070194)	mus-81	air-2	zhp-3	lab-1	gsp-2	ENTREZID:286789
+syncytium_formation_(GO:0006949)	unc-89	par-6	vrk-1	ani-2	par-3	cyk-4	zen-4	dyn-1	ENTREZID:286789	eff-1
+tRNA_metabolic_process_(GO:0006399)	mtcu-2	gars-1	prmt-5	hlh-30	mttu-1	prmt-1	sup-7	mtcu-1	ENTREZID:286789
+tRNA_modification_(GO:0006400)	mtcu-2	eftu-2	lin-1	mttu-1	rtcb-1	mtcu-1	ENTREZID:286789
+tRNA_seleno-modification_(GO:0070329)	mtcu-2	prmt-5	mttu-1	prmt-1	sup-7	ENTREZID:286789	mtcu-1
+telomere_maintenance_(GO:0000723)	dog-1	wrn-1	pot-2	cku-70	sir-2.1	tank-1	sun-1	ENTREZID:3565472	pot-1
+threonine_catabolic_process_(GO:0006567)	hsf-1	sma-6	sma-10	pig-1	jnk-1	hpk-1	mig-15	alg-1	ces-1	ENTREZID:286789
+tissue_morphogenesis_(GO:0048729)	cdc-42	unc-52	lin-22	act-1	hmp-1	nid-1	vhl-1	sid-3	bed-3	elc-2
+transcription_by_RNA_polymerase_II_(GO:0006366)	sig-7	mafr-1	hsf-1	rpb-2	csr-1	pha-4	ssup-72
+transcription_by_RNA_polymerase_III_(GO:0006383)	rrf-1	snpc-4	mafr-1	rrf-3	ergo-1	ENTREZID:286789
+transforming_growth_factor_beta_receptor_signaling_pathway_(GO:0007179)	mut-16	daf-16	sma-6	din-1	daf-7	sma-10	cmk-1	csr-1	dbl-1	par-4	ceh-28	daf-12
+transition_metal_ion_transport_(GO:0000041)	ttm-1	mcu-1	smf-1	cdf-2	smf-2
+translational_elongation_(GO:0006414)	erm-1	pigv-1	cpna-1	efk-1	ina-1	fic-1	parp-1	ENTREZID:286789
+translational_initiation_(GO:0006413)	oaz-1	eif-2beta	lin-41	pab-1	eif-2A	abcf-3	ife-1	oma-1	oma-2	pab-2	octr-1	gcn-1	ENTREZID:286789
+translesion_synthesis_(GO:0019985)	smc-5	smc-6	brc-1	brd-1	polk-1	fcd-2	polh-1
+transmembrane_receptor_protein_tyrosine_kinase_signaling_pathway_(GO:0007169)	lin-17	cdk-8	daf-16	sur-2	dep-1	cam-1	pat-3	lin-12	lin-1	vang-1	ddr-2	svh-2	rig-3	mbk-1	shc-1	daf-2
+transmembrane_transport_(GO:0055085)	haf-4	mod-5	ncap-1	casy-1	sma-6	sma-10	atg-9	apa-2	rab-10	ENTREZID:286789	madd-3
+transmission_of_nerve_impulse_(GO:0019226)	mec-8	casy-1	aipr-1	exc-7	asd-1	fox-1	mir-51	clr-1
+tricarboxylic_acid_cycle_(GO:0006099)	daf-16	agxt-1	mtcu-2	daf-2	mttu-1	atfs-1	ENTREZID:286789	mtcu-1
+tricarboxylic_acid_metabolic_process_(GO:0072350)	agxt-1	mtcu-2	mttu-1	ENTREZID:286789	mtcu-1
+triglyceride_biosynthetic_process_(GO:0019432)	daf-16	tcer-1	acs-4	unc-43	ENTREZID:286789
+triglyceride_catabolic_process_(GO:0019433)	daf-16	tcer-1	acs-4	unc-43	ENTREZID:286789
+triglyceride_homeostasis_(GO:0070328)	lid-1	daf-16	tcer-1	atgl-1	acs-4	unc-43	fat-1	aak-2	ENTREZID:286789	daf-2	klf-3
+triglyceride_metabolic_process_(GO:0006641)	daf-16	tcer-1	acs-4	unc-43	ENTREZID:286789
+tryptophan_catabolic_process_(GO:0006569)	tdo-2	umps-1	fmo-2	hif-1	lite-1	sup-7	tph-1	daf-7
+tube_development_(GO:0035295)	lpr-1	let-653	sma-5	mig-39	ccm-3
+tube_formation_(GO:0035148)	cdc-42	let-653	mrck-1	lpr-3	sma-5	mig-39	lpr-1	ccm-3
+tubulin_complex_assembly_(GO:0007021)	tbg-1	zen-4	air-1	ptrn-1	ska-1	ENTREZID:286789	noca-1	zyg-9	tac-1
+tyrosine_biosynthetic_process_(GO:0006571)	lin-17	dhc-1	vpr-1	smn-1	cdc-42	cam-1	daf-2	dnc-1	sta-1	act-1	vang-1	rig-3	mbk-1	sid-3	npr-22	lury-1	ENTREZID:286789	clr-1
+tyrosine_catabolic_process_(GO:0006572)	lin-17	dhc-1	vpr-1	smn-1	cdc-42	cam-1	daf-2	dnc-1	sta-1	act-1	vang-1	rig-3	mbk-1	sid-3	npr-22	lury-1	ENTREZID:286789	clr-1
+tyrosine_metabolic_process_(GO:0006570)	lin-17	dhc-1	vpr-1	smn-1	cdc-42	cam-1	daf-2	dnc-1	sta-1	act-1	vang-1	rig-3	mbk-1	sid-3	npr-22	lury-1	ENTREZID:286789	clr-1
+ubiquinone_biosynthetic_process_(GO:0006744)	clk-1	coq-3	nuaf-1	nuaf-3	ND1	ENTREZID:286789
+ubiquitin_recycling_(GO:0010992)	unc-108	uev-1	pmk-3	rpm-1	glr-1
+ubiquitin-dependent_protein_catabolic_process_(GO:0006511)	mei-1	ubxn-3	cdc-48.2	cdc-48.1	figl-1	mel-26	cul-3
+ultradian_rhythm_(GO:0007624)	elo-2	dcs-1	flr-1	flr-4
+uracil_catabolic_process_(GO:0006212)	gld-1	ENTREZID:286789	exo-3	apn-1	ung-1
+uracil_metabolic_process_(GO:0019860)	gld-1	ENTREZID:286789	exo-3	apn-1	ung-1
+uridine_biosynthetic_process_(GO:0046109)	hsf-1	mtcu-2	umps-1	mttu-1	dct-17	mir-79	ENTREZID:286789	mtcu-1
+uridine_catabolic_process_(GO:0006218)	hsf-1	mtcu-2	umps-1	mttu-1	dct-17	mir-79	ENTREZID:286789	mtcu-1
+uridine_metabolic_process_(GO:0046108)	hsf-1	mtcu-2	umps-1	mttu-1	dct-17	mir-79	ENTREZID:286789	mtcu-1
+uterus_development_(GO:0060065)	riok-1	daf-16	vrk-1	lin-12	fln-1	lag-1	hda-1	mdl-1	plc-1	ENTREZID:286789
+uterus_morphogenesis_(GO:0061038)	riok-1	unc-37	egl-26	vrk-1	spv-1	lag-1	nhr-67	rho-1	fos-1	hda-1	egl-13	lin-14	mls-1	lin-12
+vacuolar_acidification_(GO:0007035)	daf-16	vha-6	vha-8	vha-20	vps-50	vha-11
+vacuolar_transport_(GO:0007034)	exoc-7	exoc-8	vps-32.1	vps-33.2	eff-1	vha-6	vps-33.1	rab-10	ENTREZID:286789
+valine_biosynthetic_process_(GO:0009099)	goa-1	unc-1	npr-1	clhm-1	egl-47	npr-6	ENTREZID:286789
+valine_catabolic_process_(GO:0006574)	goa-1	unc-1	npr-1	clhm-1	egl-47	npr-6	ENTREZID:286789
+valine_metabolic_process_(GO:0006573)	goa-1	unc-1	npr-1	clhm-1	egl-47	npr-6	ENTREZID:286789
+ventral_cord_development_(GO:0007419)	lin-17	rab-3	cam-1	daf-7	sup-26	dpy-18	aex-3	vang-1	oig-1	ENTREZID:286789
+very_long-chain_fatty_acid_biosynthetic_process_(GO:0042761)	ndg-4	tmem-135	pept-1	nhr-25	ENTREZID:286789
+very_long-chain_fatty_acid_metabolic_process_(GO:0000038)	ndg-4	tmem-135	pept-1	nhr-25	ENTREZID:286789
+vesicle_docking_(GO:0048278)	vps-33.2	vps-33.1	ENTREZID:286789	syx-3	unc-13	unc-64	unc-31	unc-18
+vesicle_fusion_(GO:0006906)	rab-11.1	sep-1	tom-1	vps-33.2	eff-1	exc-7	ral-1	vps-33.1	swip-10	unc-18	unc-75	unc-13
+vesicle_organization_(GO:0016050)	rab-5	rab-3	ccm-3	rabx-5	aex-3	flp-11	ptrn-1	nlp-7
+vesicle_targeting_(GO:0006903)	rab-11.1	cil-7	rab-3	mec-12	unc-10
+vulval_cell_fate_specification_(GO:0072327)	ndk-1	daf-16	glp-1	elt-6	lag-1	hda-1	pax-3	lin-26	lin-39	lin-12
+vulval_development_(GO:0040025)	cdk-8	lin-12	lin-1	let-418	bed-3	sur-2
+vulval_location_(GO:0034608)	cdc-14	lov-1	daf-19	klp-6	lin-12	flp-10	egl-46	flp-12	flp-20	flp-8	cil-1	ENTREZID:286789
+water_homeostasis_(GO:0030104)	erm-1	fasn-1	daf-16	ptc-3	aqp-2	vha-19	klo-1	nlp-29	aqp-4	hmit-1.1	hmit-1.2	vha-20	aak-2	klo-2	ENTREZID:286789	ceh-6	aqp-8
+water_transport_(GO:0006833)	erm-1	ceh-6	daf-16	ptc-3	aqp-2	dat-1	vha-19	aqp-4	hmit-1.1	hmit-1.2	aqp-8
+xenobiotic_metabolic_process_(GO:0006805)	bli-3	fpn-1.1	xrep-4	alh-6	pmk-3	mir-60	ENTREZID:286789	wdr-23	skn-1
+zygote_asymmetric_cell_division_(GO:0010070)	src-1	nmy-2	apr-1	mex-5	par-2
+zymogen_activation_(GO:0031638)	npp-14	ENTREZID:173066	csp-2	ced-4	ced-3

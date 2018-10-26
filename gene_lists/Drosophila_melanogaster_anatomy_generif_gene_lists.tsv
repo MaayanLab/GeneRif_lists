@@ -1,0 +1,91 @@
+abdomen	dsh	ds	frtz	osk	Arp1
+adipose_system	NLaz	Acer	ACC	casp	bsk
+adult	mir-1	ENTREZID:192347	G9a	sdk	Gr2a	trr	Myc	bi	Nep1	pod1	org-1	oc	drd	up	sd	mei-41	Wnt5	Nep3	shakB	Pph13	ds	NLaz	nab	Duox	Ir25a	Marcal1	Acer	elB	noc	Su(H)	CycE	Lar	Hr38	Pkn	en	Cyp6g1	Cyp301a1	AGO1	Arc1	Sod2	resilin	sano	tn	Egfr	Fmr1	bw	yki	Mmp1	zip	lov	Rap1	Acp65Aa	exex	nmo	Fhos	Galk	Doc3	Doc2	Doc1	Rbfox1	ara	mirr	Ptp69D	btl	mop	Nedd4	FRG1	Nep2	Rab23	Scr	hb	foxo	put	glob1	Fer2	gl	sqz	cry	Dl	bnl	ninaE	Pi3K92E	Nep4	Ir93a	e	hh	SPARC	spg	stg	ci	zfh2	toy	amx	Rok	Xbp1	drl	br	ct	tant	Lk	pk
+adult_circulatory_system	mir-1	G9a	trr	N	Nep1	pod1	org-1	Nep3	wg	tup	Arc1	Galk	Nedd4	Nep2	Dl	Nep4	SPARC	amx	Hand
+adult_dorsal_vessel	mir-1	G9a	trr	Nep1	org-1	Nep3	tup	Arc1	Galk	Nedd4	Nep2	Nep4	SPARC	amx	Hand
+adult_heart	mir-1	G9a	trr	Nep1	org-1	Nep3	Hand	tup	Arc1	Galk	Nedd4	Nep2	Nep4	SPARC	amx
+adult_integumentary_system	bi	up	sd	mei-41	Wnt5	shakB	ds	nab	Duox	Ir25a	Marcal1	salm	CycE	tup	Hr38	Pkn	en	Cyp301a1	resilin	tn	Egfr	bw	yki	Mmp1	zip	Rap1	Acp65Aa	nmo	Doc3	Doc2	Doc1	ara	mirr	mop	Rab23	Scr	put	sqz	cry	Pi3K92E	Ir93a	e	hh	stg	zfh2	drl	br	ct	tant	pk	dpp	wg	Dll	rn	hth	Stat92E	Ubx
+adult_muscle_system	ENTREZID:192347	N	wg	Sod2	exex	FRG1	Dl
+adult_nervous_system	sdk	dpp	wg	elB	noc	Lar	AGO1	Ptp69D	hb	hth	foxo	Fer2	ey	bsk	Lk
+adult_sense_organ	sdk	Gr2a	Myc	oc	Pph13	dpp	wg	salm	elB	noc	Su(H)	Lar	AGO1	Fmr1	Rbfox1	Ptp69D	hb	hth	gl	ninaE	toy	bsk	N	ey
+adult_tagma	sdk	bi	up	sd	mei-41	shakB	ds	nab	Ir25a	Marcal1	salm	elB	noc	CycE	tup	Lar	Pkn	en	tn	Egfr	yki	Mmp1	zip	Rap1	nmo	Doc3	Doc2	Doc1	ara	mirr	Ptp69D	mop	Scr	hb	put	sqz	Ir93a	hh	zfh2	ey	bsk	pk	Dll	rn	Stat92E	dpp	wg	hth	Ubx
+adult_tracheal_system	drd	sano	lov	Fhos	btl	glob1	bnl	e	spg	ci	Rok	Xbp1	Lk
+alimentary_canal	ENTREZID:192347	pgant4	N	ds	Tango1	Piezo	Sur	Hand	Myo31DF	salr	Crys	nub	so	KCNQ	POSH	PPO1	hpo	FoxL1	mirr	TfAP-2	PGRP-LB	sim	foxo	Lgr1	gl	Ire1	Mvl	e	InR	Atg6	crb	tnc	zfh2	Xbp1	sdt	Lk	RYa	dve
+antennal_sense_organ	oc	salm	Dscam1	hb	Eph	toy	Sema1a	ey
+blastoderm_embryo	Shmt	Hira	fog	dl	asf1	bcd	T48	tll
+chemosensory_sensory_organ	ppk25	sgg	Mad	wg	sano	TrpA1	atk	ppk19
+chorion	mir-318	mir-276a	Pxd	Cdc7	Cp36	tim	chif	pnut	wde	spn-B	spn-A	fs(1)N	fs(1)M3
+circulatory_system	mir-1	ENTREZID:192347	G9a	trr	Nep1	pod1	org-1	Nep3	aop	dpp	wg	tup	eve	Arc1	mbl	tn	Galk	Nedd4	Nep2	hb	Dl	Nep4	SPARC	CanA1	amx	N	Hand
+cleavage_stage_embryo	N	odd	eve	en	smg	I-2	Ubx	abd-A	Dl	hh	gro	Abd-B
+compartment	Graf	wg	zuc	Ca-alpha1D	Egfr	armi	hh
+compartment_boundary	kis	dpp	wg	STUB1	dve	Eph	bsk	N
+compound_sense_organ	sdk	Pph13	dpp	eya	wg	elB	noc	Lar	Rh7	Ptp69D	hb	hth	gl	ey	Inx3	bsk	ato
+cuticle	dy	tyn	m	kkv	knk
+cycle_16_embryo	mof	Hira	Sec5	Cks30A	Cdk1	fzr2	CycA	asf1	bcd	hb	E2f1	fzr
+developing_embryonic_structure	ave	vas	Mlc-c	oc	dlg1	grk	salm	cnn	BEAF-32	Khc	cnk	pav	btl	Toll-6	kug	polo	SAK	foxo	msps	Ubx	gl	bnl	mira	Fancm	E2f1	toy	aPKC	gukh
+developmental_compartment	N	bi	Inx2	Cp36	Graf	STUB1	Ca-alpha1D	ap	Egfr	hh	dpp
+digestive_system	ENTREZID:192347	pgant4	N	ds	Tango1	Piezo	Sur	Hand	Myo31DF	salr	Crys	nub	so	KCNQ	POSH	PPO1	hpo	FoxL1	mirr	TfAP-2	PGRP-LB	sim	foxo	Lgr1	gl	Ire1	Mvl	e	InR	Atg6	crb	tnc	zfh2	Xbp1	sdt	Lk	RYa	dve
+dorsal_closure_embryo	prg	dpp	step	scaf	shot	shg	Egfr	alpha-Cat	crb	Fer2LCH	shi	Fer1HCH	Mbs	bsk
+egg	mir-318	mir-276a	mir-980	ave	Pxd	png	Cdc7	Hira	dec-1	Cp36	tim	chic	Cdk1	aub	Vm32E	tam	chif	tor	Mlh1	pnut	ENTREZID:35990	wde	cnk	Egfr	Fmr1	Rbfox1	eyg	gnu	asf1	kug	osk	Arp1	spn-B	tsl	spn-A	fs(1)M3	Vm26Ab	fs(1)N
+embryo	ENTREZID:192347	ave	prg	vas	par-1	N	Mlc-c	mof	Shmt	sqh	Hira	Cp36	oc	dlg1	baz	fog	dpp	Sec5	odd	GluRIIA	GluRIIB	Su(var)205	grk	Cks30A	Cdk1	salm	step	scaf	eve	cnn	shot	BEAF-32	Khc	RhoGEF2	cnk	shg	Egfr	Fmr1	twi	fzr2	lov	FoxL1	pav	smg	I-2	CycA	btl	Toll-6	asf1	kug	polo	SAK	Nopp140	alpha-Cat	foxo	msps	abd-A	gl	Dl	bnl	mira	Pi3K92E	Fancm	E2f1	hh	crb	tnc	gro	tll	toy	Fer2LCH	fzr	shi	Fer1HCH	Abd-B	Mbs	gukh	sna	dl	en	hb	Ubx	T48	bsk	aPKC	bcd
+endocrine_cell	mir-125	N	Atg16	Piezo	CG12744	sli	robo1	Itp-r83A	Lk
+epithelium	Col4a1	wg	fra	shg	D	ey	wit
+external_sensory_organ	ac	sc	sdk	Gr2a	rst	kirre	spdo	Arp2	dpp	nompC	wg	elB	noc	Lar	kay	seq	Girdin	Arp3	klu	Ptp69D	Diap1	atk	hb	hth	Dl	WASp	ey	sns	hbs	bsk	N
+eye_disc_anterior_to_the_morphogenetic_furrow	Inx2	upd1	wg	CycE	osa	dpp
+eye_disc_posterior_to_the_morphogenetic_furrow	B-H2	B-H1	upd1	Egfr	emc	rho	Ten-m	gro	dpp	wg
+female_organism	mir-125	mir-980	mei-W68	N	lin-52	chinmo	dpp	Set1	chic	eya	Wnt6	da	aub	Cul2	Mlh1	yki	egg	Bre1	Rbfox1	Lmx1a	eyg	brm	tra	Su(var)3-3	hh	Acf	cas	kug	Pak
+female_reproductive_system	mir-125	mir-980	N	lin-52	chinmo	dpp	Set1	chic	eya	Wnt6	da	aub	Cul2	Mlh1	yki	egg	Bre1	Rbfox1	Lmx1a	eyg	brm	tra	Su(var)3-3	hh	Acf	cas	kug	Pak
+fertilized_egg	ave	png	Hira	Cdk1	tam	Mlh1	cnk	gnu	asf1
+foregut	ENTREZID:192347	so	sim	gl	e	tnc	Lk
+ganglion	Trl	N	numb	Rab4	insc	Mip
+gastrula_embryo	par-1	sqh	baz	dl	RhoGEF2	twi	Nopp140	Pi3K92E	tnc	T48	aPKC	sna
+germ_layer	ave	vnd	N	brk	sog	baz	fog	kis	ed	mid	PDZ-GEF	Btk29A	Hand	sna	dia	scaf	eve	BEAF-32	RhoGEF2	cnk	Egfr	Dll	rho	Rap1	bin	foi	PGRP-LF	Brd	zen	bcd	neur	Ras85D	Ubx	abd-A	lbe	gro	T48	Med	nej	amx	SoxN	Abd-B	zld	Mad	wg	dl	D	hh	bsk	dpp
+germarium	lin-52	dpp	Set1	eya	da	aub	Cul2	yki	egg	Bre1	eyg	brm	kug	Su(var)3-3	hh	Acf	cas	Pak
+germline_cyst	Rab5	dpp	piwi	apt	Rbfox1	Madm	Sep2	bam	Acf	AMPKalpha	Sep5	bel	Src64B
+gonadal_sheath	kirre	porin	ths	htl	CdsA	sns
+gut	ENTREZID:192347	pgant4	N	ds	Tango1	Piezo	Sur	Hand	Myo31DF	salr	Crys	nub	so	KCNQ	PPO1	FoxL1	mirr	TfAP-2	sim	foxo	Lgr1	gl	Ire1	Mvl	e	InR	crb	tnc	zfh2	Xbp1	sdt	Lk	RYa	dve
+haltere	bi	dpp	Marcal1	Mmp1	Dll	rn	hh	hth	Ubx
+head	sdk	rst	oc	shakB	dpp	Ir25a	wg	salm	elB	noc	Lar	Dscam1	Sac1	nmo	Ptp69D	hb	hth	Ir93a	Eph	toy	bsk	pk	Sema1a	ey
+hindgut	ds	Myo31DF	PPO1	FoxL1	Lgr1	crb	sdt	RYa
+imaginal_disc	Inx2	B-H2	B-H1	upd1	CycE	Egfr	Mmp1	emc	rho	CG7510	Ten-m	Ubx	osa	gro	ey	wg	dpp
+imaginal_tissue	Inx2	mei-41	B-H2	B-H1	upd1	CycE	Egfr	Mmp1	emc	rho	CG7510	Ten-m	Ubx	osa	E2f1	gro	ey	wg	dpp
+integumentary_system	bi	ovo	Trxr-1	dsh	hop	dy	up	mei-41	Wnt5	shakB	frtz	nab	Duox	tyn	Ir25a	Marcal1	salm	CycE	tup	Hr38	scaf	Pkn	en	Cyp301a1	Mdr49	resilin	tn	bw	Mmp1	zip	Rap1	Acp65Aa	nmo	Doc3	Doc2	Doc1	ara	mirr	mop	ftz-f1	Rab23	Edg84A	Scr	put	sqz	cry	Pi3K92E	Ir93a	e	stg	zfh2	ENTREZID:44217	SoxN	drl	br	ct	tant	m	fz	pk	kkv	knk	sd	ds	wg	Egfr	yki	Dll	rn	hth	hh	bsk	dpp	Stat92E	Ubx
+internal_sense_organ	Marf	Bsg	cac	dome	Hrs	Stam	trpl	Egfr	Pdf	trp	sv	N
+larva	Inx2	B-H2	B-H1	upd1	GluRIIA	GluRIIB	CycE	Egfr	Mmp1	emc	rho	CG7510	Ten-m	Ubx	osa	gro	ey	wg	dpp
+late_embryo	Cp36	GluRIIA	GluRIIB	Su(var)205	lov	FoxL1	hb	Ubx
+lateral_ectoderm	dpp	PDZ-GEF	scaf	Egfr	Rap1	D	amx	SoxN	bsk
+leg	up	en	tn	Dll	nmo	Scr	pk
+male_organism	mir-9a	p53	mei-W68	chinmo	Thor	Ance	Mlh1	Mdr49	Mdr50	Mdr65	tra	BigH1	bam
+male_reproductive_system	mir-9a	p53	chinmo	Ance	Mlh1	tra	BigH1	bam
+mechanosensory_sensory_organ	N	nompC	Cirl	egg	Girdin	Brd	atk	neur	Dl	chm
+midgut	pgant4	Tango1	Piezo	Sur	Hand	Crys	nub
+mitotic_domain	dlg1	cnn	BEAF-32	Khc	pav	Toll-6	polo	SAK	foxo	msps	mira	Fancm	E2f1	aPKC	gukh
+muscle_system	mir-9a	ENTREZID:192347	N	wg	beat-Ia	Sidpn	Sod2	exex	FRG1	Dl	up
+nervous_system	ENTREZID:192347	par-1	Trl	sdk	N	tau	chinmo	dpp	Taf10b	Taf10	GluRIIA	GluRIIB	wg	Sema1a	numb	elB	noc	beat-Ia	Sidpn	Lar	IKKepsilon	EcR	Dscam1	so	AGO1	Rab4	insc	Rx	Fmr1	seq	kcc	drpr	shep	vn	exex	Ptp69D	GlyRS	Mip	hb	hth	pros	foxo	Fer2	ETHR	InR	tll	spn-F	myo	ey	trio	Inx3	bsk	Acam	Lk
+neurogenic_region	N	sog	zld	dpp	Mad	ed	D	bcd	Med	dl
+perineurium	beat-Ia	Sidpn	so	kcc	drpr	vn	GlyRS	InR	myo	Inx3
+peritrophic_membrane	pgant4	Tango1	Sur	Hand	Crys
+pharate_adult	Zyx	Ubqn	Ptp52F	Ubi-p63E	shep	Fhos	Rpn10	e	Burs	Rpt2	toy	Rok
+photoreceptor	sdk	dpp	wg	elB	noc	Lar	nmo	Ptp69D	hb	hth	ey	bsk	pk
+posterior_ectoderm	kis	dpp	mid	Btk29A	dia	eve	RhoGEF2	rho	Ras85D	Ubx	abd-A	lbe	gro	nej	bsk	Abd-B	wg	hh
+prepupa	CSN1a	ftz-f1	Edg84A	Ubx	Burs	sens	br
+primordium	Tre1	ave	vnd	N	sqh	brk	oc	sog	baz	upd1	fog	kis	ed	mid	PDZ-GEF	Btk29A	Hand	salm	mol	dia	scaf	eve	Cp1	BEAF-32	RhoGEF2	cnk	Egfr	Dll	rho	Rap1	vn	bin	foi	dally	PGRP-LF	dlp	Brd	kni	zen	bcd	ato	neur	Ras85D	Ubx	abd-A	lbe	cnc	pnt	gro	T48	spg	Med	toy	nej	amx	SoxN	Abd-B	zld	Mad	wg	sna	dl	D	bnl	hh	bsk	dpp
+proventriculus	pgant4	N	Tango1	Sur	Hand	salr	Crys	KCNQ	mirr	TfAP-2	foxo	Ire1	Mvl	InR	zfh2	Xbp1	dve
+pupa	par-1	tau	chinmo	dpp	Taf10b	Taf10	wg	Sema1a	IKKepsilon	EcR	Dscam1	sano	Rx	seq	bw	shep	Acp65Aa	exex	Fhos	ftz-f1	Rab23	Edg84A	pros	Pi3K92E	ETHR	stg	tll	spn-F	Rok	trio	ENTREZID:44217	br	bsk	Acam	fz
+pupal_integumentary_system	bw	Acp65Aa	ftz-f1	Rab23	Edg84A	Pi3K92E	stg	ENTREZID:44217	br	fz
+pupal_nervous_system	par-1	tau	chinmo	dpp	Taf10b	Taf10	wg	Sema1a	IKKepsilon	EcR	Dscam1	Rx	seq	shep	exex	pros	ETHR	tll	spn-F	trio	Acam
+reproductive_system	mir-9a	mir-125	mir-980	p53	kirre	N	lin-52	Hira	chinmo	dpp	Set1	chic	eya	Wnt6	da	porin	aub	Ance	Cul2	Mlh1	ths	Fmr1	yki	egg	Bre1	Rbfox1	Lmx1a	eyg	brm	tra	asf1	Su(var)3-3	BigH1	htl	hh	bam	Acf	CdsA	cas	sns	kug	Pak
+retina	sdk	dpp	wg	elB	noc	Lar	Ptp69D	hb	hth	ey	bsk
+sensillum	Gr64a	Gr22e	Gr33a	Gr43a	Obp69a	Ir25a	Ir76b
+somatic_cell	flam	fs(1)Yb	shf	goe	chinmo	Lam	Wnt4	Piezo	aub	drosha	Ggamma1	wun	Mdr49	Egfr	armi	Cbl	Lmx1a	AGO2	tra	gl	hh	pasha	Zfrp8
+somatic_precursor_cell	flam	fs(1)Yb	shf	goe	Piezo	aub	drosha	Ggamma1	wun	Mdr49	Egfr	armi	Cbl	hh	pasha	Zfrp8
+syncytium	Shmt	hop	hiw	shakB	l(2)gl	cnn	Ten-m	cno	Stat92E	Pten	scrib	bsk	aPKC
+thorax	N	Myc	bi	up	sd	mei-41	ds	nab	Marcal1	Akap200	salm	CycE	tup	mib2	Pkn	en	tn	Egfr	yki	Mmp1	zip	Rap1	nmo	Doc3	Doc2	Doc1	ara	mirr	mop	Scr	put	sqz	hh	spg	zfh2	pk	dpp	wg	Dll	rn	hth	Stat92E	Ubx
+tracheal_system	mir-190	drd	tyn	esg	CG17716	Prp19	sano	Egfr	lov	Fhos	btl	serp	Hph	glob1	bnl	e	crb	spg	sima	ci	Rok	Xbp1	Lk
+trunk_ectoderm	vnd	brk	zld	kis	Mad	mid	PDZ-GEF	Btk29A	Hand	dl	dia	scaf	eve	BEAF-32	RhoGEF2	Egfr	Dll	rho	Rap1	bin	Brd	zen	neur	Ras85D	Ubx	abd-A	lbe	gro	nej	amx	SoxN	Abd-B	dpp	wg	D	hh	bsk
+unfertilized_egg	mir-980	ave	aub	Mlh1	cnk	Fmr1	Rbfox1	eyg	kug	osk	Arp1
+ventral_ectoderm	vnd	brk	zld	Mad	dl	BEAF-32	D	Brd	zen	neur
+vitelline_membrane	dec-1	Vm32E	tor	ENTREZID:35990	Egfr	tsl	fs(1)N	Vm26Ab
+wing	sd	mei-41	ds	dpp	nab	salm	CycE	tup	Pkn	Egfr	yki	Mmp1	zip	Rap1	Doc3	Doc2	Doc1	ara	mirr	mop	rn	put	Ubx	sqz	zfh2	wg	Stat92E
+wing_blade	mei-41	dpp	Pkn	Mmp1	Rap1	Doc3	Doc2	Doc1	mop	put	Ubx
+wing_hinge	sd	ds	nab	salm	CycE	tup	Egfr	yki	zip	Doc3	Doc2	Doc1	ara	mirr	rn	sqz	zfh2	wg	Stat92E
