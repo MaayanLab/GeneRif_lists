@@ -284,7 +284,6 @@ def pubmed_results_to_file(organism,terms, type_terms,ontology_file, backpropoga
 
 #pubmed_results_to_file('Drosophila melanogaster',fly_anatomy_terms,'anatomy',fly_anatomy_ont,'yes')
 #pubmed_results_to_file('Drosophila melanogaster',fly_phenotype_terms,'phenotype',fly_phenotype_ont,'yes')
-######pubmed_results_to_file('Drosophila melanogaster',fly_pathway_terms,'GO_biological_process',go_ont,'yes')
 #pubmed_results_to_file('Drosophila melanogaster',fly_biological_process_terms,'GO_biological_process',go_ont,'yes')
             
 #pubmed_results_to_file('Caenorhabditis elegans',worm_anatomy_terms,'anatomy',worm_anatomy_ont,'yes')
