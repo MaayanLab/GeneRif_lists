@@ -1,0 +1,16 @@
+anterior-posterior		par-3	glp-1	ani-1	unc-40
+midbody		sax-3	unc-40	cam-1
+digestive_tract		par-3	glp-1	lat-1	lem-3	gld-1	let-99
+reproductive_tract		nhr-114	mig-38	daf-2	unc-73	tax-6
+gonadal_primordium		cam-1	unc-40	sax-3	alg-2
+nose		aex-3	madd-4	unc-2	unc-7	unc-73
+dorsal_nerve_cord		sup-1
+cuticle		unc-52	shn-1	ajm-1	unc-51
+excretory_canal		slo-2	tax-6	hlh-11	egl-15
+excretory_duct		rga-2	ast-1	tbx-2	vab-3	mks-3
+excretory_pore		ast-1	tbx-2	mks-3	vab-3	hlh-6
+pharyngeal_lumen		lpr-3
+hook		aex-3	unc-51	unc-2	dyn-1	unc-73	slo-1	shn-1
+female		spd-2	pash-1	cep-1	lin-5	fbf-1	glp-1	let-99	sas-7	dsh-2	cacn-1
+pharyngeal-intestinal_valve		hlh-11	daf-16
+somatic_gonad		pgl-3	pgl-1	dgn-1	ajm-1

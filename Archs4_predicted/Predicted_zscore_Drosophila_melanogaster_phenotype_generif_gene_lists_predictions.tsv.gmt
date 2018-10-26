@@ -1,0 +1,23 @@
+aging_defective		AGO1	aPKC	TBPH	Hr39
+behavior_defective		CalpA	hid	AGO1	TBPH	Rac2
+cell_adhesion_defective		tgo	CtBP
+cell_cycle_defective		CG8878
+cell_growth_defective		shg	CtBP	ed	N	Hr39
+cell_lethal		Pc	Hsf
+cell_migration_defective		CtBP
+cell_polarity_defective		shg
+cell_shape_defective		shg	ed	N	wg	Hr39	CtBP	tara	Dad	numb	hh
+chemical_sensitive		lush	CRMP	TBPH	comt	Actbeta	Pi3K59F
+circadian_rhythm_defective		shg	ed	Egfr	AGO1	dve	crb	CtBP	TBPH	Dad
+female_fertile		Fancd2
+fertile		Fancd2
+homeotic		AGO1	EcR
+hyperactive		H	CG8878	pico	E(Pc)
+male_fertile		Fancd2
+neurogenic_phenotype		CtBP	shg
+paralytic		Actbeta	comt	cpx	Rh7	Lis-1	alphaSnap	rg	CRMP	Tusp	trp
+radiation_resistant		mask	scrib
+radiation_sensitive		AGO1	stx	wts	EcR	mask	CTCF	Liprin-alpha	rg	DCP2
+sensory_perception_defective		Ir25a	per	tim	Actbeta	CalpA	Tusp
+sterile		AGO1	DCP2
+stress_response_defective		Bre1

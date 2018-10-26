@@ -1,0 +1,18 @@
+alimentary_system_development_variant		his-72	mec-8
+alimentary_system_morphology_variant		his-72	mec-8
+alimentary_system_physiology_variant		his-72	mec-8
+cell_component_morphology_variant		his-72	top-2
+cell_differentiation_variant		his-72
+cell_growth_variant		his-72
+cell_membrane_physiology_variant		unc-13
+cell_position_defective		ceh-22	exc-7
+cell_size_decreased		asd-1	htz-1
+developmental_morphology_variant		his-72	mec-8
+embryonic_cell_physiology_variant		htz-1
+epithelial_cell_physiology_variant		sol-1	unc-13	unc-104	sad-1
+nervous_system_morphology_variant		unc-13	unc-104	sol-1
+nervous_system_physiology_variant		sad-1	sol-1	unc-104
+neuron_physiology_variant		unc-13	unc-104	sol-1
+oocyte_physiology_variant		sad-1	dop-3	ptb-1	mps-1
+reproductive_system_development_variant		pha-4	mec-8
+reproductive_system_morphology_variant		top-2

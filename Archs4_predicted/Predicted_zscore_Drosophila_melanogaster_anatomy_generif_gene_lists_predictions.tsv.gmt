@@ -1,0 +1,91 @@
+abdomen		GlyRS	brk	Mlh1	kug	fra	sd	N	kkv	grk	br
+adipose_system		Galk	cry	Nep4	CG7510	Mbs	CdsA	tsl	Itp-r83A	ninaE	glob1	tau	atk	trp	Sac1	mib2	Cyp6g1	par-1
+adult		ed	Inx2	N	shg	Wnt5	noc	AGO1	EcR	Cirl	drl
+adult_circulatory_system		shg	Inx2	Eph	AGO1	ed	noc	Wnt5	fz	EcR
+adult_dorsal_vessel		CG7510	CdsA	par-1	Lar	shi	Itp-r83A	Pkn	wit	Ggamma1	GluRIIA	Sema1a	AGO1	Eph
+adult_heart		CG7510	CdsA	par-1	Lar	shi	Itp-r83A	Pkn	wit	Ggamma1	GluRIIA	Sema1a	AGO1	Eph
+adult_integumentary_system		Inx2	ed	shg	N	wg	Inx3	Wnt5	ci	en	ds	hh	Cirl	kkv	drl
+adult_muscle_system		Inx2	Inx3	shg	ci	ed	en	hh	Doc2	noc	drl
+adult_nervous_system		AGO1	Sema1a	Rbfox1	Eph	noc	ed	bi	dlg1	Inx2	numb	emc
+adult_sense_organ		AGO1	ed	drl	noc	nmo	Sema1a	dlg1	ths
+adult_tagma		Inx2	ed	shg	Inx3	wg	N	Wnt5	ci	drl	en	ds	hh	noc	mirr	Cirl
+adult_tracheal_system		dally	fra	sd	kug	vn
+alimentary_canal		Egfr	shg	ed	Cirl	Inx2	pk	dally	goe	gukh	zip	kug	ci
+antennal_sense_organ		AGO1	Lar	Rbfox1	dlg1	Sema1a	toy	emc	EcR	aPKC	Set1	ey	nmo	Toll-6
+blastoderm_embryo		POSH	Marcal1	pav	mei-41	tam
+chemosensory_sensory_organ		noc	ed	Inx2	Inx3	hth	fz	hh	hbs	dally	drl	nmo	shg
+chorion		G9a	CycA	ovo	smg	CycE	vas	tor	Duox	Acf	Girdin	fs(1)N	Rab23	fs(1)M3	Ptp69D	zld	chm	hop	Bre1	BigH1	Su(var)3-3	hb	chif	bam	da	Marcal1	polo
+circulatory_system		ed	shg	Inx2	sdk	crb	ci	noc	fz
+cleavage_stage_embryo		Doc1	Doc3	Inx3	Doc2	fz	Dl	Su(H)	Inx2	Btk29A	wg	shg	nmo
+compartment		ed	Inx2	shg	Inx3	crb	ci	ds	goe	en	sdk	mirr	N	dlp	pk	noc	kkv	salm	sano	zip	Dll
+compartment_boundary		Inx2	shg	ed	ci	Inx3	drl	ds	en	goe	ara	noc	Egfr	numb
+compound_sense_organ		ed	Inx2	B-H1	hbs	so	noc	drl	emc	shg	AGO1
+cuticle		Cyp301a1	dy	m	knk	tyn	kkv	ed	Nep2	Dll	hbs	tnc	Inx2	ds	Cirl	Wnt5	Rab23	hh	pk	B-H1	Egfr	sano	wg	shf	shg	serp	Inx3	drl	goe
+cycle_16_embryo		polo	Marcal1	CycE	Bre1	Su(var)3-3	bam	prg	Acf	tam
+developing_embryonic_structure		Wnt5	Lam	Rok
+developmental_compartment		ed	wg	shg	ds	Inx3	ci	en	crb	goe	Dll	noc	drl	N	Inx2	dally	kkv	mirr	hth	knk	rn
+digestive_system		Egfr	shg	ed	Cirl	Inx2	pk	dally	goe	gukh	zip	kug	ci
+dorsal_closure_embryo		ci	scrib	ds	Inx2	kug	dally	goe	Cirl	ed	Eph	wit	Itp-r83A	Pkn	wg	sano
+egg		CycA	Marcal1	Acf	G9a	Girdin	CycE	ovo	drosha	Bre1	Duox	Rab23	polo	chm	Su(var)3-3	Hira	hop
+embryo		Bre1	egg	pnut
+endocrine_cell		trr	kug	aop	Wnt5	mei-41	trio	Lam	Akap200	Dscam1
+epithelium		Inx2	ed	ci	Inx3	Egfr	emc	noc	ds	goe	shg	numb	Cirl	Wnt5	hbs	drl
+external_sensory_organ		ed	Wnt5	shg	Inx2	drl	N	AGO1	numb	fz	gukh	hbs
+eye_disc_anterior_to_the_morphogenetic_furrow		shg	Dl	zld	Inx3	Inx2	ed	Doc2	N	ci	chif	Bre1
+eye_disc_posterior_to_the_morphogenetic_furrow		Inx2	Inx3	ed	shg	ci	wg	noc	en	ds	N	drl	hh	salm	Dll	hbs	Wnt5	goe
+female_organism		Lam	Wnt5	gro
+female_reproductive_system		Wnt5	Lam	gro
+fertilized_egg		Marcal1	polo	pav	tam	Hira	Cks30A	asf1	drosha
+foregut		eya	B-H1	pk	hbs	sano	Cirl	wit	ths	B-H2	ed	gukh	so	Egfr	Inx2	Pkn	crb	noc	ato
+ganglion		shg	ed	gukh	noc	Inx2	drl	klu	esg	dlp	Dl	Egfr
+gastrula_embryo		cnk	Lam	aop	Akap200	gro	Rok
+germ_layer		shg	N	Dl
+germarium		Lam	gro	drosha
+germline_cyst		gro	Bre1	pnut	polo	drosha	egg	Su(var)3-3
+gonadal_sheath		shi	Ggamma1	Nep3	tau	wit	Lar	dlg1	Rh7	Pph13	ths	Sema1a	trp	sgg	Sidpn	CG7510	Nep4	CdsA
+gut		Egfr	Cirl	dally	ed	wit	pk	Inx2	gukh	shg	goe	crb
+haltere		Inx2	ed	wg	Inx3	en	ds	ci	noc	shg	drl	salm	kkv	Egfr	knk	dally	mirr	hbs	N	eyg	goe
+head		AGO1	ed	hbs	drl	noc	emc	Sema1a	bi	Inx2
+hindgut		Ca-alpha1D	oc	Piezo	wit	hiw	dlg1	sgg	ths	sli	sdt	Pkn	Ptp52F	cac
+imaginal_disc		Inx2	ed	shg	Inx3	ci	N	noc	numb	drl	hbs	Dl
+imaginal_tissue		shg	Inx2	ed	N	Wnt5	ci	Inx3
+integumentary_system		ed	Inx2	shg	Wnt5	N	wg	Inx3	ci	ds	en	kkv	Cirl	hh	hbs
+internal_sense_organ		scrib	Pkn	robo1	Med	Pph13	scaf	ninaE	par-1
+larva		ed	shg	Inx2	Inx3	ci	noc	N	goe	numb	dlp	hbs
+late_embryo		Su(H)	Sep5	Mad	hpo	Cdk1	D	Doc1	Bre1	zen	pnut	FRG1	alpha-Cat	egg	mol	Ras85D	Doc2
+lateral_ectoderm		Wnt5	robo1	pod1	aop	Lam	Akap200
+leg		ed	hth	noc	Inx2	hbs	wg	Egfr	hh	drl	mirr	B-H1	salm	kkv	Inx3	shg	crb	Cirl	gukh	sano	ds	knk
+male_organism		prg	l(2)gl	Arp2	spn-F	STUB1	IKKepsilon	Mad	Cdk1
+male_reproductive_system		Marcal1	asf1	tam	prg	Arp2	Su(var)3-3	polo	Hira
+mechanosensory_sensory_organ		shg	sdk	Bre1	N	ed	CycE	pod1
+midgut		trio	shot	sli	Ptp52F	dia	drpr	kug	zip	crb	sdk	Myo31DF	Itp-r83A	l(2)gl	Egfr	zfh2
+mitotic_domain		Lam	mei-41	Acf	Marcal1	cnk
+muscle_system		noc	Inx2	drl	Inx3	ed	en	salm	shg	ci	numb	hh
+nervous_system		AGO1	Eph	Sema1a	emc	EcR	dlg1	aPKC	noc	bi
+neurogenic_region		shg	Dl	Su(H)	N	Inx2	Inx3	gro	dlp	fz
+perineurium		sano	emc	kug	dally	Wnt5	Cirl	goe	dlp	Inx2	pk	Eph	ci	fra	sd	Egfr	ed
+peritrophic_membrane		drpr	RhoGEF2	dia	Itp-r83A	par-1	trio	kug	Ire1	foxo	Sec5	Myo31DF	shot	scrib	Fancm	Stat92E
+pharate_adult		Khc	casp	Trxr-1	Cp1	Myo31DF	AGO2	mop	Hira	step	yki	fs(1)Yb	trr	msps	Pi3K92E	pav	bel	aop	E2f1	mei-41	Graf	Akap200	sqh
+photoreceptor		ed	AGO1	Inx2	drl	noc	shg	hbs	numb	emc
+posterior_ectoderm		Dl	shg	N	Inx3	Inx2	fz	ed	ci
+prepupa		sdk	hth	ed	serp	crb	hbs	rn	EcR	CanA1	oc	cac	sli	pasha	nompC
+primordium		shg	N
+proventriculus		kug	dally	scrib	Egfr	Cirl	sd	fra	EcR	gukh	drpr	Wnt5	pk
+pupa		AGO1	Wnt5	EcR	emc	Set1
+pupal_integumentary_system		Girdin	POSH	hop	chif
+pupal_nervous_system		AGO1	Sema1a	Lar	Rbfox1	SoxN	emc	aPKC	bi	nmo	Eph
+reproductive_system		Wnt5	Lam	gro
+retina		AGO1	ed	Inx2	Eph	emc	drl	shg	numb	noc
+sensillum		Ir25a	Ir76b	Obp69a	Gr33a	Nep2	oc	Ca-alpha1D	cac	nompC	CanA1	Ir93a	Ggamma1	hth	ppk19	sdt	Piezo	pasha	Dll	Wnt4
+somatic_cell		Wnt5
+somatic_precursor_cell		shg	wg	ed	Inx3	Inx2	sdk	N	egg
+syncytium		kug	kis	Set1	par-1	Eph	trio	Girdin	PDZ-GEF	chif	Ptp69D	AGO1	EcR	Pak
+thorax		Inx2	ed	shg	N	wg	Wnt5	Inx3	ci	en	ds	hh	drl
+tracheal_system		shg	ed	fra	dally	Inx2	goe	Cirl	kkv	kug	vn	sano	noc	pk	wg	N	Wnt5
+trunk_ectoderm		shg	Dl	N
+unfertilized_egg		mei-41
+ventral_ectoderm		Su(H)	Cdk1	hpo	Sep5	Bre1	pnut	polo	Su(var)205	gro	FRG1	egg	Doc1	Prp19	Cbl	mof	sna	Ras85D
+vitelline_membrane		fs(1)M3	Duox	ovo	dec-1	G9a	vas	smg	CycA	chif	Cp36	fs(1)N	sdk	Vm26Ab	Rab23	BigH1	shg	Ptp69D
+wing		Inx2	shg	Inx3	wg	N	ci	Wnt5	en	ed	ds	hh
+wing_blade		Inx3	wg	ci	Doc2	shg	Doc1	Inx2	Sep5	Doc3	Brd	neur	hpo	Su(H)	en
+wing_hinge		Inx2	Inx3	shg	wg	en	ci	ed	N	Wnt5	ds	hh	drl	salm	Doc2	Dl	goe
